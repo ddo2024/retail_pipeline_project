@@ -1,0 +1,12 @@
+retail_dbt:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: retail-postgres
+      user: postgres
+      password: pgpass
+      port: 5432
+      dbname: retail_dw
+      schema: public
+      threads: 4

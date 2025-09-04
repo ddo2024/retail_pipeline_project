@@ -1,0 +1,30 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: public
+    database: retail_dw
+    tables:
+      - name: customers
+      - name: products
+      - name: employees
+      - name: stores
+      - name: categories
+      - name: brands
+      - name: suppliers
+      - name: loyalty_programs
+      - name: sales_transactions
+      - name: sales_items
+      - name: payments
+      - name: inventory
+      - name: stock_movements
+      - name: purchase_orders
+      - name: shipments
+      - name: returns
+      - name: customer_feedback
+      - name: store_visits
+      - name: pricing_history
+      - name: promotions
+      - name: campaigns
+      - name: discount_rules
+      - name: tax_rules

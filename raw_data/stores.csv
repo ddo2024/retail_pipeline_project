@@ -1,0 +1,21 @@
+store_id,name,location,manager_id
+1,Store 1,Location 1,26
+2,Store 2,Location 2,47
+3,Store 3,Location 3,76
+4,Store 4,Location 4,26
+5,Store 5,Location 5,100
+6,Store 6,Location 6,51
+7,Store 7,Location 7,45
+8,Store 8,Location 8,25
+9,Store 9,Location 9,86
+10,Store 10,Location 10,17
+11,Store 11,Location 11,72
+12,Store 12,Location 12,85
+13,Store 13,Location 13,59
+14,Store 14,Location 14,83
+15,Store 15,Location 15,31
+16,Store 16,Location 16,94
+17,Store 17,Location 17,47
+18,Store 18,Location 18,75
+19,Store 19,Location 19,85
+20,Store 20,Location 20,40

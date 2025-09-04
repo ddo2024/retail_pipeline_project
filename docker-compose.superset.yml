@@ -1,0 +1,34 @@
+services:
+  superset:
+    image: apache/superset:latest
+    container_name: retail-superset
+    env_file: [.env]
+    environment:
+      - PATH=/app/python_env/bin:$PATH     # make 'superset' CLI available
+    ports:
+      - "8088:8088"                        # UI at http://localhost:8088
+    networks: [ retail_net ]
+    volumes:
+      - superset_home:/app/superset_home   # reuse existing metadata
+
+  # One-time initializer (creates admin, migrates DB, bootstraps)
+  superset-init:
+    image: apache/superset:latest
+    depends_on: [ superset ]
+    env_file: [.env]
+    environment:
+      - PATH=/app/python_env/bin:$PATH
+    networks: [ retail_net ]
+    volumes:
+      - superset_home:/app/superset_home
+
+
+
+volumes:
+  superset_home:
+    external: true
+    name: superset_home                 # <- this is the existing volume you verified
+
+networks:
+  retail_net:
+    external: true                      # <- you already created this network

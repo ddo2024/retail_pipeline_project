@@ -1,0 +1,145 @@
+version: 2
+
+models:
+
+  - name: silver_sales_transactions
+    description: "Cleaned sales transaction headers"
+    columns:
+      - name: transaction_id
+        tests: [not_null, unique]
+      - name: customer_id
+        tests:
+          - relationships:
+              to: ref('silver_customers')
+              field: customer_id
+      - name: store_id
+        tests:
+          - relationships:
+              to: ref('silver_stores')
+              field: store_id
+      - name: transaction_date
+        tests: [not_null]
+
+  - name: silver_sales_items
+    description: "Cleaned sales line items"
+    columns:
+      - name: item_id
+        tests: [not_null, unique]
+      - name: transaction_id
+        tests:
+          - relationships:
+              to: ref('silver_sales_transactions')
+              field: transaction_id
+      - name: product_id
+        tests:
+          - relationships:
+              to: ref('silver_products')
+              field: product_id
+
+  - name: silver_returns
+    description: "Cleaned product returns"
+    columns:
+      - name: return_id
+        tests: [not_null, unique]
+      - name: item_id
+        tests:
+          - relationships:
+              to: ref('silver_sales_items')
+              field: item_id
+      - name: return_date
+        tests: [not_null]
+
+  - name: silver_products
+    description: "Cleaned product dimension"
+    columns:
+      - name: product_id
+        tests: [not_null, unique]
+      - name: category_id
+        tests:
+          - relationships:
+              to: ref('silver_categories')
+              field: category_id
+      - name: brand_id
+        tests:
+          - relationships:
+              to: ref('silver_brands')
+              field: brand_id
+
+  - name: silver_categories
+    description: "Cleaned product categories"
+    columns:
+      - name: category_id
+        tests: [not_null, unique]
+      - name: category_name
+        tests: [not_null]
+
+  - name: silver_brands
+    description: "Cleaned product brands"
+    columns:
+      - name: brand_id
+        tests: [not_null, unique]
+      - name: name
+        tests: [not_null]
+
+  - name: silver_stores
+    description: "Cleaned stores dimension"
+    columns:
+      - name: store_id
+        tests: [not_null, unique]
+      - name: store_name
+        tests: [not_null]
+
+  - name: silver_inventory
+    description: "Cleaned inventory snapshots"
+    columns:
+      - name: store_id
+        tests:
+          - relationships:
+              to: ref('silver_stores')
+              field: store_id
+      - name: product_id
+        tests:
+          - relationships:
+              to: ref('silver_products')
+              field: product_id
+      - name: last_updated
+        tests: [not_null]
+
+  - name: silver_stock_movements
+    description: "Cleaned stock movements"
+    columns:
+      - name: movement_id
+        tests: [not_null, unique]
+      - name: product_id
+        tests:
+          - relationships:
+              to: ref('silver_products')
+              field: product_id
+      - name: store_id
+        tests:
+          - relationships:
+              to: ref('silver_stores')
+              field: store_id
+      - name: movement_date
+        tests: [not_null]
+
+  - name: silver_customers
+    description: "Cleaned customers dimension"
+    columns:
+      - name: customer_id
+        tests: [not_null, unique]
+      - name: loyalty_program_id
+        tests:
+          - relationships:
+              to: ref('silver_loyalty_programs')
+              field: loyalty_program_id
+      - name: created_at
+        tests: [not_null]
+
+  - name: silver_loyalty_programs
+    description: "Cleaned loyalty programs"
+    columns:
+      - name: loyalty_program_id
+        tests: [not_null, unique]
+      - name: loyalty_program_name
+        tests: [not_null]

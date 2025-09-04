@@ -1,0 +1,57 @@
+# -----------------------------
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# -----------------------------
+# Airflow
+logs/
+airflow.cfg
+airflow.db
+unittests.cfg
+
+# -----------------------------
+# dbt
+target/
+dbt_packages/
+logs/
+
+# -----------------------------
+# Docker
+*.pid
+*.sock
+*.db
+*.tar
+.docker/
+docker-compose.override.yml
+
+# -----------------------------
+# Environment & secrets
+.env
+.env.*        # any env variations
+*.key
+*.pem
+
+# -----------------------------
+# Data files
+*.csv          # all your CSV data files
+*.zip
+*.xlsx
+*.parquet
+data/          # if you keep data inside a folder
+
+# -----------------------------
+# VS Code
+.vscode/       # editor settings folder
+
+# -----------------------------
+# OS
+.DS_Store      # created on macOS (safe to ignore)
+Thumbs.db      # created on Windows (safe to ignore)
+
+

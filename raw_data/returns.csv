@@ -1,0 +1,5001 @@
+return_id,item_id,reason,return_date
+1,37530,Wrong item,2100-06-02
+2,3636,Wrong item,2020-12-25
+3,31810,Customer changed mind,2023-09-23
+4,56910,Customer changed mind,2022-07-02
+5,30552,Customer changed mind,2022-06-01
+6,31975,Wrong item,2023-03-29
+7,66218,Customer changed mind,2023-08-30
+8,34369,Damaged,2021-03-02
+9,45553,Damaged,2022-02-21
+10,75539,Damaged,2023-03-19
+11,99621,Wrong item,2088-04-07
+12,30715,Damaged,2023-08-27
+13,73285,Customer changed mind,2022-09-11
+14,13903,Customer changed mind,2020-12-28
+15,6076,Wrong item,2021-05-04
+16,43903,Wrong item,2022-08-28
+17,22085,Damaged,2022-10-28
+18,91406,Wrong item,2070-01-03
+19,80086,Damaged,2021-01-29
+20,78635,Damaged,2022-06-04
+21,23311,Customer changed mind,2023-08-07
+22,88026,Wrong item,2020-08-14
+23,21964,Damaged,2020-07-14
+24,98552,Damaged,2020-11-08
+25,26630,Damaged,2021-08-10
+26,78184,Customer changed mind,2023-08-12
+27,65145,Customer changed mind,2023-12-10
+28,28362,Customer changed mind,2023-05-15
+29,83086,Customer changed mind,2033-00-28
+30,34185,Damaged,2022-08-03
+31,85149,Customer changed mind,2020-06-18
+32,30520,Customer changed mind,2023-11-07
+33,91235,Wrong item,2020-01-25
+34,28078,Customer changed mind,2023-01-24
+35,2652,Damaged,2023-09-18
+36,31548,Damaged,2022-03-26
+37,74289,Wrong item,2020-01-16
+38,50727,Wrong item,2021-07-17
+39,11865,Wrong item,2023-09-07
+40,17666,Wrong item,2020-02-18
+41,59990,Damaged,2021-04-10
+42,57458,Customer changed mind,2021-06-25
+43,10597,Wrong item,2021-07-14
+44,94308,Wrong item,2020-06-28
+45,96271,Customer changed mind,2020-12-11
+46,40011,Damaged,2022-11-05
+47,63617,Wrong item,2022-11-04
+48,54003,Wrong item,2023-06-12
+49,93905,Wrong item,2021-09-01
+50,61994,Customer changed mind,2022-05-22
+51,17876,Customer changed mind,2022-01-27
+52,11828,Damaged,2020-12-07
+53,67120,Wrong item,2055-06-17
+54,35514,Customer changed mind,2020-09-14
+55,91445,Damaged,2020-01-12
+56,68082,Damaged,2021-08-28
+57,99658,Customer changed mind,2048-04-20
+58,75331,Damaged,2020-03-08
+59,9417,Damaged,2022-05-15
+60,61717,Customer changed mind,2020-11-19
+61,25607,Wrong item,2021-03-31
+62,9249,Damaged,2023-07-07
+63,8241,Damaged,2077-00-14
+64,64285,Customer changed mind,2021-11-02
+65,3811,Customer changed mind,2021-12-22
+66,82168,Wrong item,2020-10-10
+67,22627,Customer changed mind,2021-11-27
+68,16879,Wrong item,2050-10-01
+69,28004,Wrong item,2020-08-21
+70,93945,Customer changed mind,2022-10-27
+71,16066,Damaged,2023-08-19
+72,76092,Wrong item,2021-06-11
+73,18758,Damaged,2021-11-11
+74,11745,Wrong item,2020-01-05
+75,45467,Damaged,2023-01-13
+76,6341,Customer changed mind,2023-01-07
+77,2801,Customer changed mind,2059-05-18
+78,30445,Wrong item,2020-06-15
+79,66149,Wrong item,2020-10-25
+80,45329,Wrong item,2022-06-22
+81,7062,Customer changed mind,2020-06-26
+82,44319,Damaged,2021-12-02
+83,41634,Wrong item,2022-10-01
+84,55934,Damaged,2021-10-18
+85,34599,Customer changed mind,2020-02-11
+86,34395,Damaged,2020-03-15
+87,26596,Damaged,2022-04-21
+88,13992,Wrong item,2022-11-03
+89,9444,Wrong item,2020-07-08
+90,85283,Customer changed mind,2020-10-01
+91,87287,Damaged,2022-06-21
+92,46774,Customer changed mind,2022-06-20
+93,225,Damaged,2023-12-18
+94,96618,Customer changed mind,2022-09-11
+95,60710,Damaged,2020-03-17
+96,67592,Customer changed mind,2021-04-23
+97,9299,Wrong item,2022-08-04
+98,77793,Customer changed mind,2020-03-16
+99,23356,Damaged,2020-12-17
+100,31177,Wrong item,2021-07-08
+101,74501,Wrong item,2022-05-25
+102,27973,Damaged,2022-11-10
+103,16318,Wrong item,2023-11-28
+104,44324,Wrong item,2021-07-31
+105,76658,Customer changed mind,2023-02-08
+106,29216,Damaged,2022-10-04
+107,31280,Customer changed mind,2020-11-22
+108,93229,Wrong item,2022-04-18
+109,46305,Wrong item,2020-01-03
+110,58554,Wrong item,2021-11-25
+111,1553,Wrong item,2020-01-10
+112,84399,Customer changed mind,2021-11-07
+113,43524,Damaged,2020-04-08
+114,34796,Wrong item,2020-10-04
+115,40570,Customer changed mind,2021-06-16
+116,58398,Damaged,2020-03-11
+117,88860,Wrong item,2023-10-07
+118,8796,Wrong item,2022-05-11
+119,43131,Customer changed mind,2020-10-01
+120,33177,Damaged,2021-07-17
+121,43190,Customer changed mind,2023-08-30
+122,24343,Wrong item,2022-05-25
+123,29256,Damaged,2020-11-29
+124,71896,Wrong item,2023-12-13
+125,90294,Damaged,2021-09-08
+126,35674,Customer changed mind,2022-06-22
+127,16854,Wrong item,2020-03-30
+128,45587,Damaged,2020-05-12
+129,75415,Customer changed mind,2057-04-26
+130,33331,Customer changed mind,2023-08-09
+131,59138,Customer changed mind,2021-03-16
+132,3096,Customer changed mind,2021-11-17
+133,98732,Customer changed mind,2037-10-28
+134,96601,Wrong item,2022-03-21
+135,76979,Customer changed mind,2023-02-08
+136,42945,Wrong item,2020-12-12
+137,19892,Wrong item,2020-10-02
+138,6638,Wrong item,2021-11-17
+139,46580,Wrong item,2023-02-21
+140,22860,Customer changed mind,2021-03-30
+141,64663,Damaged,2021-02-11
+142,12219,Damaged,2020-11-30
+143,63266,Damaged,2021-07-30
+144,63133,Wrong item,2022-05-10
+145,35768,Damaged,2022-12-08
+146,99070,Customer changed mind,2068-09-16
+147,92514,Wrong item,2022-02-07
+148,95856,Wrong item,2023-11-14
+149,40214,Customer changed mind,2020-07-09
+150,16582,Customer changed mind,2082-10-05
+151,17511,Damaged,2020-01-04
+152,24746,Wrong item,2022-01-03
+153,2956,Damaged,2042-03-15
+154,56942,Wrong item,2021-09-12
+155,64698,Customer changed mind,2021-07-09
+156,65738,Wrong item,2023-07-16
+157,3584,Wrong item,2021-05-13
+158,31912,Wrong item,2023-08-07
+159,11215,Customer changed mind,2023-01-07
+160,49534,Customer changed mind,2023-11-17
+161,22264,Wrong item,2020-05-21
+162,39314,Damaged,2023-01-22
+163,9958,Damaged,2020-01-31
+164,84712,Wrong item,2022-08-16
+165,62347,Damaged,2023-10-02
+166,22100,Customer changed mind,2022-02-28
+167,34196,Damaged,2033-00-21
+168,63319,Customer changed mind,2020-01-29
+169,6764,Damaged,2020-02-12
+170,8826,Wrong item,2023-11-30
+171,83089,Damaged,2023-01-10
+172,8624,Wrong item,2023-09-12
+173,56332,Customer changed mind,2021-10-19
+174,85645,Wrong item,2023-12-04
+175,9535,Wrong item,2020-02-28
+176,94435,Customer changed mind,2023-08-03
+177,7128,Damaged,2021-07-01
+178,93093,Customer changed mind,2021-06-17
+179,52725,Damaged,2020-11-17
+180,5868,Damaged,2020-09-18
+181,37371,Wrong item,2020-04-23
+182,25539,Damaged,2022-02-20
+183,30623,Wrong item,2020-01-05
+184,19805,Damaged,2023-11-23
+185,76024,Damaged,2060-00-07
+186,72908,Customer changed mind,2023-06-09
+187,51003,Customer changed mind,2020-11-20
+188,75560,Wrong item,2021-09-26
+189,6264,Wrong item,2023-10-28
+190,75082,Damaged,2021-01-05
+191,9969,Damaged,2021-10-26
+192,14915,Wrong item,2023-01-26
+193,41134,Customer changed mind,2076-10-26
+194,70433,Damaged,2023-01-20
+195,52590,Damaged,2022-10-01
+196,75209,Wrong item,2023-02-18
+197,36413,Customer changed mind,2020-08-13
+198,59980,Damaged,2020-08-02
+199,44023,Damaged,2023-11-13
+200,84833,Damaged,2022-08-19
+201,26995,Customer changed mind,2020-08-20
+202,60469,Customer changed mind,2022-04-22
+203,92870,Damaged,2093-10-25
+204,1099,Customer changed mind,2023-10-22
+205,90102,Wrong item,2023-09-17
+206,47252,Wrong item,2020-12-14
+207,94515,Customer changed mind,2021-07-27
+208,21352,Customer changed mind,2021-08-03
+209,35872,Wrong item,2045-10-07
+210,56487,Customer changed mind,2020-10-15
+211,11495,Customer changed mind,2020-11-22
+212,46989,Damaged,2022-12-03
+213,95302,Wrong item,2022-04-16
+214,42828,Damaged,2022-05-16
+215,55213,Wrong item,2020-05-03
+216,84352,Customer changed mind,2022-07-20
+217,85961,Customer changed mind,2022-05-04
+218,61117,Customer changed mind,2022-04-09
+219,12821,Wrong item,2022-11-21
+220,72296,Wrong item,2022-03-25
+221,57992,Damaged,2023-11-11
+222,80971,Customer changed mind,2020-09-06
+223,29349,Customer changed mind,2023-01-24
+224,25814,Customer changed mind,2020-03-10
+225,91518,Wrong item,2021-04-13
+226,84471,Wrong item,2022-11-06
+227,5845,Wrong item,2022-08-09
+228,53591,Customer changed mind,2020-07-17
+229,9097,Customer changed mind,2022-02-25
+230,69990,Wrong item,2020-06-06
+231,4754,Damaged,2020-06-20
+232,40091,Customer changed mind,2023-06-20
+233,7203,Wrong item,2023-03-01
+234,69286,Wrong item,2040-06-01
+235,90020,Wrong item,2020-05-18
+236,32811,Customer changed mind,2020-07-26
+237,44952,Wrong item,2063-01-09
+238,24056,Customer changed mind,2020-08-30
+239,64321,Damaged,2022-06-27
+240,21783,Wrong item,2023-04-29
+241,92041,Wrong item,2020-04-11
+242,17593,Damaged,2023-12-10
+243,53421,Wrong item,2021-10-25
+244,6781,Wrong item,2021-01-25
+245,43924,Wrong item,2022-12-28
+246,42636,Wrong item,2020-04-23
+247,96649,Damaged,2022-05-30
+248,87222,Customer changed mind,2023-02-09
+249,19098,Damaged,2023-02-03
+250,45096,Wrong item,2044-05-04
+251,86928,Wrong item,2020-06-10
+252,55145,Damaged,2023-11-29
+253,70664,Customer changed mind,2020-01-13
+254,29194,Customer changed mind,2023-06-07
+255,72793,Damaged,2022-01-29
+256,80047,Damaged,2021-01-28
+257,74293,Customer changed mind,2023-02-13
+258,54184,Wrong item,2022-12-15
+259,15101,Damaged,2020-11-27
+260,65655,Damaged,2023-06-12
+261,53679,Customer changed mind,2030-08-17
+262,2013,Damaged,2020-03-24
+263,28759,Damaged,2022-08-20
+264,17118,Customer changed mind,2022-06-07
+265,50798,Customer changed mind,2022-05-17
+266,92898,Customer changed mind,2023-12-15
+267,42553,Customer changed mind,2021-07-25
+268,39328,Damaged,2023-08-23
+269,54580,Wrong item,2022-01-20
+270,80099,Wrong item,2022-12-01
+271,85558,Damaged,2020-05-17
+272,4179,Damaged,2021-03-04
+273,84243,Customer changed mind,2023-10-20
+274,36493,Wrong item,2021-04-03
+275,70539,Damaged,2021-09-24
+276,93633,Wrong item,2023-04-12
+277,11962,Wrong item,2053-06-25
+278,35979,Wrong item,2044-02-12
+279,55612,Customer changed mind,2021-10-22
+280,38582,Wrong item,2021-06-21
+281,21732,Damaged,2021-09-03
+282,250,Customer changed mind,2020-08-03
+283,93395,Customer changed mind,2022-10-12
+284,77418,Wrong item,2021-09-15
+285,33195,Wrong item,2020-08-18
+286,49375,Wrong item,2058-06-20
+287,83050,Wrong item,2022-02-24
+288,5953,Wrong item,2022-01-03
+289,12779,Customer changed mind,2020-06-18
+290,39158,Damaged,2021-09-03
+291,53061,Wrong item,2022-11-20
+292,97156,Customer changed mind,2023-12-27
+293,88455,Damaged,2023-08-01
+294,22851,Customer changed mind,2021-09-19
+295,72944,Damaged,2023-12-17
+296,20310,Damaged,2021-06-25
+297,88023,Customer changed mind,2023-05-17
+298,23914,Wrong item,2022-01-27
+299,40485,Damaged,2023-07-23
+300,20308,Damaged,2022-06-08
+301,56613,Wrong item,2021-05-07
+302,9115,Customer changed mind,2022-07-09
+303,20929,Wrong item,2021-05-13
+304,36284,Customer changed mind,2022-01-04
+305,23300,Damaged,2022-04-27
+306,80989,Wrong item,2022-06-23
+307,91785,Wrong item,2023-04-16
+308,24093,Customer changed mind,2020-12-16
+309,50791,Wrong item,2022-01-13
+310,66128,Damaged,2072-07-24
+311,27787,Customer changed mind,2022-09-07
+312,14514,Damaged,2021-10-14
+313,49643,Wrong item,2022-02-24
+314,77593,Customer changed mind,2021-01-28
+315,25541,Wrong item,2020-08-04
+316,32083,Customer changed mind,2023-01-02
+317,21912,Damaged,2056-02-01
+318,25978,Damaged,2023-12-21
+319,61561,Wrong item,2022-07-22
+320,59354,Damaged,2022-07-03
+321,69840,Customer changed mind,2021-06-30
+322,91799,Wrong item,2020-03-20
+323,34812,Damaged,2020-05-25
+324,69311,Wrong item,2021-01-18
+325,84250,Customer changed mind,2020-05-07
+326,8433,Customer changed mind,2022-08-02
+327,55489,Damaged,2020-05-12
+328,52562,Customer changed mind,2022-12-30
+329,30946,Damaged,2022-01-24
+330,36777,Damaged,2083-03-06
+331,63074,Customer changed mind,2022-08-12
+332,24064,Wrong item,2020-11-16
+333,41525,Damaged,2023-07-04
+334,82932,Damaged,2020-12-21
+335,17178,Customer changed mind,2023-06-22
+336,64983,Wrong item,2023-01-11
+337,22434,Wrong item,2020-10-08
+338,33350,Customer changed mind,2022-02-27
+339,48547,Wrong item,2021-05-09
+340,99776,Customer changed mind,2023-07-09
+341,54635,Wrong item,2021-05-16
+342,8767,Wrong item,2020-02-24
+343,16388,Customer changed mind,2022-12-23
+344,53961,Customer changed mind,2021-04-23
+345,68182,Wrong item,2023-02-07
+346,641,Customer changed mind,2021-01-22
+347,41265,Customer changed mind,2022-12-03
+348,8123,Damaged,2023-09-07
+349,23840,Damaged,2020-08-02
+350,41147,Wrong item,2020-11-17
+351,83396,Wrong item,2022-02-06
+352,12958,Customer changed mind,2023-05-28
+353,9179,Customer changed mind,2020-10-19
+354,87369,Damaged,2021-05-19
+355,49941,Damaged,2023-07-26
+356,58510,Wrong item,2023-08-01
+357,23501,Wrong item,2077-04-22
+358,64262,Wrong item,2023-06-05
+359,70854,Wrong item,2022-11-30
+360,51238,Wrong item,2021-02-08
+361,88040,Damaged,2022-09-15
+362,87120,Wrong item,2020-06-08
+363,4938,Damaged,2021-08-30
+364,36726,Wrong item,2023-09-26
+365,42208,Customer changed mind,2022-03-21
+366,37757,Wrong item,2021-11-01
+367,18501,Damaged,2023-04-17
+368,11352,Damaged,2023-01-05
+369,18781,Damaged,2021-02-04
+370,19329,Customer changed mind,2020-11-26
+371,60467,Customer changed mind,2020-10-26
+372,65665,Customer changed mind,2023-09-15
+373,24680,Damaged,2021-03-08
+374,34214,Customer changed mind,2023-07-26
+375,8853,Damaged,2021-11-26
+376,37404,Damaged,2022-07-13
+377,7917,Damaged,2023-02-16
+378,12343,Wrong item,2021-07-20
+379,78228,Wrong item,2054-10-14
+380,26408,Wrong item,2020-03-20
+381,33479,Customer changed mind,2023-07-11
+382,46852,Customer changed mind,2022-03-30
+383,63385,Customer changed mind,2080-00-01
+384,23115,Customer changed mind,2020-02-11
+385,59917,Customer changed mind,2023-03-07
+386,56103,Damaged,2022-10-30
+387,47530,Customer changed mind,2022-10-13
+388,14983,Wrong item,2022-01-16
+389,45436,Damaged,2020-05-22
+390,38519,Customer changed mind,2021-05-25
+391,18854,Customer changed mind,2021-06-16
+392,60134,Damaged,2023-02-01
+393,42769,Wrong item,2021-06-06
+394,20099,Damaged,2021-01-15
+395,19488,Customer changed mind,2020-03-14
+396,22290,Customer changed mind,2021-11-20
+397,13704,Customer changed mind,2023-04-17
+398,36210,Customer changed mind,2097-06-17
+399,81252,Customer changed mind,2081-08-19
+400,56482,Damaged,2023-05-23
+401,85409,Wrong item,2092-09-22
+402,94276,Wrong item,2020-07-10
+403,68677,Customer changed mind,2022-09-19
+404,50482,Damaged,2022-10-20
+405,79921,Wrong item,2022-11-29
+406,26008,Customer changed mind,2022-02-10
+407,81686,Wrong item,2022-11-19
+408,103,Damaged,2021-12-28
+409,97732,Wrong item,2023-02-23
+410,33808,Customer changed mind,2065-09-15
+411,11305,Damaged,2021-09-18
+412,11104,Wrong item,2022-08-19
+413,26749,Wrong item,2023-04-19
+414,98861,Customer changed mind,2022-05-23
+415,74857,Damaged,2020-09-27
+416,39011,Customer changed mind,2023-02-11
+417,31818,Wrong item,2020-05-19
+418,72006,Wrong item,2075-07-14
+419,27600,Damaged,2022-06-09
+420,70544,Wrong item,2022-03-26
+421,14699,Customer changed mind,2020-05-13
+422,69968,Damaged,2021-04-15
+423,84671,Wrong item,2022-07-15
+424,77561,Customer changed mind,2022-11-06
+425,62118,Damaged,2020-09-18
+426,92246,Wrong item,2020-05-17
+427,33079,Damaged,2021-04-30
+428,20299,Wrong item,2021-10-08
+429,17461,Wrong item,2023-10-15
+430,16236,Damaged,2049-00-10
+431,84726,Customer changed mind,2083-09-15
+432,78530,Customer changed mind,2023-10-04
+433,85853,Damaged,2022-11-28
+434,99349,Damaged,2021-03-11
+435,37228,Damaged,2022-06-24
+436,47990,Customer changed mind,2022-06-02
+437,26962,Wrong item,2023-07-15
+438,95698,Damaged,2023-03-28
+439,5967,Damaged,2022-12-10
+440,73871,Wrong item,2038-00-15
+441,33930,Damaged,2022-08-04
+442,27887,Wrong item,2020-10-18
+443,857,Wrong item,2020-02-06
+444,39719,Customer changed mind,2021-11-26
+445,97872,Damaged,2023-10-26
+446,36996,Customer changed mind,2023-09-03
+447,46227,Damaged,2022-09-03
+448,99116,Damaged,2021-05-23
+449,87647,Customer changed mind,2020-03-08
+450,93766,Customer changed mind,2021-12-25
+451,96804,Wrong item,2023-01-25
+452,10186,Customer changed mind,2021-12-02
+453,52007,Damaged,2021-07-20
+454,56146,Wrong item,2021-01-18
+455,74800,Damaged,2021-03-31
+456,34986,Damaged,2021-11-19
+457,8148,Customer changed mind,2021-11-24
+458,77157,Damaged,2022-05-18
+459,23586,Customer changed mind,2023-05-26
+460,44898,Damaged,2021-10-30
+461,13714,Damaged,2022-03-05
+462,34689,Wrong item,2020-08-27
+463,12179,Damaged,2021-01-06
+464,23268,Wrong item,2020-10-16
+465,37470,Customer changed mind,2022-03-09
+466,70294,Wrong item,2022-06-02
+467,53944,Customer changed mind,2021-03-26
+468,46236,Damaged,2023-10-20
+469,18608,Customer changed mind,2023-02-27
+470,54835,Damaged,2022-05-11
+471,18761,Customer changed mind,2020-12-12
+472,35221,Customer changed mind,2021-03-23
+473,53705,Damaged,2022-02-12
+474,90964,Customer changed mind,2022-03-12
+475,70555,Customer changed mind,2022-04-06
+476,50739,Customer changed mind,2023-11-16
+477,36713,Damaged,2020-09-16
+478,71624,Damaged,2022-12-10
+479,84853,Damaged,2022-09-16
+480,69339,Damaged,2020-12-16
+481,64047,Wrong item,2020-10-05
+482,78456,Damaged,2021-03-29
+483,31449,Customer changed mind,2021-08-11
+484,50974,Customer changed mind,2032-09-04
+485,83570,Wrong item,2022-06-18
+486,76448,Damaged,2020-12-31
+487,17795,Damaged,2020-06-10
+488,92408,Customer changed mind,2020-03-31
+489,61952,Customer changed mind,2022-08-04
+490,25167,Wrong item,2020-09-29
+491,36115,Customer changed mind,2023-05-27
+492,1357,Customer changed mind,2039-03-15
+493,14647,Damaged,2021-06-15
+494,24256,Damaged,2022-06-05
+495,44506,Wrong item,2022-03-14
+496,21690,Customer changed mind,2021-06-12
+497,32234,Customer changed mind,2023-01-12
+498,52716,Customer changed mind,2023-03-24
+499,97790,Wrong item,2023-11-20
+500,77616,Customer changed mind,2096-07-03
+501,97654,Damaged,2022-09-03
+502,81580,Wrong item,2023-03-02
+503,39019,Damaged,2023-06-09
+504,83424,Customer changed mind,2023-06-03
+505,65350,Customer changed mind,2023-05-02
+506,76066,Customer changed mind,2022-04-26
+507,30267,Damaged,2023-10-01
+508,45340,Wrong item,2021-11-27
+509,17349,Damaged,2021-08-26
+510,18457,Customer changed mind,2022-04-18
+511,19104,Wrong item,2022-10-01
+512,23328,Customer changed mind,2055-01-09
+513,67850,Wrong item,2020-06-05
+514,74749,Damaged,2020-04-20
+515,45602,Wrong item,2021-12-10
+516,39542,Wrong item,2020-06-02
+517,94978,Wrong item,2020-02-09
+518,45464,Damaged,2021-07-15
+519,94593,Customer changed mind,2023-02-17
+520,20822,Customer changed mind,2020-08-10
+521,95241,Customer changed mind,2022-08-14
+522,84600,Customer changed mind,2020-11-18
+523,5231,Damaged,2053-03-25
+524,81820,Wrong item,2020-09-03
+525,88892,Damaged,2022-06-11
+526,552,Damaged,2020-08-01
+527,33221,Customer changed mind,2020-09-22
+528,25746,Customer changed mind,2020-10-01
+529,18150,Damaged,2022-05-18
+530,7997,Wrong item,2023-01-25
+531,97586,Wrong item,2020-07-15
+532,32630,Wrong item,2023-07-16
+533,87149,Damaged,2021-04-22
+534,54506,Customer changed mind,2020-04-11
+535,10268,Damaged,2021-10-05
+536,7668,Damaged,2023-02-02
+537,27682,Wrong item,2023-01-09
+538,41262,Customer changed mind,2023-08-05
+539,20721,Customer changed mind,2020-07-14
+540,8609,Customer changed mind,2022-02-06
+541,72944,Wrong item,2021-08-26
+542,88565,Damaged,2021-01-21
+543,9794,Wrong item,2021-06-06
+544,65914,Damaged,2023-11-19
+545,86518,Wrong item,2022-10-22
+546,17430,Damaged,2022-07-16
+547,48936,Wrong item,2022-09-18
+548,23981,Customer changed mind,2022-03-28
+549,67072,Customer changed mind,2022-07-03
+550,25819,Customer changed mind,2023-12-08
+551,95312,Damaged,2023-08-17
+552,99698,Wrong item,2020-02-26
+553,25619,Damaged,2023-07-10
+554,42811,Damaged,2021-04-03
+555,57333,Wrong item,2022-10-14
+556,70294,Customer changed mind,2021-06-05
+557,8922,Wrong item,2022-09-19
+558,43002,Wrong item,2020-08-30
+559,99758,Damaged,2021-07-02
+560,47097,Wrong item,2020-01-14
+561,80630,Customer changed mind,2022-03-20
+562,25165,Damaged,2022-01-19
+563,45739,Customer changed mind,2020-01-09
+564,13539,Customer changed mind,2020-01-09
+565,12113,Damaged,2097-09-08
+566,94754,Damaged,2020-06-18
+567,92353,Customer changed mind,2021-11-30
+568,34940,Customer changed mind,2020-08-04
+569,73196,Wrong item,2020-08-19
+570,57063,Wrong item,2021-08-20
+571,54831,Wrong item,2020-03-21
+572,74981,Damaged,2032-06-23
+573,5090,Damaged,2023-09-23
+574,73936,Wrong item,2020-02-26
+575,11020,Wrong item,2072-06-04
+576,45372,Customer changed mind,2020-12-29
+577,53211,Customer changed mind,2021-09-01
+578,20940,Damaged,2021-03-22
+579,82852,Damaged,2023-08-24
+580,74460,Damaged,2021-11-30
+581,29498,Customer changed mind,2020-05-22
+582,68244,Damaged,2083-07-04
+583,41966,Customer changed mind,2023-08-09
+584,66569,Customer changed mind,2023-09-06
+585,52394,Damaged,2021-11-25
+586,41089,Customer changed mind,2021-01-17
+587,63735,Wrong item,2021-04-09
+588,89774,Customer changed mind,2048-06-10
+589,48506,Customer changed mind,2020-05-08
+590,93362,Wrong item,2021-06-19
+591,95675,Customer changed mind,2022-07-02
+592,91328,Wrong item,2098-09-25
+593,14912,Customer changed mind,2020-02-26
+594,77684,Damaged,2020-03-19
+595,39300,Damaged,2023-11-11
+596,98824,Customer changed mind,2023-06-06
+597,99284,Damaged,2020-06-09
+598,89967,Damaged,2020-10-18
+599,19325,Wrong item,2021-04-24
+600,74356,Wrong item,2021-12-15
+601,93682,Wrong item,2022-05-02
+602,91829,Wrong item,2023-01-24
+603,5824,Wrong item,2021-08-09
+604,92112,Wrong item,2020-04-10
+605,68093,Damaged,2022-09-23
+606,87164,Damaged,2023-06-06
+607,52967,Damaged,2023-01-19
+608,30238,Customer changed mind,2023-06-27
+609,5904,Wrong item,2021-11-14
+610,52478,Damaged,2022-09-24
+611,30679,Customer changed mind,2023-02-14
+612,91293,Damaged,2023-01-24
+613,97731,Damaged,2022-12-19
+614,68247,Damaged,2020-09-02
+615,24918,Damaged,2023-11-05
+616,12371,Wrong item,2021-06-17
+617,60872,Damaged,2023-01-06
+618,15735,Customer changed mind,2059-04-21
+619,43220,Customer changed mind,2021-02-04
+620,83239,Damaged,2022-11-18
+621,30999,Customer changed mind,2021-09-17
+622,44229,Customer changed mind,2020-12-02
+623,68764,Wrong item,2023-05-17
+624,91539,Customer changed mind,2033-10-06
+625,7898,Damaged,2021-02-09
+626,36605,Wrong item,2022-11-05
+627,99717,Wrong item,2020-02-08
+628,10154,Customer changed mind,2023-06-06
+629,47987,Customer changed mind,2022-10-23
+630,23339,Wrong item,2021-10-31
+631,240,Wrong item,2043-08-17
+632,94429,Damaged,2020-11-23
+633,93146,Customer changed mind,2022-05-07
+634,70141,Wrong item,2070-03-22
+635,20585,Damaged,2020-12-02
+636,3286,Wrong item,2023-02-20
+637,72729,Wrong item,2022-11-03
+638,60783,Damaged,2022-04-02
+639,53361,Wrong item,2022-05-27
+640,38018,Customer changed mind,2022-07-12
+641,83158,Wrong item,2021-11-06
+642,66369,Customer changed mind,2020-09-26
+643,29154,Wrong item,2022-10-23
+644,75489,Damaged,2021-11-03
+645,78578,Wrong item,2068-03-05
+646,66760,Customer changed mind,2020-09-04
+647,74739,Damaged,2020-07-02
+648,33856,Customer changed mind,2067-07-06
+649,18106,Damaged,2021-10-25
+650,21292,Damaged,2085-03-05
+651,61652,Wrong item,2021-02-24
+652,89105,Customer changed mind,2022-08-17
+653,64033,Customer changed mind,2023-09-04
+654,92128,Damaged,2021-09-20
+655,15762,Customer changed mind,2021-08-06
+656,61841,Wrong item,2059-05-22
+657,32108,Customer changed mind,2023-12-09
+658,47250,Customer changed mind,2020-09-11
+659,99623,Wrong item,2023-03-28
+660,92502,Damaged,2021-01-20
+661,36768,Damaged,2080-10-24
+662,51177,Customer changed mind,2023-11-27
+663,9779,Customer changed mind,2037-04-03
+664,25246,Wrong item,2020-07-11
+665,96599,Damaged,2021-02-19
+666,21975,Damaged,2021-09-10
+667,29075,Damaged,2088-01-21
+668,22180,Customer changed mind,2022-05-14
+669,61380,Customer changed mind,2020-05-16
+670,8546,Customer changed mind,2023-09-16
+671,77802,Wrong item,2021-04-18
+672,38016,Customer changed mind,2023-08-04
+673,17245,Damaged,2023-08-23
+674,47108,Wrong item,2023-05-09
+675,38648,Damaged,2022-10-18
+676,68368,Wrong item,2022-10-10
+677,52313,Customer changed mind,2022-09-09
+678,20532,Customer changed mind,2021-09-13
+679,15153,Wrong item,2022-01-08
+680,96142,Wrong item,2064-09-04
+681,55753,Customer changed mind,2023-07-29
+682,95333,Wrong item,2021-01-17
+683,53335,Damaged,2020-06-26
+684,47159,Customer changed mind,2023-03-06
+685,9385,Wrong item,2063-03-12
+686,88489,Customer changed mind,2020-05-10
+687,66129,Customer changed mind,2023-01-26
+688,6328,Damaged,2069-00-10
+689,7596,Customer changed mind,2023-10-14
+690,31289,Customer changed mind,2083-09-05
+691,58871,Damaged,2023-01-06
+692,47262,Damaged,2021-09-28
+693,81006,Customer changed mind,2022-02-02
+694,23417,Customer changed mind,2020-01-17
+695,90138,Wrong item,2023-02-25
+696,45082,Damaged,2021-01-10
+697,30081,Damaged,2022-12-30
+698,30108,Wrong item,2020-03-19
+699,62296,Wrong item,2020-07-13
+700,30500,Customer changed mind,2020-12-17
+701,13274,Damaged,2020-04-17
+702,7278,Wrong item,2021-10-19
+703,32579,Wrong item,2022-07-28
+704,5548,Damaged,2022-11-30
+705,21,Wrong item,2077-06-12
+706,721,Damaged,2022-07-26
+707,57794,Customer changed mind,2022-01-05
+708,62106,Wrong item,2021-04-12
+709,72278,Wrong item,2023-05-06
+710,12953,Wrong item,2020-11-22
+711,14767,Wrong item,2020-11-06
+712,95365,Damaged,2021-11-06
+713,43385,Customer changed mind,2021-07-08
+714,51690,Damaged,2089-09-12
+715,26034,Wrong item,2021-05-24
+716,88311,Damaged,2023-09-03
+717,72960,Customer changed mind,2020-04-13
+718,84792,Damaged,2023-01-21
+719,18908,Wrong item,2020-07-09
+720,24523,Wrong item,2021-01-25
+721,34089,Damaged,2022-06-26
+722,59699,Customer changed mind,2022-10-27
+723,12225,Customer changed mind,2020-06-25
+724,35634,Damaged,2079-03-19
+725,26875,Damaged,2061-01-19
+726,65905,Wrong item,2021-04-10
+727,86113,Customer changed mind,2022-09-30
+728,86357,Wrong item,2022-01-09
+729,58083,Wrong item,2020-06-13
+730,89444,Damaged,2020-03-17
+731,78260,Damaged,2095-10-21
+732,8827,Damaged,2023-03-30
+733,88708,Customer changed mind,2021-09-25
+734,84351,Damaged,2052-01-11
+735,46357,Wrong item,2020-10-12
+736,73208,Customer changed mind,2021-10-08
+737,89817,Customer changed mind,2021-09-12
+738,39868,Wrong item,2020-08-24
+739,58487,Customer changed mind,2020-09-14
+740,55970,Damaged,2023-03-01
+741,79382,Customer changed mind,2023-07-18
+742,64211,Damaged,2020-05-05
+743,39734,Wrong item,2023-10-10
+744,90841,Damaged,2081-10-11
+745,89695,Damaged,2021-08-06
+746,70919,Damaged,2021-06-07
+747,57780,Wrong item,2023-03-05
+748,68086,Wrong item,2023-03-26
+749,59124,Wrong item,2020-10-14
+750,94218,Wrong item,2020-07-17
+751,87906,Customer changed mind,2033-07-28
+752,26534,Damaged,2022-07-16
+753,72336,Customer changed mind,2021-08-02
+754,26673,Customer changed mind,2022-01-29
+755,36688,Wrong item,2020-06-04
+756,92785,Customer changed mind,2022-03-30
+757,51862,Customer changed mind,2023-12-19
+758,40854,Wrong item,2022-09-26
+759,63921,Wrong item,2023-04-24
+760,34954,Customer changed mind,2020-06-08
+761,99074,Customer changed mind,2021-04-27
+762,4147,Damaged,2020-08-25
+763,14149,Customer changed mind,2022-04-19
+764,29976,Customer changed mind,2022-09-14
+765,5030,Customer changed mind,2023-05-06
+766,12816,Wrong item,2023-05-25
+767,27987,Customer changed mind,2023-07-30
+768,21125,Damaged,2023-11-18
+769,28878,Wrong item,2021-10-24
+770,21036,Damaged,2033-00-04
+771,95369,Customer changed mind,2020-10-11
+772,66811,Damaged,2022-08-12
+773,62701,Wrong item,2020-12-26
+774,33095,Customer changed mind,2021-02-25
+775,82003,Customer changed mind,2021-03-28
+776,39029,Damaged,2023-01-06
+777,57856,Wrong item,2020-02-19
+778,62994,Damaged,2022-01-10
+779,47838,Wrong item,2023-11-25
+780,31305,Wrong item,2020-12-11
+781,64546,Wrong item,2023-08-31
+782,67250,Damaged,2022-03-16
+783,17802,Customer changed mind,2023-12-09
+784,19246,Customer changed mind,2022-06-14
+785,97795,Customer changed mind,2022-12-11
+786,18799,Wrong item,2022-02-14
+787,30764,Customer changed mind,2020-11-07
+788,43171,Damaged,2023-06-20
+789,41289,Wrong item,2021-12-17
+790,77761,Customer changed mind,2023-09-16
+791,6005,Wrong item,2020-12-24
+792,65142,Customer changed mind,2022-06-22
+793,17426,Customer changed mind,2022-02-24
+794,34598,Wrong item,2022-06-30
+795,2950,Wrong item,2021-06-26
+796,18129,Customer changed mind,2022-05-27
+797,96177,Damaged,2021-06-07
+798,27227,Wrong item,2020-02-04
+799,19375,Wrong item,2020-04-15
+800,42413,Wrong item,2020-03-06
+801,13026,Wrong item,2020-11-27
+802,32698,Customer changed mind,2021-10-15
+803,17060,Damaged,2022-09-08
+804,74840,Damaged,2021-03-30
+805,36887,Damaged,2020-03-06
+806,47201,Damaged,2023-01-19
+807,43671,Wrong item,2021-12-31
+808,95405,Wrong item,2021-08-17
+809,89723,Wrong item,2020-10-29
+810,91709,Customer changed mind,2040-03-03
+811,12881,Damaged,2022-07-28
+812,90280,Wrong item,2021-08-22
+813,17455,Damaged,2021-08-02
+814,36786,Damaged,2022-01-29
+815,77731,Damaged,2023-06-07
+816,67957,Wrong item,2022-02-10
+817,48561,Wrong item,2020-08-09
+818,18044,Wrong item,2022-07-01
+819,62612,Wrong item,2050-03-03
+820,89788,Damaged,2099-08-03
+821,23233,Wrong item,2020-08-30
+822,36681,Wrong item,2021-04-07
+823,66732,Wrong item,2023-04-05
+824,10708,Damaged,2023-07-15
+825,68711,Customer changed mind,2020-02-26
+826,19597,Damaged,2078-05-01
+827,14218,Customer changed mind,2020-06-14
+828,29079,Wrong item,2021-09-09
+829,78562,Wrong item,2022-10-04
+830,76768,Damaged,2020-05-31
+831,25761,Customer changed mind,2023-04-04
+832,60315,Damaged,2020-09-23
+833,18514,Damaged,2022-10-28
+834,53350,Damaged,2030-01-12
+835,75073,Damaged,2023-01-06
+836,58201,Customer changed mind,2061-04-10
+837,40189,Wrong item,2021-04-06
+838,86207,Damaged,2021-08-22
+839,97023,Wrong item,2039-01-21
+840,17398,Damaged,2023-12-07
+841,44300,Damaged,2023-10-13
+842,43566,Customer changed mind,2021-09-19
+843,49560,Wrong item,2023-03-03
+844,97756,Wrong item,2021-06-10
+845,11241,Wrong item,2023-10-21
+846,99225,Wrong item,2021-11-17
+847,89492,Damaged,2020-01-30
+848,11224,Customer changed mind,2023-01-04
+849,96208,Damaged,2023-12-16
+850,79870,Customer changed mind,2021-05-05
+851,99562,Damaged,2021-10-03
+852,90022,Damaged,2020-08-30
+853,49191,Customer changed mind,2021-01-16
+854,68457,Wrong item,2022-10-04
+855,27375,Wrong item,2020-11-23
+856,34554,Damaged,2023-08-27
+857,21756,Damaged,2054-02-15
+858,17088,Wrong item,2023-08-31
+859,83633,Damaged,2021-10-01
+860,19920,Damaged,2023-11-15
+861,5118,Wrong item,2083-05-23
+862,89953,Damaged,2021-08-12
+863,8102,Damaged,2021-11-19
+864,42483,Damaged,2022-05-23
+865,63709,Damaged,2023-09-16
+866,66598,Damaged,2021-04-24
+867,82264,Customer changed mind,2022-05-14
+868,90911,Wrong item,2035-05-05
+869,7131,Customer changed mind,2021-09-09
+870,57316,Damaged,2020-02-25
+871,81467,Wrong item,2066-00-06
+872,64067,Damaged,2021-06-24
+873,6368,Damaged,2021-05-16
+874,24382,Customer changed mind,2020-03-01
+875,90583,Damaged,2021-03-28
+876,29500,Damaged,2020-08-05
+877,12068,Damaged,2021-07-16
+878,3496,Wrong item,2021-02-09
+879,12551,Damaged,2023-04-13
+880,64509,Wrong item,2023-12-23
+881,42560,Wrong item,2023-08-06
+882,78470,Customer changed mind,2021-10-10
+883,37761,Customer changed mind,2065-03-01
+884,28743,Wrong item,2021-05-17
+885,99289,Damaged,2020-11-30
+886,24417,Wrong item,2020-02-22
+887,73817,Damaged,2021-08-02
+888,97601,Wrong item,2023-01-29
+889,47096,Damaged,2022-07-05
+890,77404,Damaged,2022-06-19
+891,14226,Damaged,2020-07-25
+892,95365,Customer changed mind,2023-11-04
+893,10610,Customer changed mind,2021-05-03
+894,88901,Customer changed mind,2020-12-28
+895,72897,Damaged,2021-03-30
+896,94913,Customer changed mind,2023-02-11
+897,5882,Customer changed mind,2020-06-28
+898,34329,Damaged,2020-06-11
+899,39377,Customer changed mind,2023-04-10
+900,17171,Damaged,2023-02-07
+901,74337,Damaged,2021-01-20
+902,16992,Wrong item,2020-01-04
+903,7204,Customer changed mind,2020-09-05
+904,96353,Wrong item,2020-07-11
+905,23500,Damaged,2022-10-26
+906,36368,Wrong item,2021-10-12
+907,85001,Wrong item,2021-02-21
+908,51171,Damaged,2022-02-26
+909,50507,Damaged,2020-02-27
+910,43663,Customer changed mind,2022-04-23
+911,43195,Customer changed mind,2022-11-17
+912,34467,Customer changed mind,2021-12-08
+913,88283,Wrong item,2021-07-07
+914,46281,Wrong item,2020-03-27
+915,55348,Wrong item,2021-07-23
+916,91140,Wrong item,2021-05-28
+917,55542,Customer changed mind,2022-10-18
+918,4018,Damaged,2067-06-15
+919,22948,Wrong item,2062-07-13
+920,6770,Customer changed mind,2020-05-03
+921,69721,Wrong item,2023-01-28
+922,41621,Customer changed mind,2023-11-19
+923,41705,Customer changed mind,2021-09-28
+924,70248,Customer changed mind,2023-03-18
+925,89101,Customer changed mind,2020-02-03
+926,61739,Wrong item,2020-08-08
+927,82357,Wrong item,2020-05-26
+928,9137,Wrong item,2023-09-16
+929,66100,Wrong item,2023-09-02
+930,71712,Wrong item,2020-04-14
+931,93354,Customer changed mind,2022-11-10
+932,48154,Damaged,2022-01-16
+933,14387,Customer changed mind,2022-11-24
+934,22488,Customer changed mind,2020-07-05
+935,95074,Damaged,2022-03-12
+936,35141,Wrong item,2023-09-21
+937,31553,Damaged,2099-06-11
+938,67607,Customer changed mind,2022-05-15
+939,33998,Customer changed mind,2082-08-05
+940,95610,Wrong item,2020-04-28
+941,54000,Customer changed mind,2034-06-11
+942,88050,Wrong item,2023-08-23
+943,9391,Wrong item,2021-12-30
+944,34632,Customer changed mind,2020-07-06
+945,43110,Customer changed mind,2021-10-19
+946,30703,Damaged,2022-10-28
+947,35124,Damaged,2020-07-25
+948,39055,Customer changed mind,2021-11-26
+949,72516,Customer changed mind,2020-10-01
+950,2334,Wrong item,2021-12-19
+951,35249,Wrong item,2021-05-04
+952,34765,Damaged,2022-02-23
+953,53044,Damaged,2021-01-23
+954,52605,Damaged,2023-05-13
+955,48066,Wrong item,2020-12-14
+956,37326,Damaged,2062-03-17
+957,40565,Damaged,2023-04-17
+958,71425,Customer changed mind,2022-01-05
+959,75114,Customer changed mind,2020-08-03
+960,13216,Damaged,2022-12-26
+961,13496,Wrong item,2020-09-19
+962,78264,Damaged,2022-04-05
+963,25389,Damaged,2020-12-16
+964,98002,Customer changed mind,2021-11-09
+965,57218,Damaged,2023-11-10
+966,60983,Wrong item,2023-05-01
+967,79014,Wrong item,2022-05-06
+968,21708,Damaged,2022-09-20
+969,60523,Customer changed mind,2070-10-27
+970,35997,Damaged,2020-04-10
+971,80054,Damaged,2020-11-19
+972,949,Customer changed mind,2074-05-17
+973,81313,Customer changed mind,2079-04-22
+974,84469,Damaged,2023-05-04
+975,93700,Customer changed mind,2022-10-16
+976,29615,Damaged,2023-05-09
+977,244,Wrong item,2020-04-17
+978,80356,Wrong item,2022-08-13
+979,37539,Damaged,2020-09-29
+980,35414,Wrong item,2020-10-26
+981,61841,Damaged,2023-09-28
+982,66981,Damaged,2021-01-07
+983,28983,Wrong item,2023-12-02
+984,42313,Damaged,2021-05-04
+985,60597,Customer changed mind,2060-07-22
+986,35067,Damaged,2023-10-20
+987,29529,Damaged,2020-05-01
+988,50284,Wrong item,2023-04-16
+989,61829,Damaged,2020-09-13
+990,8186,Damaged,2022-08-07
+991,32125,Damaged,2023-08-18
+992,90840,Customer changed mind,2022-12-04
+993,35099,Wrong item,2020-01-19
+994,25050,Customer changed mind,2020-09-13
+995,1743,Customer changed mind,2021-05-19
+996,17974,Damaged,2021-04-24
+997,26452,Customer changed mind,2020-11-23
+998,37785,Wrong item,2023-03-27
+999,99440,Damaged,2053-02-08
+1000,47445,Damaged,2022-07-14
+1001,19351,Damaged,2021-10-04
+1002,12726,Damaged,2065-01-07
+1003,68489,Damaged,2021-02-05
+1004,63725,Damaged,2023-06-29
+1005,34024,Damaged,2023-05-09
+1006,80577,Damaged,2022-09-13
+1007,9191,Wrong item,2022-03-18
+1008,81762,Wrong item,2021-05-30
+1009,36616,Wrong item,2021-06-16
+1010,39131,Damaged,2020-02-05
+1011,33201,Damaged,2020-12-25
+1012,81886,Customer changed mind,2021-06-09
+1013,90143,Damaged,2023-10-19
+1014,64559,Damaged,2022-05-07
+1015,52739,Customer changed mind,2023-01-15
+1016,20696,Wrong item,2020-05-08
+1017,14724,Customer changed mind,2022-11-13
+1018,78142,Wrong item,2023-04-20
+1019,57701,Wrong item,2056-04-22
+1020,56940,Damaged,2022-02-16
+1021,18812,Customer changed mind,2022-02-13
+1022,68915,Damaged,2022-10-17
+1023,41827,Damaged,2020-10-28
+1024,55152,Customer changed mind,2023-06-03
+1025,25702,Wrong item,2022-02-06
+1026,98446,Damaged,2079-00-27
+1027,98067,Customer changed mind,2020-03-25
+1028,23718,Customer changed mind,2023-07-07
+1029,52210,Customer changed mind,2022-09-26
+1030,65406,Damaged,2061-04-02
+1031,80425,Customer changed mind,2022-11-08
+1032,57149,Damaged,2020-03-26
+1033,66872,Damaged,2077-06-15
+1034,86471,Damaged,2020-02-18
+1035,80543,Wrong item,2022-12-11
+1036,22205,Damaged,2022-07-02
+1037,23580,Damaged,2022-03-16
+1038,94993,Customer changed mind,2030-00-04
+1039,42552,Damaged,2023-07-15
+1040,11001,Customer changed mind,2021-09-28
+1041,10395,Wrong item,2021-04-29
+1042,5976,Damaged,2020-03-03
+1043,28901,Damaged,2021-07-17
+1044,20222,Wrong item,2023-01-11
+1045,27301,Wrong item,2021-12-25
+1046,56554,Wrong item,2021-10-29
+1047,11769,Damaged,2084-02-13
+1048,34146,Wrong item,2021-08-09
+1049,38877,Wrong item,2021-10-29
+1050,68487,Damaged,2023-11-05
+1051,79307,Wrong item,2020-05-13
+1052,88495,Customer changed mind,2023-07-25
+1053,24341,Damaged,2023-11-10
+1054,88967,Damaged,2023-08-30
+1055,83428,Damaged,2021-10-16
+1056,73276,Damaged,2058-04-21
+1057,13166,Customer changed mind,2021-02-28
+1058,16508,Wrong item,2022-02-17
+1059,70392,Customer changed mind,2021-03-05
+1060,7354,Wrong item,2023-06-24
+1061,40087,Damaged,2053-02-02
+1062,60836,Wrong item,2022-06-14
+1063,55328,Wrong item,2021-08-23
+1064,34607,Damaged,2020-10-31
+1065,12409,Damaged,2022-09-11
+1066,60926,Damaged,2022-02-01
+1067,94801,Customer changed mind,2023-06-04
+1068,87258,Customer changed mind,2020-10-13
+1069,93048,Damaged,2021-04-22
+1070,92280,Wrong item,2023-11-28
+1071,83275,Wrong item,2022-11-01
+1072,50210,Damaged,2063-08-22
+1073,41538,Wrong item,2022-09-17
+1074,79431,Damaged,2090-04-25
+1075,81762,Wrong item,2020-11-21
+1076,31814,Damaged,2023-05-11
+1077,27025,Customer changed mind,2021-06-15
+1078,11408,Damaged,2076-02-12
+1079,33268,Wrong item,2023-06-16
+1080,59721,Damaged,2023-12-10
+1081,12792,Damaged,2020-02-05
+1082,95766,Damaged,2022-11-19
+1083,51773,Damaged,2054-04-12
+1084,99626,Customer changed mind,2074-07-24
+1085,32457,Customer changed mind,2021-10-15
+1086,89369,Damaged,2021-01-10
+1087,40566,Damaged,2023-01-02
+1088,48537,Damaged,2047-06-27
+1089,69067,Wrong item,2022-02-27
+1090,9458,Damaged,2061-07-13
+1091,87946,Customer changed mind,2023-09-10
+1092,10915,Wrong item,2022-11-18
+1093,19726,Wrong item,2022-06-27
+1094,7753,Customer changed mind,2020-11-30
+1095,43155,Damaged,2021-04-14
+1096,91776,Damaged,2023-11-14
+1097,42377,Customer changed mind,2023-09-05
+1098,31494,Customer changed mind,2021-09-30
+1099,90211,Wrong item,2022-03-27
+1100,91314,Damaged,2021-08-16
+1101,10128,Damaged,2020-07-14
+1102,75087,Wrong item,2022-12-23
+1103,72692,Wrong item,2020-07-13
+1104,63792,Wrong item,2084-05-17
+1105,84352,Damaged,2023-09-02
+1106,77994,Wrong item,2021-05-17
+1107,68836,Wrong item,2023-05-06
+1108,65862,Customer changed mind,2021-01-03
+1109,67212,Wrong item,2021-03-21
+1110,54309,Damaged,2021-11-22
+1111,79890,Wrong item,2021-04-05
+1112,86493,Customer changed mind,2022-12-09
+1113,31751,Customer changed mind,2023-08-31
+1114,42791,Wrong item,2022-02-01
+1115,51599,Wrong item,2021-07-11
+1116,32229,Damaged,2023-08-31
+1117,57538,Customer changed mind,2023-09-06
+1118,16688,Damaged,2022-11-20
+1119,87961,Damaged,2021-09-25
+1120,47468,Damaged,2020-11-11
+1121,25477,Damaged,2020-11-08
+1122,2021,Wrong item,2022-06-20
+1123,94614,Customer changed mind,2021-09-25
+1124,347,Customer changed mind,2022-03-17
+1125,5832,Damaged,2022-02-14
+1126,11189,Wrong item,2023-01-23
+1127,63655,Wrong item,2023-05-30
+1128,78730,Customer changed mind,2022-02-20
+1129,15088,Customer changed mind,2020-08-09
+1130,83381,Wrong item,2023-07-26
+1131,97608,Damaged,2082-09-27
+1132,81316,Wrong item,2022-03-11
+1133,11449,Wrong item,2073-06-12
+1134,52895,Wrong item,2021-10-22
+1135,71336,Customer changed mind,2020-07-11
+1136,62244,Customer changed mind,2022-08-03
+1137,85008,Wrong item,2022-06-11
+1138,41269,Wrong item,2021-08-01
+1139,34660,Damaged,2022-11-08
+1140,51887,Wrong item,2060-01-18
+1141,20175,Wrong item,2023-06-17
+1142,72157,Customer changed mind,2090-08-14
+1143,99950,Damaged,2022-06-15
+1144,75294,Wrong item,2023-09-22
+1145,15392,Wrong item,2020-04-28
+1146,68580,Customer changed mind,2020-02-29
+1147,4499,Damaged,2023-04-09
+1148,62652,Customer changed mind,2022-07-29
+1149,48310,Wrong item,2020-01-18
+1150,81814,Customer changed mind,2066-00-19
+1151,82179,Damaged,2022-08-20
+1152,31625,Customer changed mind,2021-04-24
+1153,22887,Damaged,2021-03-20
+1154,75671,Customer changed mind,2023-04-28
+1155,27796,Wrong item,2023-03-24
+1156,89156,Customer changed mind,2022-04-27
+1157,48655,Damaged,2021-02-28
+1158,56176,Wrong item,2022-03-26
+1159,14442,Damaged,2021-08-07
+1160,97999,Damaged,2023-06-07
+1161,61467,Customer changed mind,2021-08-05
+1162,84765,Wrong item,2020-09-13
+1163,95938,Customer changed mind,2023-03-22
+1164,40090,Customer changed mind,2023-08-02
+1165,99279,Damaged,2081-06-04
+1166,28466,Wrong item,2047-06-21
+1167,29110,Wrong item,2023-08-25
+1168,49770,Damaged,2022-11-02
+1169,24502,Customer changed mind,2020-01-28
+1170,74204,Wrong item,2020-08-18
+1171,52122,Damaged,2021-07-26
+1172,23651,Damaged,2020-01-20
+1173,43259,Wrong item,2020-12-18
+1174,1357,Damaged,2023-02-01
+1175,58837,Damaged,2020-06-25
+1176,84491,Customer changed mind,2023-09-28
+1177,85873,Wrong item,2021-08-14
+1178,7235,Wrong item,2023-10-10
+1179,77660,Wrong item,2041-06-28
+1180,39323,Damaged,2022-04-03
+1181,78502,Wrong item,2022-01-24
+1182,42340,Customer changed mind,2023-03-02
+1183,59449,Wrong item,2022-03-13
+1184,54215,Customer changed mind,2023-11-03
+1185,51792,Customer changed mind,2023-11-19
+1186,67547,Damaged,2091-03-19
+1187,36924,Damaged,2023-01-24
+1188,51488,Damaged,2023-02-05
+1189,2037,Customer changed mind,2023-07-03
+1190,26562,Wrong item,2020-03-15
+1191,62125,Damaged,2022-11-23
+1192,10814,Customer changed mind,2021-04-13
+1193,49884,Customer changed mind,2021-12-10
+1194,44805,Wrong item,2021-11-11
+1195,67047,Wrong item,2020-11-30
+1196,24276,Wrong item,2021-12-21
+1197,19442,Wrong item,2020-04-19
+1198,74423,Damaged,2084-04-27
+1199,11573,Wrong item,2022-09-03
+1200,2797,Customer changed mind,2023-01-21
+1201,43522,Wrong item,2022-09-26
+1202,92280,Damaged,2022-01-06
+1203,6964,Customer changed mind,2023-09-08
+1204,53804,Customer changed mind,2023-08-19
+1205,53864,Wrong item,2022-01-13
+1206,90951,Damaged,2052-06-10
+1207,3100,Damaged,2021-08-27
+1208,77026,Damaged,2023-03-11
+1209,40504,Damaged,2023-10-01
+1210,10978,Damaged,2023-03-23
+1211,24687,Damaged,2021-01-17
+1212,5645,Damaged,2022-10-08
+1213,47840,Damaged,2022-08-12
+1214,72731,Customer changed mind,2037-02-16
+1215,4367,Customer changed mind,2020-12-13
+1216,70079,Customer changed mind,2020-05-24
+1217,92754,Damaged,2023-09-23
+1218,83779,Wrong item,2022-09-12
+1219,11432,Damaged,2076-08-20
+1220,34277,Wrong item,2020-05-04
+1221,25904,Customer changed mind,2021-12-05
+1222,2614,Wrong item,2022-01-02
+1223,25469,Damaged,2021-03-15
+1224,63265,Customer changed mind,2020-03-03
+1225,79669,Wrong item,2022-09-20
+1226,15970,Customer changed mind,2022-10-31
+1227,18166,Damaged,2023-11-24
+1228,30309,Wrong item,2034-04-23
+1229,37289,Wrong item,2023-12-23
+1230,18733,Customer changed mind,2022-11-11
+1231,93130,Customer changed mind,2020-01-29
+1232,6076,Damaged,2023-03-10
+1233,31625,Damaged,2021-12-21
+1234,77472,Customer changed mind,2023-02-10
+1235,40205,Customer changed mind,2022-12-18
+1236,78075,Wrong item,2021-11-20
+1237,53359,Customer changed mind,2022-02-11
+1238,65742,Damaged,2022-04-13
+1239,5806,Damaged,2100-00-17
+1240,61271,Customer changed mind,2023-09-01
+1241,98270,Wrong item,2093-09-22
+1242,20476,Wrong item,2021-02-03
+1243,73749,Customer changed mind,2022-05-10
+1244,70284,Customer changed mind,2023-10-29
+1245,7146,Wrong item,2021-08-30
+1246,8229,Damaged,2023-04-04
+1247,30728,Damaged,2023-09-22
+1248,3159,Customer changed mind,2022-10-14
+1249,46618,Wrong item,2023-03-25
+1250,51363,Customer changed mind,2022-11-21
+1251,40180,Damaged,2021-05-05
+1252,7853,Damaged,2021-08-12
+1253,81400,Damaged,2022-01-29
+1254,72080,Customer changed mind,2022-04-04
+1255,10723,Customer changed mind,2020-07-19
+1256,5742,Wrong item,2022-09-05
+1257,82538,Damaged,2022-01-14
+1258,54487,Damaged,2022-07-15
+1259,14178,Wrong item,2020-06-25
+1260,53523,Damaged,2023-12-25
+1261,15038,Wrong item,2020-07-14
+1262,86451,Wrong item,2023-07-15
+1263,5850,Wrong item,2021-12-29
+1264,74200,Customer changed mind,2022-09-29
+1265,36423,Wrong item,2023-10-09
+1266,63885,Customer changed mind,2022-08-15
+1267,54558,Damaged,2020-07-18
+1268,91877,Wrong item,2021-02-12
+1269,89586,Wrong item,2023-09-12
+1270,46968,Damaged,2021-05-05
+1271,27205,Wrong item,2023-11-29
+1272,52100,Wrong item,2020-02-22
+1273,56166,Wrong item,2021-07-17
+1274,54665,Customer changed mind,2021-09-04
+1275,65296,Damaged,2021-11-22
+1276,19146,Damaged,2021-11-15
+1277,94019,Wrong item,2023-06-27
+1278,26108,Wrong item,2023-09-09
+1279,21834,Wrong item,2022-08-18
+1280,84052,Customer changed mind,2021-09-13
+1281,91315,Customer changed mind,2022-10-25
+1282,7878,Customer changed mind,2023-09-06
+1283,36337,Wrong item,2053-09-02
+1284,53502,Customer changed mind,2022-12-31
+1285,58950,Wrong item,2023-11-14
+1286,72392,Wrong item,2022-08-06
+1287,49252,Damaged,2023-01-01
+1288,31553,Wrong item,2023-07-29
+1289,94850,Wrong item,2021-09-15
+1290,74202,Damaged,2020-04-10
+1291,64587,Damaged,2021-05-18
+1292,2856,Damaged,2056-04-20
+1293,95689,Customer changed mind,2023-06-14
+1294,94397,Wrong item,2021-08-28
+1295,80296,Customer changed mind,2023-12-16
+1296,14555,Damaged,2020-09-15
+1297,84877,Wrong item,2021-11-16
+1298,49542,Customer changed mind,2023-09-07
+1299,82528,Customer changed mind,2023-12-04
+1300,53600,Damaged,2082-04-24
+1301,88723,Wrong item,2022-04-24
+1302,56048,Customer changed mind,2023-10-28
+1303,14715,Damaged,2023-07-15
+1304,98097,Wrong item,2023-12-30
+1305,93999,Customer changed mind,2023-05-05
+1306,44608,Wrong item,2020-05-06
+1307,37880,Damaged,2045-07-20
+1308,26236,Customer changed mind,2023-01-28
+1309,55056,Customer changed mind,2020-02-03
+1310,58443,Wrong item,2021-05-11
+1311,1,Wrong item,2022-11-12
+1312,94562,Customer changed mind,2020-04-25
+1313,39454,Damaged,2021-08-23
+1314,89302,Customer changed mind,2020-04-26
+1315,64183,Damaged,2069-07-16
+1316,83041,Damaged,2020-02-28
+1317,79015,Customer changed mind,2020-04-13
+1318,57688,Wrong item,2022-03-06
+1319,49555,Wrong item,2022-10-02
+1320,36468,Customer changed mind,2022-10-27
+1321,67915,Customer changed mind,2023-05-31
+1322,56555,Customer changed mind,2021-11-15
+1323,68873,Damaged,2021-03-03
+1324,97344,Customer changed mind,2086-04-02
+1325,83104,Damaged,2022-08-07
+1326,10613,Damaged,2020-03-02
+1327,56657,Wrong item,2021-08-09
+1328,76072,Wrong item,2023-02-21
+1329,97980,Customer changed mind,2021-02-24
+1330,63765,Wrong item,2021-03-08
+1331,15818,Customer changed mind,2023-02-17
+1332,11685,Customer changed mind,2023-08-24
+1333,73260,Customer changed mind,2022-10-08
+1334,15115,Customer changed mind,2020-12-13
+1335,67075,Wrong item,2021-07-07
+1336,51843,Damaged,2021-03-27
+1337,61843,Wrong item,2022-04-21
+1338,29292,Wrong item,2057-05-27
+1339,5823,Damaged,2022-06-29
+1340,25198,Damaged,2020-06-12
+1341,89844,Wrong item,2023-03-10
+1342,73396,Wrong item,2020-07-27
+1343,65778,Wrong item,2023-12-01
+1344,41941,Wrong item,2023-06-21
+1345,44073,Damaged,2052-03-17
+1346,25710,Damaged,2022-07-21
+1347,66411,Wrong item,2020-05-17
+1348,54573,Customer changed mind,2048-00-25
+1349,570,Customer changed mind,2022-01-17
+1350,14999,Customer changed mind,2020-04-20
+1351,41703,Damaged,2023-04-04
+1352,76490,Wrong item,2020-08-11
+1353,468,Customer changed mind,2020-04-08
+1354,88036,Customer changed mind,2020-03-01
+1355,74655,Damaged,2021-11-27
+1356,90995,Customer changed mind,2020-11-16
+1357,76458,Damaged,2022-07-20
+1358,52098,Damaged,2021-02-11
+1359,72783,Customer changed mind,2022-02-02
+1360,10450,Customer changed mind,2020-12-23
+1361,83942,Wrong item,2021-10-23
+1362,48672,Damaged,2021-05-14
+1363,2826,Wrong item,2022-10-31
+1364,91669,Damaged,2022-08-29
+1365,81460,Customer changed mind,2022-03-22
+1366,66643,Wrong item,2054-04-07
+1367,98270,Wrong item,2044-10-23
+1368,71417,Damaged,2023-02-14
+1369,86107,Wrong item,2021-05-14
+1370,87269,Wrong item,2023-02-28
+1371,81013,Customer changed mind,2022-03-06
+1372,94433,Customer changed mind,2060-06-01
+1373,54833,Wrong item,2022-06-10
+1374,11295,Wrong item,2022-01-12
+1375,37455,Customer changed mind,2020-09-17
+1376,23406,Damaged,2022-01-26
+1377,51450,Wrong item,2023-05-06
+1378,6602,Wrong item,2021-06-17
+1379,22943,Damaged,2023-09-07
+1380,38558,Damaged,2020-10-12
+1381,3622,Damaged,2023-10-26
+1382,56016,Customer changed mind,2023-10-08
+1383,42500,Damaged,2023-07-07
+1384,94639,Customer changed mind,2020-06-14
+1385,14887,Customer changed mind,2023-06-25
+1386,86313,Wrong item,2021-03-19
+1387,39367,Customer changed mind,2020-05-22
+1388,52967,Customer changed mind,2023-10-24
+1389,7812,Customer changed mind,2021-05-29
+1390,63992,Wrong item,2023-09-25
+1391,11376,Customer changed mind,2023-09-16
+1392,42671,Wrong item,2023-03-17
+1393,10936,Damaged,2021-06-02
+1394,61963,Customer changed mind,2023-01-07
+1395,47231,Customer changed mind,2023-09-07
+1396,12901,Wrong item,2020-10-04
+1397,51124,Wrong item,2020-01-18
+1398,98170,Wrong item,2023-03-10
+1399,60453,Wrong item,2056-02-26
+1400,98742,Customer changed mind,2022-06-16
+1401,90529,Customer changed mind,2093-09-24
+1402,83006,Customer changed mind,2021-05-10
+1403,84810,Damaged,2021-09-15
+1404,55760,Damaged,2020-07-01
+1405,21812,Damaged,2020-11-23
+1406,62376,Wrong item,2042-07-08
+1407,46690,Wrong item,2022-01-05
+1408,49075,Wrong item,2021-01-02
+1409,81159,Customer changed mind,2100-03-02
+1410,15636,Customer changed mind,2021-12-03
+1411,16871,Wrong item,2020-06-16
+1412,41177,Customer changed mind,2023-09-07
+1413,46440,Wrong item,2023-01-10
+1414,31281,Damaged,2022-06-02
+1415,47963,Wrong item,2020-12-08
+1416,53358,Damaged,2022-05-25
+1417,89365,Customer changed mind,2023-11-30
+1418,82703,Customer changed mind,2023-02-24
+1419,86001,Wrong item,2023-06-06
+1420,40146,Customer changed mind,2083-00-14
+1421,21312,Wrong item,2021-03-17
+1422,78948,Customer changed mind,2039-04-01
+1423,26807,Damaged,2022-03-31
+1424,45477,Wrong item,2022-03-06
+1425,5007,Wrong item,2021-09-13
+1426,94463,Damaged,2021-07-19
+1427,96233,Customer changed mind,2021-07-04
+1428,29153,Damaged,2023-12-11
+1429,74122,Wrong item,2022-03-22
+1430,96589,Damaged,2021-07-07
+1431,98277,Damaged,2021-06-02
+1432,9884,Customer changed mind,2020-02-28
+1433,47724,Damaged,2022-12-18
+1434,84316,Damaged,2023-02-27
+1435,32805,Damaged,2020-01-15
+1436,57093,Wrong item,2020-06-23
+1437,20929,Wrong item,2023-07-27
+1438,40948,Wrong item,2023-01-22
+1439,31817,Damaged,2020-02-12
+1440,33540,Damaged,2020-08-26
+1441,53515,Damaged,2074-01-19
+1442,57435,Wrong item,2020-09-24
+1443,61956,Damaged,2023-08-05
+1444,9104,Customer changed mind,2020-02-02
+1445,9044,Customer changed mind,2022-05-28
+1446,39632,Customer changed mind,2020-04-24
+1447,17434,Customer changed mind,2021-11-12
+1448,77815,Customer changed mind,2066-05-28
+1449,97159,Damaged,2020-06-01
+1450,52991,Damaged,2021-10-30
+1451,18841,Customer changed mind,2023-02-02
+1452,77522,Customer changed mind,2023-07-12
+1453,74330,Wrong item,2022-03-25
+1454,74192,Damaged,2021-11-15
+1455,90272,Customer changed mind,2075-02-10
+1456,99671,Wrong item,2021-09-25
+1457,85030,Wrong item,2023-11-21
+1458,61008,Damaged,2021-12-31
+1459,89647,Customer changed mind,2022-04-16
+1460,91246,Wrong item,2020-01-02
+1461,32954,Wrong item,2021-01-10
+1462,50208,Wrong item,2020-02-04
+1463,56374,Wrong item,2022-04-03
+1464,2309,Damaged,2022-08-05
+1465,93757,Damaged,2022-09-21
+1466,92661,Damaged,2021-11-10
+1467,84563,Wrong item,2022-12-16
+1468,6282,Wrong item,2020-05-30
+1469,3605,Wrong item,2022-04-18
+1470,85899,Wrong item,2020-12-04
+1471,48598,Damaged,2020-03-16
+1472,19079,Wrong item,2020-07-01
+1473,90150,Customer changed mind,2066-02-26
+1474,24183,Damaged,2082-10-08
+1475,8446,Customer changed mind,2023-02-18
+1476,64034,Damaged,2022-05-17
+1477,90903,Damaged,2020-07-13
+1478,25678,Wrong item,2023-08-16
+1479,358,Wrong item,2020-01-06
+1480,28705,Wrong item,2021-02-02
+1481,1603,Wrong item,2023-09-29
+1482,42965,Customer changed mind,2033-09-11
+1483,67538,Damaged,2021-12-21
+1484,63767,Customer changed mind,2023-12-16
+1485,80012,Damaged,2023-11-02
+1486,53023,Wrong item,2092-06-02
+1487,66961,Wrong item,2020-09-02
+1488,938,Wrong item,2023-10-18
+1489,14427,Wrong item,2020-06-23
+1490,29153,Customer changed mind,2021-10-18
+1491,98119,Wrong item,2022-11-19
+1492,95915,Damaged,2022-01-21
+1493,78181,Wrong item,2023-01-14
+1494,11589,Wrong item,2021-10-11
+1495,43400,Customer changed mind,2020-08-17
+1496,87380,Wrong item,2020-01-21
+1497,59717,Customer changed mind,2020-07-02
+1498,93011,Wrong item,2021-11-26
+1499,83653,Customer changed mind,2023-11-13
+1500,26374,Damaged,2023-09-26
+1501,68505,Wrong item,2022-06-30
+1502,2083,Customer changed mind,2023-10-29
+1503,79774,Customer changed mind,2023-12-27
+1504,15966,Customer changed mind,2022-10-07
+1505,39965,Damaged,2020-02-26
+1506,14090,Damaged,2020-02-07
+1507,2835,Customer changed mind,2023-01-06
+1508,81864,Damaged,2021-09-27
+1509,92726,Customer changed mind,2021-09-26
+1510,20842,Customer changed mind,2021-05-05
+1511,23384,Wrong item,2022-10-14
+1512,80442,Wrong item,2021-10-29
+1513,11516,Damaged,2098-03-06
+1514,34448,Customer changed mind,2020-10-19
+1515,19613,Customer changed mind,2022-12-28
+1516,82593,Damaged,2020-11-05
+1517,59542,Wrong item,2021-09-16
+1518,31628,Wrong item,2092-07-26
+1519,15502,Customer changed mind,2020-12-04
+1520,43869,Customer changed mind,2068-08-18
+1521,9901,Damaged,2021-12-01
+1522,49880,Wrong item,2020-10-31
+1523,64321,Wrong item,2021-05-20
+1524,28928,Damaged,2021-04-30
+1525,46884,Customer changed mind,2020-07-02
+1526,16994,Damaged,2021-11-24
+1527,23303,Customer changed mind,2021-11-08
+1528,67769,Customer changed mind,2021-09-04
+1529,87026,Customer changed mind,2020-08-31
+1530,10163,Customer changed mind,2023-08-24
+1531,22571,Customer changed mind,2023-01-11
+1532,8569,Damaged,2022-04-05
+1533,8097,Damaged,2040-09-05
+1534,58105,Wrong item,2023-01-28
+1535,47441,Wrong item,2020-02-26
+1536,90313,Wrong item,2023-04-12
+1537,65846,Wrong item,2020-11-28
+1538,17147,Customer changed mind,2023-12-25
+1539,72769,Customer changed mind,2023-11-20
+1540,20289,Customer changed mind,2020-11-25
+1541,11050,Wrong item,2020-09-28
+1542,58317,Damaged,2022-12-19
+1543,77050,Wrong item,2021-11-14
+1544,85916,Customer changed mind,2020-11-19
+1545,13752,Customer changed mind,2021-10-19
+1546,20959,Customer changed mind,2022-10-08
+1547,53705,Wrong item,2021-07-29
+1548,20495,Damaged,2023-09-14
+1549,6998,Wrong item,2023-11-29
+1550,52011,Wrong item,2020-08-03
+1551,13697,Wrong item,2022-11-19
+1552,3240,Damaged,2020-09-18
+1553,88959,Customer changed mind,2021-12-08
+1554,36789,Damaged,2020-07-16
+1555,37864,Wrong item,2022-03-02
+1556,10511,Damaged,2023-08-18
+1557,72207,Wrong item,2020-10-18
+1558,69027,Damaged,2020-09-09
+1559,80000,Customer changed mind,2077-00-04
+1560,69541,Wrong item,2023-02-01
+1561,62694,Damaged,2021-12-17
+1562,38163,Customer changed mind,2022-02-22
+1563,44134,Customer changed mind,2023-02-20
+1564,85111,Customer changed mind,2022-03-28
+1565,10929,Damaged,2020-08-02
+1566,95541,Wrong item,2023-10-03
+1567,49646,Damaged,2020-01-21
+1568,53303,Wrong item,2020-10-03
+1569,49907,Customer changed mind,2022-04-26
+1570,75761,Customer changed mind,2023-05-02
+1571,14617,Damaged,2022-11-04
+1572,89968,Customer changed mind,2073-05-25
+1573,88220,Wrong item,2040-01-18
+1574,40457,Damaged,2072-02-28
+1575,20246,Damaged,2020-06-28
+1576,40815,Wrong item,2023-06-12
+1577,32057,Customer changed mind,2022-12-17
+1578,61535,Damaged,2021-07-06
+1579,7696,Wrong item,2022-06-12
+1580,29314,Damaged,2023-12-31
+1581,25007,Wrong item,2045-00-19
+1582,45344,Customer changed mind,2023-07-09
+1583,33541,Wrong item,2021-11-07
+1584,97403,Customer changed mind,2022-04-18
+1585,3406,Damaged,2023-04-08
+1586,55096,Wrong item,2022-04-08
+1587,12613,Damaged,2039-07-07
+1588,2167,Wrong item,2055-03-08
+1589,27700,Customer changed mind,2020-08-22
+1590,36303,Customer changed mind,2022-02-24
+1591,28828,Customer changed mind,2023-09-02
+1592,23474,Wrong item,2021-08-22
+1593,10527,Customer changed mind,2022-04-16
+1594,37796,Damaged,2022-04-10
+1595,42872,Wrong item,2021-05-30
+1596,75780,Customer changed mind,2022-10-29
+1597,23804,Damaged,2068-10-28
+1598,94925,Damaged,2022-10-25
+1599,41004,Damaged,2020-01-10
+1600,27030,Wrong item,2021-02-24
+1601,29775,Wrong item,2022-03-27
+1602,35184,Customer changed mind,2020-10-02
+1603,67379,Damaged,2023-01-11
+1604,28679,Wrong item,2021-07-03
+1605,13566,Wrong item,2020-01-28
+1606,18691,Wrong item,2020-04-20
+1607,11314,Customer changed mind,2021-06-25
+1608,7373,Customer changed mind,2021-02-04
+1609,72198,Customer changed mind,2023-01-21
+1610,31224,Wrong item,2062-09-16
+1611,15111,Damaged,2020-04-17
+1612,32762,Wrong item,2022-11-15
+1613,91461,Wrong item,2021-05-19
+1614,62139,Customer changed mind,2022-05-11
+1615,34633,Wrong item,2023-05-23
+1616,82084,Customer changed mind,2022-06-11
+1617,22921,Wrong item,2022-09-07
+1618,8445,Damaged,2022-05-30
+1619,82244,Customer changed mind,2022-10-02
+1620,60068,Damaged,2020-06-02
+1621,35453,Customer changed mind,2021-01-27
+1622,21191,Customer changed mind,2021-05-02
+1623,15634,Wrong item,2020-03-06
+1624,3040,Wrong item,2020-11-18
+1625,29572,Wrong item,2021-04-19
+1626,53383,Customer changed mind,2022-03-31
+1627,44967,Customer changed mind,2020-12-26
+1628,82167,Customer changed mind,2089-07-12
+1629,40295,Wrong item,2022-02-27
+1630,49381,Wrong item,2022-12-10
+1631,58623,Wrong item,2021-06-10
+1632,8050,Customer changed mind,2021-12-16
+1633,18200,Customer changed mind,2020-11-26
+1634,86390,Damaged,2021-08-04
+1635,26745,Damaged,2022-03-25
+1636,58280,Customer changed mind,2021-10-11
+1637,11113,Damaged,2023-10-06
+1638,32503,Customer changed mind,2020-06-26
+1639,60416,Damaged,2021-06-21
+1640,68633,Customer changed mind,2023-01-20
+1641,78458,Wrong item,2023-04-13
+1642,50957,Damaged,2020-05-19
+1643,13116,Damaged,2020-03-29
+1644,94438,Wrong item,2020-11-23
+1645,49581,Customer changed mind,2022-06-19
+1646,19136,Wrong item,2022-07-23
+1647,41837,Wrong item,2023-06-11
+1648,88627,Wrong item,2021-11-10
+1649,90888,Customer changed mind,2022-06-08
+1650,74634,Customer changed mind,2023-06-01
+1651,49669,Customer changed mind,2021-08-03
+1652,38629,Customer changed mind,2022-09-05
+1653,2065,Wrong item,2022-10-13
+1654,46918,Wrong item,2023-01-05
+1655,63888,Damaged,2023-10-14
+1656,43034,Damaged,2023-10-09
+1657,55283,Customer changed mind,2021-06-15
+1658,18592,Damaged,2023-10-02
+1659,43219,Customer changed mind,2021-11-28
+1660,99914,Wrong item,2020-05-27
+1661,76420,Customer changed mind,2021-04-19
+1662,83550,Customer changed mind,2023-05-02
+1663,85467,Wrong item,2020-11-02
+1664,68643,Damaged,2022-05-23
+1665,15133,Wrong item,2020-09-13
+1666,932,Customer changed mind,2095-07-21
+1667,33577,Customer changed mind,2023-02-25
+1668,25528,Wrong item,2023-12-29
+1669,77332,Damaged,2022-11-09
+1670,10450,Customer changed mind,2020-01-13
+1671,32165,Damaged,2022-04-21
+1672,29160,Wrong item,2022-02-23
+1673,13030,Customer changed mind,2051-03-01
+1674,61340,Wrong item,2021-03-11
+1675,98674,Customer changed mind,2022-10-19
+1676,15052,Wrong item,2021-03-03
+1677,46032,Damaged,2020-03-27
+1678,15585,Damaged,2020-04-12
+1679,51566,Wrong item,2023-12-22
+1680,63891,Wrong item,2020-07-22
+1681,7737,Damaged,2022-10-22
+1682,82609,Wrong item,2021-11-20
+1683,12675,Damaged,2023-02-23
+1684,23183,Damaged,2020-03-13
+1685,93566,Customer changed mind,2022-06-16
+1686,65079,Damaged,2047-00-23
+1687,96936,Customer changed mind,2020-05-16
+1688,91949,Wrong item,2020-01-21
+1689,40392,Damaged,2021-11-10
+1690,93785,Customer changed mind,2020-05-08
+1691,22779,Wrong item,2020-09-25
+1692,98774,Damaged,2022-01-06
+1693,49319,Damaged,2021-01-05
+1694,84519,Customer changed mind,2022-09-18
+1695,69165,Wrong item,2022-09-24
+1696,15131,Damaged,2023-12-02
+1697,39283,Wrong item,2023-08-01
+1698,9184,Damaged,2022-09-30
+1699,58191,Damaged,2021-02-26
+1700,3950,Customer changed mind,2022-04-15
+1701,7109,Wrong item,2021-08-28
+1702,4796,Customer changed mind,2021-05-24
+1703,61910,Customer changed mind,2023-03-24
+1704,50712,Customer changed mind,2022-03-09
+1705,75620,Customer changed mind,2021-07-10
+1706,41726,Wrong item,2021-08-13
+1707,61209,Damaged,2100-10-26
+1708,99918,Damaged,2021-10-02
+1709,94138,Customer changed mind,2022-04-28
+1710,9027,Wrong item,2023-02-13
+1711,5764,Wrong item,2023-01-10
+1712,72614,Customer changed mind,2020-05-19
+1713,95584,Customer changed mind,2021-12-26
+1714,86848,Customer changed mind,2062-05-10
+1715,53723,Wrong item,2020-11-01
+1716,1059,Customer changed mind,2022-07-01
+1717,16940,Wrong item,2023-05-15
+1718,61467,Customer changed mind,2022-04-19
+1719,28614,Damaged,2021-05-12
+1720,51855,Damaged,2022-10-08
+1721,73726,Customer changed mind,2082-07-14
+1722,38578,Wrong item,2022-09-22
+1723,27493,Damaged,2023-01-13
+1724,58496,Customer changed mind,2077-02-24
+1725,45679,Customer changed mind,2020-08-11
+1726,78593,Damaged,2021-09-16
+1727,5279,Customer changed mind,2023-11-16
+1728,8660,Damaged,2021-01-12
+1729,73751,Damaged,2023-10-17
+1730,61255,Wrong item,2023-04-02
+1731,13144,Customer changed mind,2021-04-15
+1732,46145,Damaged,2021-10-16
+1733,47393,Wrong item,2022-04-08
+1734,26044,Wrong item,2020-09-30
+1735,55287,Customer changed mind,2023-01-26
+1736,4635,Damaged,2021-12-19
+1737,15626,Damaged,2020-04-06
+1738,71140,Wrong item,2064-05-16
+1739,73060,Customer changed mind,2022-03-23
+1740,98702,Wrong item,2069-08-15
+1741,24139,Damaged,2021-09-03
+1742,71,Damaged,2020-12-30
+1743,37922,Wrong item,2020-11-30
+1744,63911,Damaged,2023-11-29
+1745,42220,Wrong item,2020-11-18
+1746,5998,Damaged,2020-05-06
+1747,26653,Wrong item,2021-05-31
+1748,91656,Damaged,2020-08-19
+1749,51061,Customer changed mind,2020-07-08
+1750,4475,Damaged,2020-09-12
+1751,12189,Damaged,2021-12-30
+1752,86105,Damaged,2021-03-11
+1753,53762,Customer changed mind,2022-03-31
+1754,82709,Damaged,2020-09-16
+1755,11997,Damaged,2050-06-14
+1756,53896,Wrong item,2022-08-22
+1757,60987,Damaged,2021-08-26
+1758,31787,Customer changed mind,2022-06-10
+1759,18712,Damaged,2023-01-31
+1760,53785,Damaged,2023-04-07
+1761,32472,Damaged,2020-12-29
+1762,13378,Damaged,2020-09-02
+1763,88149,Customer changed mind,2023-10-01
+1764,21411,Wrong item,2023-01-13
+1765,78143,Wrong item,2021-12-26
+1766,78195,Wrong item,2064-09-21
+1767,20998,Customer changed mind,2020-09-05
+1768,57621,Customer changed mind,2022-04-05
+1769,69636,Wrong item,2020-02-01
+1770,70921,Customer changed mind,2021-01-03
+1771,7906,Wrong item,2023-08-06
+1772,88376,Customer changed mind,2022-10-28
+1773,44075,Customer changed mind,2023-10-05
+1774,58928,Damaged,2022-03-18
+1775,92559,Damaged,2023-04-03
+1776,2666,Wrong item,2023-07-17
+1777,58347,Customer changed mind,2023-12-11
+1778,44795,Customer changed mind,2052-01-02
+1779,6978,Customer changed mind,2023-04-16
+1780,12379,Damaged,2051-06-14
+1781,69027,Wrong item,2021-01-05
+1782,58066,Damaged,2023-09-21
+1783,2747,Damaged,2020-04-08
+1784,76794,Customer changed mind,2021-07-25
+1785,83060,Damaged,2021-08-11
+1786,79717,Wrong item,2032-01-15
+1787,24062,Wrong item,2022-02-20
+1788,28692,Damaged,2020-12-07
+1789,54662,Customer changed mind,2022-01-27
+1790,10647,Customer changed mind,2020-03-25
+1791,96479,Damaged,2022-01-18
+1792,8212,Wrong item,2021-05-22
+1793,47382,Customer changed mind,2022-09-25
+1794,25846,Wrong item,2020-03-13
+1795,7737,Customer changed mind,2020-08-05
+1796,93126,Wrong item,2023-07-14
+1797,65146,Damaged,2021-10-09
+1798,3606,Damaged,2055-04-15
+1799,14821,Customer changed mind,2020-05-31
+1800,72920,Damaged,2021-12-12
+1801,49379,Wrong item,2023-01-03
+1802,6703,Wrong item,2022-01-18
+1803,32774,Wrong item,2021-11-11
+1804,12707,Customer changed mind,2020-01-22
+1805,84118,Wrong item,2021-01-18
+1806,69487,Damaged,2021-08-01
+1807,89610,Wrong item,2020-01-27
+1808,29875,Wrong item,2022-10-24
+1809,35381,Customer changed mind,2021-05-17
+1810,34247,Wrong item,2020-01-03
+1811,92966,Wrong item,2023-08-06
+1812,10930,Wrong item,2021-03-10
+1813,25492,Wrong item,2022-01-03
+1814,45905,Damaged,2022-07-30
+1815,72905,Damaged,2045-01-19
+1816,59198,Damaged,2023-06-11
+1817,19569,Damaged,2022-03-23
+1818,41227,Customer changed mind,2021-01-01
+1819,37422,Damaged,2023-11-13
+1820,66475,Wrong item,2022-12-12
+1821,11427,Customer changed mind,2023-06-28
+1822,17413,Wrong item,2066-09-11
+1823,37502,Wrong item,2023-11-03
+1824,63871,Damaged,2020-09-24
+1825,40338,Damaged,2020-06-23
+1826,24707,Wrong item,2022-04-24
+1827,2871,Customer changed mind,2022-09-30
+1828,73665,Customer changed mind,2022-07-14
+1829,61163,Wrong item,2022-06-24
+1830,75614,Damaged,2020-10-14
+1831,56771,Damaged,2020-06-03
+1832,43017,Damaged,2020-05-12
+1833,18010,Customer changed mind,2023-07-16
+1834,53181,Customer changed mind,2023-06-21
+1835,20372,Wrong item,2061-02-11
+1836,90608,Wrong item,2037-05-18
+1837,6790,Customer changed mind,2023-03-30
+1838,92860,Damaged,2023-05-04
+1839,68815,Damaged,2020-08-21
+1840,54960,Damaged,2020-12-07
+1841,38714,Wrong item,2020-08-10
+1842,58084,Wrong item,2021-03-12
+1843,32833,Customer changed mind,2023-03-30
+1844,51290,Customer changed mind,2020-04-15
+1845,89408,Customer changed mind,2023-04-21
+1846,66871,Customer changed mind,2023-04-16
+1847,10503,Damaged,2020-10-28
+1848,79467,Damaged,2022-07-09
+1849,84248,Customer changed mind,2020-03-13
+1850,85133,Customer changed mind,2021-05-06
+1851,44551,Wrong item,2021-12-01
+1852,48090,Customer changed mind,2023-08-07
+1853,42295,Customer changed mind,2021-01-29
+1854,10374,Damaged,2023-11-29
+1855,3597,Customer changed mind,2023-03-19
+1856,16197,Wrong item,2021-02-11
+1857,88427,Wrong item,2022-08-21
+1858,21657,Wrong item,2020-05-24
+1859,49672,Wrong item,2020-06-18
+1860,57841,Wrong item,2023-02-08
+1861,87044,Damaged,2022-07-15
+1862,68545,Damaged,2023-08-12
+1863,61608,Wrong item,2020-05-27
+1864,6121,Customer changed mind,2020-10-29
+1865,98225,Damaged,2021-07-31
+1866,48242,Customer changed mind,2023-06-02
+1867,88990,Customer changed mind,2020-04-08
+1868,55736,Wrong item,2022-05-29
+1869,47643,Damaged,2022-02-05
+1870,43967,Wrong item,2022-03-23
+1871,66521,Customer changed mind,2023-12-15
+1872,3250,Damaged,2023-03-21
+1873,78590,Customer changed mind,2020-06-15
+1874,52900,Wrong item,2021-12-31
+1875,16239,Damaged,2020-06-28
+1876,41368,Damaged,2023-12-31
+1877,75678,Damaged,2079-04-28
+1878,23647,Wrong item,2023-10-17
+1879,97525,Wrong item,2023-07-15
+1880,9300,Damaged,2022-11-27
+1881,65700,Wrong item,2021-04-03
+1882,54793,Customer changed mind,2020-04-21
+1883,73865,Damaged,2021-08-06
+1884,7373,Customer changed mind,2022-12-30
+1885,59715,Wrong item,2022-06-24
+1886,23078,Damaged,2022-08-18
+1887,33042,Damaged,2049-09-27
+1888,50257,Wrong item,2020-09-06
+1889,75968,Wrong item,2022-02-10
+1890,81288,Wrong item,2023-06-04
+1891,5962,Wrong item,2020-01-19
+1892,20640,Customer changed mind,2022-12-08
+1893,889,Damaged,2023-02-20
+1894,3083,Wrong item,2034-09-14
+1895,44310,Customer changed mind,2020-03-02
+1896,5675,Damaged,2048-06-18
+1897,77052,Customer changed mind,2023-05-16
+1898,64500,Wrong item,2097-04-03
+1899,71377,Damaged,2063-05-24
+1900,35318,Wrong item,2051-01-06
+1901,67661,Damaged,2020-05-25
+1902,68687,Customer changed mind,2065-03-24
+1903,46099,Damaged,2021-08-02
+1904,88819,Damaged,2020-09-15
+1905,97676,Damaged,2022-11-24
+1906,35327,Wrong item,2038-02-06
+1907,85110,Wrong item,2021-05-09
+1908,78669,Wrong item,2021-08-12
+1909,55407,Wrong item,2023-02-18
+1910,76552,Damaged,2021-05-19
+1911,72431,Damaged,2023-02-07
+1912,58606,Damaged,2022-06-28
+1913,70209,Customer changed mind,2022-10-18
+1914,32719,Customer changed mind,2021-12-23
+1915,41437,Damaged,2023-07-10
+1916,66886,Damaged,2086-08-18
+1917,61184,Damaged,2020-12-26
+1918,31189,Wrong item,2020-02-18
+1919,14690,Damaged,2023-11-01
+1920,32555,Wrong item,2023-12-22
+1921,641,Damaged,2023-07-28
+1922,67323,Wrong item,2021-05-13
+1923,29297,Customer changed mind,2022-07-27
+1924,96184,Wrong item,2020-09-10
+1925,95263,Wrong item,2023-07-19
+1926,80791,Customer changed mind,2020-10-03
+1927,38942,Wrong item,2022-09-08
+1928,3277,Wrong item,2020-08-07
+1929,15445,Wrong item,2021-10-24
+1930,11704,Customer changed mind,2020-02-09
+1931,5174,Wrong item,2020-09-10
+1932,80686,Customer changed mind,2021-12-19
+1933,46942,Wrong item,2020-11-03
+1934,81539,Damaged,2021-10-07
+1935,84664,Wrong item,2021-09-18
+1936,56661,Damaged,2022-12-17
+1937,66131,Customer changed mind,2021-02-25
+1938,1130,Wrong item,2022-06-12
+1939,498,Customer changed mind,2022-05-03
+1940,16438,Customer changed mind,2023-12-09
+1941,22471,Damaged,2022-04-18
+1942,26817,Customer changed mind,2022-04-13
+1943,58261,Customer changed mind,2082-01-20
+1944,64023,Damaged,2023-12-23
+1945,76335,Wrong item,2022-11-16
+1946,10130,Wrong item,2062-00-18
+1947,39422,Customer changed mind,2023-08-20
+1948,84436,Customer changed mind,2021-01-30
+1949,29056,Damaged,2022-06-14
+1950,12969,Damaged,2023-07-08
+1951,21418,Wrong item,2022-08-25
+1952,2534,Customer changed mind,2020-07-17
+1953,43435,Customer changed mind,2058-06-05
+1954,5811,Damaged,2022-01-11
+1955,96814,Damaged,2023-07-08
+1956,45741,Damaged,2022-10-10
+1957,1618,Wrong item,2020-02-27
+1958,95351,Customer changed mind,2021-11-04
+1959,42886,Customer changed mind,2020-11-16
+1960,10819,Wrong item,2023-06-30
+1961,63979,Customer changed mind,2020-01-01
+1962,24545,Customer changed mind,2020-08-06
+1963,2206,Customer changed mind,2022-06-22
+1964,9558,Wrong item,2021-01-02
+1965,78596,Damaged,2023-11-26
+1966,74755,Customer changed mind,2022-07-22
+1967,80833,Wrong item,2020-01-08
+1968,79098,Customer changed mind,2097-08-08
+1969,50882,Wrong item,2023-09-09
+1970,35627,Damaged,2023-12-17
+1971,85340,Wrong item,2022-01-21
+1972,71393,Wrong item,2021-11-06
+1973,82010,Customer changed mind,2023-01-17
+1974,42562,Wrong item,2053-04-03
+1975,6748,Damaged,2022-11-25
+1976,65400,Damaged,2022-03-25
+1977,2635,Damaged,2022-12-30
+1978,44602,Customer changed mind,2023-08-30
+1979,73676,Wrong item,2021-08-01
+1980,30014,Wrong item,2020-08-23
+1981,6753,Customer changed mind,2022-08-23
+1982,27197,Customer changed mind,2022-06-14
+1983,52369,Customer changed mind,2022-11-30
+1984,22186,Customer changed mind,2020-02-18
+1985,7269,Wrong item,2023-12-26
+1986,55108,Customer changed mind,2022-07-13
+1987,68038,Damaged,2068-10-14
+1988,34875,Customer changed mind,2086-06-23
+1989,67294,Damaged,2022-10-02
+1990,13138,Damaged,2023-11-21
+1991,47906,Customer changed mind,2023-04-24
+1992,14175,Wrong item,2022-09-29
+1993,54706,Customer changed mind,2021-06-30
+1994,11177,Customer changed mind,2021-08-23
+1995,18375,Damaged,2021-11-22
+1996,57763,Damaged,2049-10-14
+1997,80189,Damaged,2023-03-29
+1998,6416,Damaged,2022-08-16
+1999,96890,Wrong item,2020-03-13
+2000,93147,Customer changed mind,2022-02-24
+2001,8350,Customer changed mind,2023-09-26
+2002,59480,Wrong item,2021-04-30
+2003,66667,Damaged,2021-03-10
+2004,94745,Customer changed mind,2022-09-01
+2005,37106,Wrong item,2020-10-23
+2006,87923,Damaged,2022-11-26
+2007,85401,Wrong item,2033-08-12
+2008,247,Damaged,2021-06-10
+2009,93504,Customer changed mind,2022-08-01
+2010,3079,Damaged,2022-02-05
+2011,93102,Damaged,2036-01-24
+2012,78224,Damaged,2021-05-28
+2013,26780,Wrong item,2020-06-16
+2014,53966,Wrong item,2023-08-04
+2015,75846,Customer changed mind,2022-07-13
+2016,71535,Damaged,2023-09-29
+2017,37228,Customer changed mind,2021-12-01
+2018,64996,Customer changed mind,2023-04-21
+2019,21238,Wrong item,2022-10-17
+2020,44085,Damaged,2022-04-29
+2021,46618,Customer changed mind,2021-06-11
+2022,22116,Wrong item,2023-11-23
+2023,38952,Wrong item,2022-06-08
+2024,84184,Damaged,2021-03-27
+2025,96840,Wrong item,2023-03-04
+2026,1722,Damaged,2021-02-17
+2027,58317,Wrong item,2023-03-18
+2028,2830,Customer changed mind,2020-10-05
+2029,49202,Damaged,2021-06-19
+2030,47217,Damaged,2023-07-09
+2031,99803,Customer changed mind,2020-01-27
+2032,8852,Customer changed mind,2031-00-13
+2033,55175,Customer changed mind,2023-10-03
+2034,9912,Customer changed mind,2022-04-27
+2035,43212,Customer changed mind,2022-03-10
+2036,12314,Customer changed mind,2023-12-15
+2037,54653,Customer changed mind,2023-08-19
+2038,27287,Wrong item,2022-08-31
+2039,76901,Customer changed mind,2022-02-27
+2040,44334,Customer changed mind,2020-06-03
+2041,803,Wrong item,2021-12-21
+2042,61355,Wrong item,2021-03-28
+2043,76952,Damaged,2022-10-26
+2044,17987,Customer changed mind,2022-07-09
+2045,3210,Damaged,2021-03-15
+2046,41077,Damaged,2021-05-02
+2047,44543,Wrong item,2021-12-22
+2048,92203,Customer changed mind,2020-06-30
+2049,52407,Damaged,2023-08-30
+2050,18294,Customer changed mind,2022-01-04
+2051,69734,Wrong item,2023-08-26
+2052,10473,Wrong item,2023-08-01
+2053,13124,Customer changed mind,2023-12-23
+2054,24838,Damaged,2023-08-27
+2055,21345,Wrong item,2023-06-09
+2056,57030,Wrong item,2020-05-15
+2057,18942,Customer changed mind,2023-02-28
+2058,74436,Wrong item,2065-08-16
+2059,35047,Customer changed mind,2022-06-12
+2060,28554,Wrong item,2023-10-31
+2061,49545,Customer changed mind,2020-04-13
+2062,16295,Wrong item,2021-12-06
+2063,45309,Wrong item,2021-08-02
+2064,55857,Wrong item,2023-03-16
+2065,79275,Damaged,2023-08-10
+2066,10633,Damaged,2020-11-19
+2067,83147,Wrong item,2023-06-26
+2068,80673,Customer changed mind,2054-06-04
+2069,20388,Customer changed mind,2020-08-26
+2070,21577,Customer changed mind,2022-11-24
+2071,39050,Damaged,2022-02-02
+2072,98826,Customer changed mind,2023-04-19
+2073,99420,Wrong item,2021-07-13
+2074,3003,Wrong item,2021-01-09
+2075,17224,Wrong item,2023-11-16
+2076,5441,Damaged,2090-07-18
+2077,40262,Customer changed mind,2021-10-03
+2078,51947,Customer changed mind,2057-00-28
+2079,50033,Wrong item,2023-08-10
+2080,60187,Damaged,2022-07-21
+2081,39430,Customer changed mind,2020-07-13
+2082,94799,Damaged,2023-05-31
+2083,17176,Customer changed mind,2022-08-11
+2084,74006,Damaged,2023-05-12
+2085,28873,Wrong item,2021-10-05
+2086,8283,Wrong item,2020-12-13
+2087,7863,Customer changed mind,2023-09-28
+2088,26555,Damaged,2022-08-03
+2089,33959,Customer changed mind,2021-06-26
+2090,70940,Customer changed mind,2023-03-20
+2091,63064,Wrong item,2023-09-16
+2092,12690,Damaged,2022-01-29
+2093,90600,Customer changed mind,2020-03-09
+2094,42652,Customer changed mind,2020-05-24
+2095,5258,Customer changed mind,2061-08-21
+2096,91606,Wrong item,2021-03-15
+2097,19123,Wrong item,2022-02-12
+2098,88360,Damaged,2060-03-21
+2099,64438,Customer changed mind,2021-12-20
+2100,12572,Customer changed mind,2021-08-17
+2101,85752,Customer changed mind,2023-11-10
+2102,16013,Customer changed mind,2020-05-24
+2103,44952,Customer changed mind,2020-10-02
+2104,68408,Damaged,2023-02-21
+2105,91406,Customer changed mind,2023-06-04
+2106,91492,Customer changed mind,2023-04-12
+2107,63427,Wrong item,2021-08-31
+2108,16734,Wrong item,2020-09-14
+2109,7859,Wrong item,2022-08-26
+2110,13070,Wrong item,2023-10-31
+2111,3349,Customer changed mind,2092-08-16
+2112,27703,Damaged,2021-11-06
+2113,74869,Damaged,2076-08-21
+2114,99064,Wrong item,2020-09-01
+2115,31279,Damaged,2021-10-23
+2116,83509,Customer changed mind,2023-05-04
+2117,43170,Customer changed mind,2021-09-11
+2118,96848,Damaged,2022-01-13
+2119,73879,Customer changed mind,2020-06-22
+2120,45238,Customer changed mind,2021-06-26
+2121,5105,Customer changed mind,2023-12-08
+2122,71164,Wrong item,2022-05-03
+2123,8918,Wrong item,2021-12-10
+2124,50015,Damaged,2023-01-08
+2125,12140,Customer changed mind,2020-02-12
+2126,18085,Wrong item,2021-01-24
+2127,8381,Damaged,2021-04-29
+2128,45896,Customer changed mind,2022-05-16
+2129,75884,Damaged,2095-02-12
+2130,17374,Customer changed mind,2020-11-17
+2131,78208,Customer changed mind,2020-05-09
+2132,13251,Damaged,2020-04-26
+2133,89070,Customer changed mind,2021-12-07
+2134,65743,Customer changed mind,2020-12-14
+2135,29372,Wrong item,2038-06-23
+2136,43596,Damaged,2020-04-24
+2137,8051,Wrong item,2023-03-18
+2138,82011,Customer changed mind,2021-07-19
+2139,17539,Customer changed mind,2023-10-10
+2140,84025,Wrong item,2023-05-11
+2141,86931,Customer changed mind,2021-08-23
+2142,47232,Customer changed mind,2023-07-31
+2143,80684,Customer changed mind,2022-06-10
+2144,16459,Customer changed mind,2022-01-24
+2145,16292,Damaged,2023-07-19
+2146,24107,Wrong item,2023-03-31
+2147,31487,Customer changed mind,2022-06-27
+2148,44703,Wrong item,2021-10-26
+2149,39013,Damaged,2021-10-25
+2150,73049,Customer changed mind,2023-11-02
+2151,12586,Damaged,2021-06-30
+2152,87208,Damaged,2020-04-21
+2153,83746,Damaged,2021-07-12
+2154,3357,Damaged,2020-04-13
+2155,82751,Damaged,2053-07-09
+2156,88794,Customer changed mind,2022-11-10
+2157,35019,Damaged,2023-07-29
+2158,59816,Wrong item,2023-04-16
+2159,88758,Customer changed mind,2021-12-17
+2160,60883,Wrong item,2023-12-03
+2161,97128,Customer changed mind,2022-02-03
+2162,92826,Wrong item,2020-07-11
+2163,23272,Wrong item,2022-10-22
+2164,88774,Damaged,2021-02-04
+2165,87166,Wrong item,2021-10-04
+2166,85868,Customer changed mind,2021-02-11
+2167,42698,Customer changed mind,2021-05-16
+2168,35388,Damaged,2021-04-14
+2169,78322,Wrong item,2023-03-18
+2170,98744,Damaged,2023-09-23
+2171,93204,Damaged,2078-00-05
+2172,22395,Damaged,2020-09-11
+2173,36454,Customer changed mind,2021-11-04
+2174,176,Customer changed mind,2021-08-31
+2175,17064,Damaged,2020-07-21
+2176,12701,Customer changed mind,2022-04-18
+2177,31330,Damaged,2020-05-14
+2178,66244,Customer changed mind,2022-11-14
+2179,13927,Customer changed mind,2022-05-01
+2180,48841,Damaged,2023-04-02
+2181,81082,Customer changed mind,2020-02-27
+2182,13936,Wrong item,2023-08-05
+2183,45537,Customer changed mind,2020-08-16
+2184,46835,Wrong item,2021-12-25
+2185,49385,Wrong item,2021-02-11
+2186,62823,Damaged,2022-11-23
+2187,93766,Wrong item,2023-06-26
+2188,77353,Wrong item,2021-09-11
+2189,11337,Customer changed mind,2020-05-26
+2190,77148,Customer changed mind,2023-09-20
+2191,61651,Customer changed mind,2021-07-26
+2192,32500,Customer changed mind,2022-05-19
+2193,49559,Damaged,2021-10-19
+2194,82049,Customer changed mind,2021-06-26
+2195,9977,Customer changed mind,2021-01-01
+2196,51810,Wrong item,2023-12-03
+2197,61142,Wrong item,2021-11-15
+2198,60740,Customer changed mind,2023-08-08
+2199,97409,Damaged,2022-01-20
+2200,30456,Wrong item,2022-08-09
+2201,25898,Customer changed mind,2023-04-05
+2202,25388,Customer changed mind,2023-04-13
+2203,96309,Customer changed mind,2022-09-13
+2204,64367,Wrong item,2020-05-03
+2205,22889,Damaged,2021-09-06
+2206,69672,Damaged,2020-11-24
+2207,64260,Customer changed mind,2023-06-02
+2208,56709,Customer changed mind,2021-04-27
+2209,44888,Customer changed mind,2022-06-04
+2210,57993,Damaged,2022-02-15
+2211,80521,Customer changed mind,2023-03-11
+2212,25049,Customer changed mind,2021-01-05
+2213,27060,Wrong item,2023-05-10
+2214,90603,Damaged,2021-03-16
+2215,60731,Damaged,2023-11-26
+2216,60193,Damaged,2020-06-06
+2217,8034,Damaged,2023-11-17
+2218,48172,Damaged,2022-07-13
+2219,77217,Wrong item,2020-09-24
+2220,65671,Wrong item,2023-01-11
+2221,94553,Damaged,2021-06-22
+2222,34443,Wrong item,2021-12-24
+2223,32462,Customer changed mind,2021-05-22
+2224,30995,Wrong item,2023-09-17
+2225,60750,Customer changed mind,2022-06-05
+2226,44464,Wrong item,2022-07-19
+2227,78248,Damaged,2022-10-02
+2228,34812,Wrong item,2021-02-05
+2229,58852,Wrong item,2042-07-19
+2230,87401,Customer changed mind,2023-06-03
+2231,8844,Damaged,2023-01-13
+2232,79169,Customer changed mind,2021-02-21
+2233,26856,Customer changed mind,2020-12-26
+2234,12994,Damaged,2020-05-16
+2235,19727,Customer changed mind,2023-11-09
+2236,50765,Customer changed mind,2021-04-27
+2237,34601,Customer changed mind,2023-03-04
+2238,54997,Wrong item,2020-08-29
+2239,52712,Damaged,2022-05-19
+2240,30877,Customer changed mind,2022-04-26
+2241,50716,Wrong item,2064-07-10
+2242,58639,Customer changed mind,2023-02-17
+2243,88424,Customer changed mind,2021-05-27
+2244,98910,Wrong item,2021-11-28
+2245,21226,Customer changed mind,2020-10-02
+2246,93612,Wrong item,2022-03-27
+2247,57198,Damaged,2023-06-16
+2248,70688,Wrong item,2022-05-20
+2249,14470,Damaged,2022-02-09
+2250,93921,Wrong item,2023-04-24
+2251,7822,Damaged,2020-02-16
+2252,26148,Customer changed mind,2020-12-11
+2253,20753,Customer changed mind,2021-07-02
+2254,31099,Customer changed mind,2020-12-11
+2255,60528,Wrong item,2023-12-06
+2256,64496,Wrong item,2021-06-08
+2257,83154,Damaged,2023-10-06
+2258,18885,Damaged,2022-11-25
+2259,12947,Customer changed mind,2020-12-22
+2260,47495,Wrong item,2021-03-06
+2261,32094,Damaged,2022-04-27
+2262,648,Customer changed mind,2020-08-28
+2263,54631,Customer changed mind,2021-07-31
+2264,26736,Customer changed mind,2022-09-12
+2265,44713,Wrong item,2020-10-18
+2266,80263,Wrong item,2023-08-16
+2267,8175,Damaged,2020-10-19
+2268,35301,Wrong item,2020-05-23
+2269,79888,Customer changed mind,2098-10-09
+2270,90054,Customer changed mind,2050-07-05
+2271,34970,Customer changed mind,2023-06-06
+2272,53583,Wrong item,2023-03-05
+2273,61999,Wrong item,2021-09-27
+2274,35527,Wrong item,2020-09-28
+2275,21488,Wrong item,2022-04-01
+2276,84961,Wrong item,2022-07-15
+2277,27664,Customer changed mind,2022-03-05
+2278,42184,Damaged,2021-04-19
+2279,43957,Damaged,2023-06-07
+2280,40712,Wrong item,2022-05-06
+2281,7396,Wrong item,2091-00-23
+2282,64273,Wrong item,2022-07-10
+2283,9117,Damaged,2020-05-27
+2284,87114,Customer changed mind,2068-10-08
+2285,80874,Customer changed mind,2022-04-18
+2286,38594,Damaged,2021-07-18
+2287,98723,Damaged,2020-05-11
+2288,29461,Customer changed mind,2021-04-22
+2289,22069,Damaged,2023-11-20
+2290,17129,Customer changed mind,2021-05-31
+2291,71003,Wrong item,2020-07-01
+2292,25345,Customer changed mind,2020-02-06
+2293,74694,Wrong item,2022-09-03
+2294,39044,Wrong item,2022-04-17
+2295,14845,Customer changed mind,2020-12-01
+2296,21089,Wrong item,2022-06-09
+2297,13120,Wrong item,2023-09-30
+2298,74991,Damaged,2022-10-13
+2299,51269,Wrong item,2021-11-07
+2300,62640,Damaged,2020-08-09
+2301,82906,Customer changed mind,2022-05-20
+2302,49386,Customer changed mind,2020-09-03
+2303,37159,Wrong item,2021-08-26
+2304,22314,Customer changed mind,2021-01-14
+2305,12838,Customer changed mind,2022-11-07
+2306,66394,Damaged,2022-05-12
+2307,54416,Wrong item,2021-02-21
+2308,95620,Wrong item,2020-01-31
+2309,23045,Customer changed mind,2022-03-24
+2310,43790,Damaged,2021-05-27
+2311,84750,Damaged,2023-05-22
+2312,40900,Wrong item,2094-01-15
+2313,6016,Damaged,2021-11-19
+2314,51000,Damaged,2020-11-01
+2315,964,Customer changed mind,2022-06-09
+2316,57893,Customer changed mind,2023-08-08
+2317,97044,Wrong item,2049-06-20
+2318,77259,Customer changed mind,2077-07-27
+2319,40901,Damaged,2020-09-21
+2320,55755,Damaged,2021-12-04
+2321,93797,Damaged,2021-12-02
+2322,51936,Damaged,2022-08-22
+2323,26615,Wrong item,2021-04-03
+2324,86757,Damaged,2023-10-10
+2325,72465,Damaged,2022-12-02
+2326,54048,Customer changed mind,2022-12-03
+2327,34166,Customer changed mind,2021-11-08
+2328,3598,Wrong item,2021-11-01
+2329,5781,Wrong item,2021-05-02
+2330,22581,Wrong item,2021-10-31
+2331,50133,Wrong item,2020-04-20
+2332,4078,Customer changed mind,2022-01-25
+2333,26620,Damaged,2070-10-16
+2334,50403,Customer changed mind,2023-11-29
+2335,80193,Wrong item,2053-07-09
+2336,52286,Damaged,2022-10-30
+2337,83983,Damaged,2020-05-20
+2338,98422,Damaged,2021-03-17
+2339,94369,Damaged,2020-08-12
+2340,57521,Damaged,2023-03-12
+2341,24431,Damaged,2021-01-28
+2342,1119,Customer changed mind,2021-07-14
+2343,63371,Damaged,2022-02-10
+2344,46132,Wrong item,2022-01-17
+2345,81982,Wrong item,2078-04-03
+2346,20629,Damaged,2021-08-29
+2347,81926,Damaged,2051-05-28
+2348,60698,Customer changed mind,2021-09-16
+2349,49523,Wrong item,2021-05-22
+2350,474,Damaged,2022-01-25
+2351,15607,Damaged,2022-04-18
+2352,94029,Damaged,2022-10-08
+2353,66799,Damaged,2022-03-07
+2354,38501,Damaged,2020-08-08
+2355,68325,Wrong item,2021-12-27
+2356,18806,Wrong item,2023-01-30
+2357,18242,Customer changed mind,2021-06-13
+2358,38021,Damaged,2020-10-19
+2359,94418,Wrong item,2061-05-08
+2360,31448,Customer changed mind,2020-04-12
+2361,65561,Customer changed mind,2023-08-29
+2362,23299,Customer changed mind,2021-03-20
+2363,23836,Damaged,2020-04-30
+2364,14031,Damaged,2021-01-04
+2365,94111,Damaged,2022-11-18
+2366,21753,Damaged,2023-12-10
+2367,7411,Wrong item,2021-12-14
+2368,94814,Damaged,2023-05-19
+2369,26385,Customer changed mind,2020-05-26
+2370,90856,Damaged,2023-04-27
+2371,17996,Customer changed mind,2021-10-08
+2372,9896,Wrong item,2022-10-07
+2373,97135,Wrong item,2022-08-24
+2374,29450,Wrong item,2021-08-30
+2375,33266,Customer changed mind,2058-06-07
+2376,22927,Customer changed mind,2021-12-10
+2377,97785,Damaged,2023-07-18
+2378,96540,Damaged,2023-07-30
+2379,78835,Damaged,2058-04-12
+2380,39464,Wrong item,2021-05-02
+2381,91620,Wrong item,2020-01-16
+2382,770,Damaged,2022-02-19
+2383,7561,Wrong item,2023-08-25
+2384,82637,Wrong item,2022-03-28
+2385,68305,Customer changed mind,2023-06-01
+2386,76596,Wrong item,2022-01-25
+2387,75549,Wrong item,2022-02-07
+2388,69381,Customer changed mind,2020-03-16
+2389,52477,Wrong item,2020-11-01
+2390,38717,Damaged,2020-01-12
+2391,32172,Wrong item,2023-10-15
+2392,55745,Wrong item,2022-05-11
+2393,26003,Customer changed mind,2063-04-14
+2394,50864,Wrong item,2020-10-25
+2395,62498,Customer changed mind,2022-02-20
+2396,61396,Wrong item,2022-07-23
+2397,12685,Damaged,2023-10-14
+2398,80653,Wrong item,2020-08-21
+2399,20744,Damaged,2022-03-28
+2400,77887,Customer changed mind,2023-06-28
+2401,77527,Customer changed mind,2020-01-04
+2402,86224,Customer changed mind,2020-11-03
+2403,74312,Damaged,2023-08-10
+2404,15378,Wrong item,2021-03-09
+2405,70266,Wrong item,2023-01-30
+2406,31908,Wrong item,2092-02-06
+2407,86229,Damaged,2020-01-11
+2408,19343,Wrong item,2022-01-04
+2409,59027,Wrong item,2022-08-13
+2410,2154,Damaged,2037-02-12
+2411,35858,Damaged,2022-07-07
+2412,49651,Damaged,2021-06-05
+2413,15761,Damaged,2073-02-23
+2414,16319,Damaged,2021-06-20
+2415,99344,Damaged,2023-02-15
+2416,9125,Wrong item,2022-08-31
+2417,60326,Wrong item,2021-01-01
+2418,29413,Wrong item,2042-03-02
+2419,91952,Customer changed mind,2022-05-19
+2420,22743,Damaged,2021-07-24
+2421,12812,Damaged,2021-10-16
+2422,56053,Customer changed mind,2023-09-03
+2423,67254,Customer changed mind,2098-01-02
+2424,2581,Customer changed mind,2020-01-16
+2425,13657,Damaged,2021-10-18
+2426,73253,Damaged,2022-08-17
+2427,57615,Wrong item,2022-01-22
+2428,27525,Damaged,2020-01-21
+2429,64402,Damaged,2023-09-05
+2430,93643,Customer changed mind,2023-01-19
+2431,26795,Customer changed mind,2021-10-11
+2432,1421,Customer changed mind,2022-07-07
+2433,30382,Wrong item,2022-04-22
+2434,19703,Wrong item,2020-05-31
+2435,15546,Wrong item,2022-04-05
+2436,97785,Damaged,2023-09-14
+2437,61305,Customer changed mind,2023-02-12
+2438,99509,Wrong item,2022-09-18
+2439,37845,Damaged,2022-12-24
+2440,66143,Wrong item,2022-04-28
+2441,64087,Customer changed mind,2020-09-15
+2442,178,Wrong item,2023-12-25
+2443,53091,Damaged,2021-02-20
+2444,24920,Wrong item,2021-10-22
+2445,78535,Damaged,2022-06-05
+2446,65196,Damaged,2020-03-14
+2447,75251,Damaged,2075-10-01
+2448,18898,Customer changed mind,2020-03-15
+2449,54818,Customer changed mind,2022-09-07
+2450,73284,Wrong item,2023-11-21
+2451,34303,Customer changed mind,2023-01-20
+2452,95624,Customer changed mind,2021-09-23
+2453,94566,Customer changed mind,2021-04-02
+2454,4523,Wrong item,2021-12-29
+2455,75575,Wrong item,2021-10-17
+2456,26483,Wrong item,2023-12-01
+2457,46611,Customer changed mind,2023-05-21
+2458,49519,Damaged,2022-08-13
+2459,26393,Customer changed mind,2020-03-02
+2460,47888,Customer changed mind,2023-03-27
+2461,69347,Wrong item,2021-04-15
+2462,28114,Wrong item,2022-09-06
+2463,51873,Damaged,2021-04-21
+2464,19499,Customer changed mind,2023-03-30
+2465,65897,Wrong item,2020-11-24
+2466,92923,Damaged,2021-02-17
+2467,76932,Customer changed mind,2021-11-05
+2468,68236,Wrong item,2020-12-20
+2469,30806,Damaged,2022-11-30
+2470,88212,Customer changed mind,2022-09-09
+2471,29958,Wrong item,2021-04-20
+2472,8739,Wrong item,2023-11-15
+2473,17544,Damaged,2023-02-16
+2474,83059,Wrong item,2021-02-09
+2475,13337,Damaged,2042-09-09
+2476,47220,Damaged,2022-07-07
+2477,47232,Customer changed mind,2020-01-11
+2478,79437,Damaged,2023-07-22
+2479,83297,Customer changed mind,2022-12-05
+2480,10220,Customer changed mind,2020-07-30
+2481,29854,Damaged,2096-09-17
+2482,15592,Wrong item,2021-04-13
+2483,97383,Customer changed mind,2020-10-14
+2484,50608,Damaged,2020-11-16
+2485,53751,Customer changed mind,2041-08-16
+2486,17811,Wrong item,2099-01-16
+2487,29462,Damaged,2023-11-18
+2488,62082,Damaged,2023-08-14
+2489,41158,Damaged,2022-07-29
+2490,66216,Customer changed mind,2066-05-12
+2491,82982,Damaged,2023-10-20
+2492,73757,Customer changed mind,2023-02-25
+2493,79793,Wrong item,2023-11-22
+2494,2833,Wrong item,2020-04-08
+2495,66256,Customer changed mind,2021-07-21
+2496,19192,Wrong item,2021-04-03
+2497,51458,Customer changed mind,2040-09-06
+2498,73004,Customer changed mind,2023-05-08
+2499,93484,Customer changed mind,2021-10-27
+2500,84044,Damaged,2021-10-21
+2501,91136,Customer changed mind,2020-01-16
+2502,73372,Damaged,2020-06-18
+2503,77143,Damaged,2084-09-19
+2504,89781,Damaged,2023-12-24
+2505,31693,Customer changed mind,2020-06-11
+2506,44127,Wrong item,2021-03-15
+2507,17142,Wrong item,2022-11-03
+2508,50180,Damaged,2020-10-07
+2509,34395,Damaged,2020-07-27
+2510,94604,Customer changed mind,2021-10-03
+2511,48173,Customer changed mind,2020-05-26
+2512,77282,Wrong item,2020-03-16
+2513,89191,Damaged,2022-07-11
+2514,82087,Damaged,2020-01-10
+2515,80510,Damaged,2022-02-10
+2516,77820,Damaged,2021-02-19
+2517,25117,Damaged,2020-04-22
+2518,9260,Damaged,2022-06-13
+2519,74273,Customer changed mind,2023-01-22
+2520,55632,Damaged,2022-03-21
+2521,87014,Customer changed mind,2021-11-13
+2522,15339,Wrong item,2023-12-17
+2523,60525,Customer changed mind,2021-08-15
+2524,77178,Damaged,2023-12-20
+2525,54082,Wrong item,2046-05-02
+2526,7415,Wrong item,2023-09-09
+2527,14563,Wrong item,2020-10-14
+2528,41409,Damaged,2023-07-23
+2529,5956,Customer changed mind,2021-09-23
+2530,50726,Damaged,2022-05-18
+2531,45196,Customer changed mind,2022-10-17
+2532,90761,Wrong item,2060-05-23
+2533,21400,Wrong item,2022-01-11
+2534,32469,Customer changed mind,2021-09-16
+2535,71683,Wrong item,2021-03-01
+2536,38851,Customer changed mind,2022-02-08
+2537,40411,Wrong item,2022-06-24
+2538,95325,Wrong item,2022-07-24
+2539,78163,Customer changed mind,2020-06-05
+2540,6418,Wrong item,2022-08-26
+2541,59655,Damaged,2023-10-03
+2542,44410,Damaged,2095-06-16
+2543,93724,Customer changed mind,2022-09-03
+2544,92910,Customer changed mind,2020-02-06
+2545,21795,Wrong item,2022-09-20
+2546,58947,Damaged,2021-11-29
+2547,25302,Wrong item,2023-09-11
+2548,81335,Wrong item,2085-00-12
+2549,22164,Damaged,2022-11-07
+2550,90462,Damaged,2048-00-08
+2551,7255,Wrong item,2022-09-18
+2552,65117,Wrong item,2023-08-02
+2553,36536,Damaged,2041-08-21
+2554,99138,Customer changed mind,2023-02-18
+2555,26400,Customer changed mind,2020-09-26
+2556,68004,Wrong item,2021-10-05
+2557,87584,Damaged,2021-05-18
+2558,93296,Customer changed mind,2023-02-14
+2559,7825,Damaged,2022-05-03
+2560,99785,Damaged,2023-02-10
+2561,9344,Damaged,2021-06-08
+2562,40571,Customer changed mind,2021-03-04
+2563,61863,Customer changed mind,2021-07-14
+2564,78655,Damaged,2068-06-23
+2565,75879,Customer changed mind,2021-12-13
+2566,48640,Damaged,2020-01-01
+2567,83812,Damaged,2023-11-04
+2568,37325,Customer changed mind,2020-12-17
+2569,3461,Wrong item,2039-03-10
+2570,40160,Wrong item,2022-05-23
+2571,37149,Wrong item,2020-02-09
+2572,24935,Damaged,2020-10-25
+2573,48649,Wrong item,2020-04-23
+2574,12178,Damaged,2021-11-20
+2575,43565,Wrong item,2023-08-10
+2576,34376,Damaged,2021-04-07
+2577,10538,Wrong item,2023-03-23
+2578,18911,Damaged,2021-08-30
+2579,32386,Customer changed mind,2092-03-17
+2580,21906,Damaged,2021-10-15
+2581,19183,Customer changed mind,2022-03-04
+2582,65751,Wrong item,2021-09-01
+2583,47487,Wrong item,2021-10-23
+2584,43640,Wrong item,2023-04-26
+2585,70365,Wrong item,2020-06-18
+2586,68695,Customer changed mind,2020-11-25
+2587,4156,Wrong item,2021-04-18
+2588,30962,Damaged,2020-03-04
+2589,48650,Wrong item,2020-05-30
+2590,18779,Damaged,2066-10-03
+2591,70561,Wrong item,2020-11-05
+2592,84551,Damaged,2020-02-18
+2593,66255,Damaged,2022-02-14
+2594,26415,Damaged,2021-02-10
+2595,31641,Wrong item,2021-06-21
+2596,97874,Damaged,2022-10-16
+2597,50388,Wrong item,2021-05-29
+2598,17135,Wrong item,2021-04-13
+2599,28484,Wrong item,2023-07-07
+2600,86346,Customer changed mind,2022-03-23
+2601,91621,Damaged,2021-10-05
+2602,4038,Customer changed mind,2020-03-15
+2603,10540,Customer changed mind,2023-04-10
+2604,38280,Damaged,2022-01-09
+2605,81894,Damaged,2020-06-24
+2606,80222,Wrong item,2034-00-22
+2607,67470,Customer changed mind,2021-03-15
+2608,64115,Damaged,2020-12-08
+2609,4373,Customer changed mind,2021-11-06
+2610,55256,Customer changed mind,2020-02-17
+2611,49775,Customer changed mind,2020-11-06
+2612,72695,Customer changed mind,2021-05-05
+2613,40109,Customer changed mind,2023-01-19
+2614,2628,Damaged,2023-05-26
+2615,61899,Damaged,2020-03-09
+2616,54802,Wrong item,2023-08-11
+2617,86313,Wrong item,2022-12-04
+2618,48489,Wrong item,2022-09-16
+2619,68042,Damaged,2023-03-28
+2620,74126,Customer changed mind,2023-12-03
+2621,19552,Wrong item,2022-09-19
+2622,98440,Damaged,2090-05-14
+2623,92729,Wrong item,2022-05-25
+2624,85186,Damaged,2022-09-18
+2625,33107,Customer changed mind,2023-02-19
+2626,48458,Damaged,2021-03-18
+2627,86608,Customer changed mind,2021-04-10
+2628,58244,Wrong item,2021-05-05
+2629,1988,Wrong item,2022-08-15
+2630,15478,Customer changed mind,2023-01-20
+2631,63939,Wrong item,2020-02-29
+2632,68886,Customer changed mind,2073-07-26
+2633,97775,Wrong item,2021-06-30
+2634,71324,Wrong item,2023-04-21
+2635,1952,Wrong item,2021-07-31
+2636,47491,Wrong item,2023-10-06
+2637,25115,Wrong item,2022-10-26
+2638,13069,Wrong item,2021-06-14
+2639,5717,Customer changed mind,2021-12-22
+2640,11346,Wrong item,2022-01-31
+2641,79893,Customer changed mind,2022-09-29
+2642,57871,Customer changed mind,2022-09-25
+2643,87678,Damaged,2021-03-18
+2644,53989,Customer changed mind,2022-07-11
+2645,35961,Damaged,2020-11-10
+2646,18880,Customer changed mind,2022-04-24
+2647,38657,Wrong item,2021-06-20
+2648,32984,Customer changed mind,2023-04-12
+2649,6845,Damaged,2022-01-28
+2650,56043,Damaged,2020-12-20
+2651,6920,Damaged,2023-12-26
+2652,66585,Customer changed mind,2021-12-24
+2653,9758,Wrong item,2030-04-19
+2654,16224,Wrong item,2038-00-08
+2655,17669,Damaged,2020-09-05
+2656,96202,Customer changed mind,2020-12-03
+2657,37136,Customer changed mind,2022-03-29
+2658,90920,Wrong item,2022-10-20
+2659,68653,Wrong item,2021-06-01
+2660,85997,Customer changed mind,2020-07-08
+2661,41021,Damaged,2022-05-26
+2662,34911,Customer changed mind,2023-01-28
+2663,97600,Wrong item,2023-08-01
+2664,7618,Damaged,2022-09-12
+2665,20494,Customer changed mind,2021-06-18
+2666,63087,Customer changed mind,2020-03-18
+2667,73939,Wrong item,2021-02-03
+2668,84141,Damaged,2057-04-23
+2669,74736,Customer changed mind,2023-03-06
+2670,99935,Wrong item,2080-08-21
+2671,55933,Damaged,2021-07-13
+2672,84864,Damaged,2021-07-09
+2673,85284,Customer changed mind,2020-01-27
+2674,87687,Customer changed mind,2021-02-14
+2675,35333,Damaged,2020-12-14
+2676,35871,Customer changed mind,2075-04-07
+2677,20374,Wrong item,2023-08-09
+2678,31530,Customer changed mind,2022-01-20
+2679,42022,Customer changed mind,2023-09-04
+2680,36102,Wrong item,2023-02-10
+2681,57413,Customer changed mind,2023-01-18
+2682,26275,Customer changed mind,2023-10-31
+2683,47672,Damaged,2020-03-24
+2684,82945,Wrong item,2023-03-10
+2685,93125,Customer changed mind,2021-12-13
+2686,87518,Damaged,2022-12-20
+2687,20094,Customer changed mind,2023-07-05
+2688,33793,Damaged,2020-01-11
+2689,47936,Wrong item,2021-02-21
+2690,4785,Customer changed mind,2069-07-18
+2691,36182,Customer changed mind,2023-09-13
+2692,12018,Damaged,2023-04-28
+2693,9244,Damaged,2022-02-23
+2694,86147,Damaged,2022-10-26
+2695,85365,Wrong item,2021-08-17
+2696,15673,Wrong item,2021-11-29
+2697,72286,Damaged,2023-11-23
+2698,45696,Damaged,2021-08-27
+2699,87762,Customer changed mind,2023-01-05
+2700,16495,Customer changed mind,2021-04-11
+2701,38747,Customer changed mind,2021-09-02
+2702,11930,Customer changed mind,2022-04-28
+2703,34471,Wrong item,2023-07-23
+2704,47664,Customer changed mind,2022-04-06
+2705,8575,Wrong item,2023-02-26
+2706,58445,Damaged,2021-07-04
+2707,13769,Damaged,2023-10-13
+2708,38755,Damaged,2022-02-04
+2709,71284,Damaged,2020-09-04
+2710,87941,Wrong item,2021-06-30
+2711,4291,Customer changed mind,2020-02-07
+2712,43548,Wrong item,2023-08-01
+2713,3733,Customer changed mind,2023-02-02
+2714,16379,Customer changed mind,2021-07-22
+2715,97968,Wrong item,2066-01-08
+2716,35348,Damaged,2023-06-15
+2717,40696,Damaged,2033-06-25
+2718,92428,Damaged,2052-09-15
+2719,31937,Wrong item,2020-03-18
+2720,16040,Wrong item,2021-07-13
+2721,63008,Customer changed mind,2020-11-18
+2722,6801,Damaged,2085-03-11
+2723,84869,Customer changed mind,2020-11-29
+2724,52295,Damaged,2022-11-10
+2725,87905,Wrong item,2022-09-20
+2726,39597,Customer changed mind,2021-05-31
+2727,13808,Wrong item,2023-07-04
+2728,80273,Damaged,2020-09-16
+2729,11293,Customer changed mind,2020-01-19
+2730,65230,Customer changed mind,2022-05-29
+2731,58118,Damaged,2021-03-02
+2732,45883,Customer changed mind,2023-05-02
+2733,72950,Customer changed mind,2022-06-01
+2734,98270,Wrong item,2020-08-02
+2735,62677,Damaged,2020-11-19
+2736,93274,Wrong item,2023-10-22
+2737,68679,Customer changed mind,2021-08-17
+2738,7219,Customer changed mind,2022-07-21
+2739,47224,Wrong item,2020-07-02
+2740,14638,Wrong item,2022-11-11
+2741,74384,Damaged,2064-08-09
+2742,21524,Wrong item,2022-01-29
+2743,55074,Customer changed mind,2045-03-27
+2744,53366,Wrong item,2072-02-12
+2745,96496,Wrong item,2021-05-15
+2746,35978,Wrong item,2023-03-10
+2747,76707,Wrong item,2021-07-08
+2748,3797,Wrong item,2022-03-16
+2749,52833,Damaged,2034-07-26
+2750,32696,Wrong item,2077-00-08
+2751,44551,Customer changed mind,2023-06-30
+2752,6175,Customer changed mind,2020-04-28
+2753,5061,Damaged,2059-00-15
+2754,58266,Customer changed mind,2021-06-06
+2755,99221,Wrong item,2021-07-03
+2756,86048,Damaged,2023-08-20
+2757,47626,Customer changed mind,2021-03-07
+2758,28181,Damaged,2023-06-29
+2759,36400,Customer changed mind,2023-05-21
+2760,54189,Damaged,2020-03-16
+2761,72693,Wrong item,2040-10-19
+2762,3053,Wrong item,2020-04-06
+2763,32895,Wrong item,2022-12-21
+2764,58504,Wrong item,2058-09-12
+2765,16712,Customer changed mind,2023-04-09
+2766,25517,Wrong item,2021-06-18
+2767,39416,Customer changed mind,2020-01-23
+2768,57893,Wrong item,2021-06-03
+2769,60295,Wrong item,2020-12-27
+2770,87460,Wrong item,2021-10-04
+2771,29022,Damaged,2020-11-24
+2772,50223,Wrong item,2020-10-22
+2773,62793,Customer changed mind,2021-11-10
+2774,61358,Customer changed mind,2021-08-13
+2775,36961,Wrong item,2021-05-16
+2776,77793,Customer changed mind,2023-05-13
+2777,81134,Customer changed mind,2020-02-01
+2778,43595,Wrong item,2021-03-23
+2779,68527,Customer changed mind,2021-03-14
+2780,52340,Customer changed mind,2020-03-08
+2781,45471,Wrong item,2021-05-28
+2782,15108,Wrong item,2023-10-28
+2783,16033,Damaged,2023-01-24
+2784,22421,Wrong item,2049-02-13
+2785,97981,Customer changed mind,2021-06-08
+2786,22445,Customer changed mind,2020-11-01
+2787,1690,Customer changed mind,2023-08-14
+2788,1990,Customer changed mind,2031-04-10
+2789,63481,Damaged,2022-01-07
+2790,84389,Damaged,2021-10-09
+2791,41318,Customer changed mind,2023-04-01
+2792,60208,Damaged,2022-02-03
+2793,49448,Wrong item,2020-08-22
+2794,14616,Wrong item,2020-03-29
+2795,15222,Wrong item,2021-09-16
+2796,90355,Customer changed mind,2020-11-02
+2797,13417,Damaged,2020-06-30
+2798,95012,Customer changed mind,2020-01-21
+2799,93801,Customer changed mind,2020-06-20
+2800,39606,Customer changed mind,2021-06-03
+2801,93117,Wrong item,2022-12-18
+2802,73651,Damaged,2023-08-25
+2803,77472,Damaged,2023-08-04
+2804,6461,Damaged,2023-09-11
+2805,33301,Customer changed mind,2021-05-23
+2806,90209,Damaged,2023-10-01
+2807,80517,Customer changed mind,2100-06-28
+2808,43323,Wrong item,2023-11-29
+2809,36221,Wrong item,2021-06-27
+2810,98725,Wrong item,2022-06-29
+2811,91976,Customer changed mind,2084-10-01
+2812,48147,Customer changed mind,2020-07-01
+2813,64221,Wrong item,2049-06-12
+2814,77553,Customer changed mind,2020-12-04
+2815,59832,Customer changed mind,2022-12-27
+2816,13268,Damaged,2022-06-15
+2817,4734,Wrong item,2021-11-07
+2818,86017,Damaged,2023-03-03
+2819,79006,Customer changed mind,2020-09-19
+2820,7080,Wrong item,2021-06-01
+2821,30982,Damaged,2020-07-11
+2822,21562,Wrong item,2023-09-09
+2823,6375,Wrong item,2020-06-10
+2824,83213,Customer changed mind,2054-07-24
+2825,42405,Customer changed mind,2021-02-23
+2826,87377,Customer changed mind,2053-00-22
+2827,88032,Customer changed mind,2021-01-30
+2828,93029,Customer changed mind,2022-02-11
+2829,47351,Wrong item,2020-10-28
+2830,95579,Wrong item,2020-07-16
+2831,25336,Customer changed mind,2020-11-11
+2832,92724,Wrong item,2022-05-23
+2833,9130,Wrong item,2023-03-09
+2834,58858,Customer changed mind,2020-05-11
+2835,93946,Damaged,2022-02-01
+2836,35367,Wrong item,2023-01-02
+2837,50268,Damaged,2022-02-05
+2838,65444,Customer changed mind,2021-09-01
+2839,50333,Wrong item,2021-09-06
+2840,92711,Customer changed mind,2060-08-21
+2841,31590,Damaged,2021-01-22
+2842,55472,Damaged,2021-12-04
+2843,95789,Customer changed mind,2023-01-23
+2844,19299,Customer changed mind,2023-03-26
+2845,76427,Customer changed mind,2023-12-29
+2846,74009,Damaged,2022-06-21
+2847,14770,Damaged,2020-09-06
+2848,36809,Customer changed mind,2020-09-21
+2849,83477,Damaged,2022-07-05
+2850,74963,Damaged,2021-05-01
+2851,71493,Wrong item,2023-10-07
+2852,92691,Wrong item,2023-06-10
+2853,93395,Wrong item,2022-09-15
+2854,74763,Damaged,2023-08-01
+2855,6823,Wrong item,2020-12-07
+2856,2275,Wrong item,2020-08-19
+2857,53046,Wrong item,2023-11-25
+2858,16357,Customer changed mind,2023-03-25
+2859,59429,Wrong item,2021-08-08
+2860,68366,Wrong item,2021-03-25
+2861,10559,Wrong item,2022-08-22
+2862,89036,Damaged,2022-12-26
+2863,4668,Wrong item,2022-02-16
+2864,54170,Wrong item,2021-07-11
+2865,25543,Damaged,2022-04-10
+2866,90464,Damaged,2022-11-18
+2867,76095,Wrong item,2060-09-02
+2868,49921,Wrong item,2021-07-22
+2869,48569,Customer changed mind,2022-10-28
+2870,28328,Wrong item,2022-12-06
+2871,70111,Wrong item,2020-01-07
+2872,51474,Customer changed mind,2023-01-27
+2873,33478,Customer changed mind,2023-04-23
+2874,63627,Damaged,2039-06-16
+2875,70291,Damaged,2021-05-16
+2876,55478,Customer changed mind,2021-05-21
+2877,23096,Damaged,2023-07-07
+2878,72520,Customer changed mind,2022-09-13
+2879,87484,Damaged,2020-04-27
+2880,14459,Wrong item,2022-04-13
+2881,24896,Wrong item,2021-05-13
+2882,68784,Damaged,2023-01-09
+2883,67259,Damaged,2050-01-15
+2884,10009,Damaged,2022-08-14
+2885,76967,Damaged,2021-10-13
+2886,82613,Damaged,2023-10-01
+2887,25316,Damaged,2023-10-14
+2888,77957,Wrong item,2021-12-03
+2889,62623,Damaged,2068-04-20
+2890,18387,Wrong item,2023-06-03
+2891,59005,Damaged,2021-03-11
+2892,8632,Damaged,2023-01-07
+2893,15525,Damaged,2021-12-30
+2894,65228,Wrong item,2022-10-29
+2895,9400,Damaged,2021-10-02
+2896,98541,Damaged,2020-04-11
+2897,52344,Customer changed mind,2021-11-04
+2898,82898,Customer changed mind,2021-02-25
+2899,75104,Customer changed mind,2020-02-17
+2900,86050,Wrong item,2073-05-04
+2901,23043,Damaged,2023-01-11
+2902,16831,Damaged,2022-12-13
+2903,92478,Customer changed mind,2021-04-01
+2904,24578,Damaged,2021-08-02
+2905,19125,Customer changed mind,2022-12-15
+2906,77906,Wrong item,2022-07-02
+2907,62163,Wrong item,2020-03-23
+2908,9022,Wrong item,2023-08-29
+2909,53216,Damaged,2023-03-15
+2910,1276,Damaged,2058-01-13
+2911,45648,Customer changed mind,2022-09-11
+2912,53656,Damaged,2022-04-08
+2913,61059,Wrong item,2023-09-05
+2914,34934,Customer changed mind,2020-02-07
+2915,22241,Wrong item,2021-02-15
+2916,46697,Wrong item,2093-10-12
+2917,87058,Damaged,2021-08-06
+2918,81017,Wrong item,2023-07-12
+2919,9306,Damaged,2020-07-20
+2920,20183,Damaged,2021-11-17
+2921,44219,Customer changed mind,2022-10-24
+2922,5505,Damaged,2021-01-12
+2923,80254,Damaged,2020-08-25
+2924,95833,Damaged,2020-08-06
+2925,57410,Wrong item,2023-12-20
+2926,97948,Customer changed mind,2077-02-17
+2927,48793,Wrong item,2022-04-25
+2928,72721,Customer changed mind,2023-01-21
+2929,30488,Wrong item,2023-09-12
+2930,4478,Customer changed mind,2022-04-18
+2931,40263,Customer changed mind,2020-09-21
+2932,60459,Wrong item,2100-06-17
+2933,83279,Wrong item,2021-08-24
+2934,20765,Damaged,2022-06-12
+2935,18134,Customer changed mind,2020-08-28
+2936,51187,Damaged,2022-07-08
+2937,96140,Damaged,2022-01-04
+2938,41633,Damaged,2023-11-09
+2939,79122,Customer changed mind,2021-02-13
+2940,37368,Customer changed mind,2020-08-01
+2941,55170,Customer changed mind,2023-09-14
+2942,14159,Customer changed mind,2023-12-23
+2943,61666,Customer changed mind,2023-10-29
+2944,77789,Wrong item,2020-05-13
+2945,76790,Wrong item,2023-11-30
+2946,7944,Damaged,2021-05-05
+2947,74951,Customer changed mind,2021-01-31
+2948,54741,Wrong item,2020-03-20
+2949,51008,Wrong item,2050-06-01
+2950,72741,Wrong item,2058-05-11
+2951,30652,Damaged,2022-12-12
+2952,15498,Wrong item,2021-05-21
+2953,77817,Wrong item,2023-02-26
+2954,51398,Damaged,2021-03-31
+2955,32797,Customer changed mind,2020-08-06
+2956,97370,Damaged,2023-12-23
+2957,48708,Damaged,2020-12-09
+2958,46494,Damaged,2020-01-20
+2959,52395,Customer changed mind,2023-07-01
+2960,75087,Customer changed mind,2021-12-05
+2961,49403,Damaged,2022-08-05
+2962,82531,Customer changed mind,2023-09-07
+2963,23911,Customer changed mind,2022-11-30
+2964,7344,Damaged,2037-01-17
+2965,53880,Damaged,2091-05-15
+2966,54553,Wrong item,2020-05-03
+2967,83831,Wrong item,2022-04-18
+2968,2727,Damaged,2021-10-05
+2969,6388,Wrong item,2022-05-13
+2970,79942,Damaged,2023-11-26
+2971,14311,Customer changed mind,2023-06-06
+2972,92081,Customer changed mind,2023-10-01
+2973,46953,Wrong item,2021-01-08
+2974,61285,Customer changed mind,2023-10-03
+2975,83583,Customer changed mind,2023-01-20
+2976,67737,Damaged,2021-03-16
+2977,73255,Wrong item,2063-03-16
+2978,62097,Damaged,2092-04-02
+2979,96365,Damaged,2022-03-01
+2980,54533,Customer changed mind,2022-05-29
+2981,2368,Customer changed mind,2092-01-14
+2982,83428,Damaged,2021-06-09
+2983,23370,Wrong item,2023-11-12
+2984,4347,Wrong item,2020-04-20
+2985,73936,Customer changed mind,2021-02-11
+2986,65985,Wrong item,2021-08-10
+2987,73776,Damaged,2021-10-22
+2988,69307,Damaged,2020-10-11
+2989,41482,Customer changed mind,2023-11-14
+2990,72162,Wrong item,2022-10-16
+2991,9902,Customer changed mind,2021-08-15
+2992,71856,Wrong item,2069-09-01
+2993,48219,Customer changed mind,2023-09-19
+2994,85102,Wrong item,2022-05-21
+2995,81183,Customer changed mind,2020-09-25
+2996,77518,Damaged,2021-07-28
+2997,21046,Customer changed mind,2021-01-04
+2998,71684,Damaged,2023-10-30
+2999,45313,Damaged,2023-02-22
+3000,56295,Damaged,2022-04-08
+3001,43951,Damaged,2021-12-03
+3002,33548,Wrong item,2022-11-13
+3003,3660,Customer changed mind,2023-02-22
+3004,62386,Wrong item,2023-11-16
+3005,4445,Damaged,2020-06-24
+3006,51015,Damaged,2020-09-29
+3007,3562,Damaged,2021-07-10
+3008,27211,Wrong item,2085-10-14
+3009,38630,Customer changed mind,2022-03-16
+3010,23480,Wrong item,2023-07-03
+3011,41761,Customer changed mind,2021-12-16
+3012,46344,Wrong item,2023-01-19
+3013,20434,Wrong item,2021-04-26
+3014,55174,Damaged,2023-12-19
+3015,75579,Customer changed mind,2022-06-12
+3016,12051,Wrong item,2021-05-12
+3017,30057,Customer changed mind,2020-09-21
+3018,21404,Wrong item,2039-06-10
+3019,20033,Damaged,2020-12-10
+3020,67109,Wrong item,2022-03-08
+3021,79134,Wrong item,2020-06-22
+3022,18153,Wrong item,2022-06-17
+3023,96749,Damaged,2020-12-05
+3024,87923,Customer changed mind,2022-02-10
+3025,50054,Customer changed mind,2021-10-14
+3026,72836,Damaged,2023-10-03
+3027,84645,Damaged,2042-02-16
+3028,31250,Wrong item,2023-02-08
+3029,80975,Wrong item,2020-07-16
+3030,40230,Customer changed mind,2067-03-10
+3031,27319,Customer changed mind,2022-07-30
+3032,24308,Damaged,2021-01-21
+3033,65952,Wrong item,2076-03-01
+3034,16636,Wrong item,2020-12-10
+3035,62539,Damaged,2022-11-04
+3036,93072,Damaged,2023-01-31
+3037,36791,Damaged,2020-03-14
+3038,16561,Wrong item,2022-03-07
+3039,56247,Damaged,2023-09-26
+3040,63421,Damaged,2023-03-23
+3041,33364,Damaged,2022-12-23
+3042,67141,Customer changed mind,2021-07-20
+3043,50225,Wrong item,2023-07-07
+3044,8204,Damaged,2023-07-14
+3045,2823,Wrong item,2020-12-22
+3046,76835,Damaged,2020-11-14
+3047,47939,Customer changed mind,2021-01-14
+3048,40614,Wrong item,2021-07-29
+3049,27469,Damaged,2022-10-08
+3050,52958,Customer changed mind,2020-05-16
+3051,56219,Damaged,2022-02-19
+3052,32550,Customer changed mind,2023-03-24
+3053,10887,Customer changed mind,2020-02-18
+3054,91332,Customer changed mind,2054-05-21
+3055,21681,Wrong item,2021-06-29
+3056,41565,Damaged,2020-06-26
+3057,82263,Wrong item,2022-10-04
+3058,60688,Customer changed mind,2020-01-10
+3059,54644,Wrong item,2021-08-19
+3060,78142,Customer changed mind,2023-07-17
+3061,71038,Damaged,2023-01-03
+3062,65475,Customer changed mind,2021-08-31
+3063,91625,Damaged,2068-06-06
+3064,21917,Wrong item,2021-09-04
+3065,58686,Damaged,2023-01-01
+3066,16622,Customer changed mind,2021-01-29
+3067,56581,Customer changed mind,2023-04-23
+3068,45230,Damaged,2020-09-13
+3069,48603,Customer changed mind,2094-01-25
+3070,80217,Customer changed mind,2092-00-14
+3071,67361,Customer changed mind,2021-02-20
+3072,44941,Customer changed mind,2023-03-07
+3073,51596,Customer changed mind,2022-04-13
+3074,64104,Customer changed mind,2022-07-22
+3075,65342,Customer changed mind,2020-04-13
+3076,45713,Damaged,2020-11-05
+3077,6376,Wrong item,2020-05-01
+3078,91917,Damaged,2020-07-21
+3079,66377,Wrong item,2021-08-22
+3080,20351,Wrong item,2021-03-27
+3081,6524,Wrong item,2023-04-24
+3082,90349,Wrong item,2021-10-06
+3083,3658,Wrong item,2021-05-04
+3084,85230,Damaged,2020-11-06
+3085,44410,Wrong item,2020-09-05
+3086,92882,Damaged,2021-03-04
+3087,6355,Damaged,2023-05-20
+3088,52518,Customer changed mind,2020-09-18
+3089,74599,Wrong item,2021-05-28
+3090,356,Wrong item,2021-12-28
+3091,33935,Wrong item,2021-02-26
+3092,24701,Wrong item,2020-01-14
+3093,7736,Wrong item,2021-04-13
+3094,45428,Damaged,2020-08-02
+3095,37942,Customer changed mind,2023-03-15
+3096,62192,Customer changed mind,2044-05-05
+3097,78821,Damaged,2023-04-27
+3098,57925,Customer changed mind,2076-05-28
+3099,5070,Wrong item,2023-03-17
+3100,87147,Customer changed mind,2020-08-28
+3101,5024,Customer changed mind,2021-04-18
+3102,64173,Wrong item,2022-10-30
+3103,35577,Damaged,2020-05-16
+3104,81318,Damaged,2023-06-17
+3105,17832,Damaged,2023-12-30
+3106,36407,Damaged,2022-08-09
+3107,26382,Customer changed mind,2020-04-14
+3108,87369,Customer changed mind,2023-05-24
+3109,48729,Damaged,2033-01-06
+3110,10772,Wrong item,2022-07-31
+3111,92907,Damaged,2022-12-14
+3112,39961,Damaged,2022-11-07
+3113,10268,Damaged,2022-12-18
+3114,67188,Wrong item,2021-07-17
+3115,21905,Damaged,2023-10-24
+3116,95847,Customer changed mind,2022-02-03
+3117,56141,Wrong item,2020-03-31
+3118,19210,Wrong item,2022-06-15
+3119,5111,Wrong item,2022-10-07
+3120,10572,Damaged,2022-07-19
+3121,37456,Wrong item,2022-12-24
+3122,25893,Wrong item,2023-06-09
+3123,67907,Wrong item,2023-11-14
+3124,23491,Damaged,2023-07-24
+3125,39141,Damaged,2021-03-16
+3126,875,Wrong item,2021-09-05
+3127,27374,Customer changed mind,2020-10-19
+3128,29878,Damaged,2023-02-12
+3129,41269,Wrong item,2023-05-27
+3130,26026,Damaged,2020-09-18
+3131,75552,Damaged,2021-12-27
+3132,84886,Customer changed mind,2022-09-01
+3133,98033,Damaged,2020-01-22
+3134,22409,Wrong item,2022-05-04
+3135,83153,Damaged,2023-12-04
+3136,34735,Customer changed mind,2022-11-13
+3137,6178,Damaged,2074-04-14
+3138,73856,Wrong item,2090-04-11
+3139,68934,Damaged,2023-11-26
+3140,95064,Damaged,2021-09-05
+3141,48613,Customer changed mind,2023-12-25
+3142,17849,Customer changed mind,2020-05-11
+3143,7100,Customer changed mind,2020-06-10
+3144,29703,Customer changed mind,2021-11-20
+3145,38833,Wrong item,2020-06-10
+3146,88324,Wrong item,2021-04-20
+3147,58863,Damaged,2020-09-22
+3148,37959,Wrong item,2022-09-12
+3149,95055,Damaged,2020-12-28
+3150,14627,Wrong item,2020-07-26
+3151,3523,Customer changed mind,2021-06-17
+3152,23258,Wrong item,2022-08-29
+3153,97773,Customer changed mind,2023-07-18
+3154,69822,Wrong item,2021-04-01
+3155,53769,Customer changed mind,2021-09-06
+3156,80055,Customer changed mind,2055-04-02
+3157,57076,Wrong item,2021-06-09
+3158,91916,Customer changed mind,2022-09-06
+3159,93746,Damaged,2021-06-15
+3160,74717,Customer changed mind,2022-02-01
+3161,65178,Customer changed mind,2021-10-04
+3162,27848,Wrong item,2020-12-17
+3163,11344,Wrong item,2022-03-22
+3164,80212,Damaged,2020-02-29
+3165,14863,Damaged,2023-07-26
+3166,58988,Wrong item,2023-09-17
+3167,71881,Wrong item,2021-04-12
+3168,14922,Damaged,2036-05-18
+3169,23896,Customer changed mind,2022-10-07
+3170,55751,Wrong item,2021-01-15
+3171,41764,Customer changed mind,2021-06-24
+3172,68803,Wrong item,2022-08-04
+3173,92345,Customer changed mind,2022-03-03
+3174,47793,Customer changed mind,2020-12-20
+3175,49266,Wrong item,2022-11-12
+3176,15395,Customer changed mind,2022-04-26
+3177,63195,Customer changed mind,2021-06-17
+3178,17337,Wrong item,2022-05-26
+3179,14505,Damaged,2021-01-27
+3180,295,Damaged,2020-12-25
+3181,29687,Wrong item,2022-11-20
+3182,60443,Wrong item,2023-02-13
+3183,93892,Customer changed mind,2023-06-14
+3184,31158,Customer changed mind,2020-01-11
+3185,32989,Damaged,2021-12-16
+3186,49347,Customer changed mind,2066-10-05
+3187,37171,Damaged,2022-12-18
+3188,95798,Customer changed mind,2058-06-24
+3189,54409,Wrong item,2022-07-08
+3190,40339,Wrong item,2020-11-21
+3191,51498,Damaged,2023-06-27
+3192,91957,Customer changed mind,2020-02-14
+3193,42760,Wrong item,2021-04-27
+3194,74385,Wrong item,2021-06-13
+3195,32498,Wrong item,2021-03-25
+3196,76059,Wrong item,2021-10-27
+3197,43763,Wrong item,2021-09-09
+3198,36381,Damaged,2020-04-06
+3199,59004,Customer changed mind,2020-01-05
+3200,3402,Wrong item,2021-11-24
+3201,17492,Damaged,2064-01-21
+3202,94955,Customer changed mind,2021-08-24
+3203,54159,Wrong item,2021-07-14
+3204,85446,Damaged,2021-06-12
+3205,89356,Wrong item,2020-06-07
+3206,72596,Customer changed mind,2043-06-18
+3207,73731,Customer changed mind,2020-01-23
+3208,42372,Customer changed mind,2020-02-10
+3209,89831,Damaged,2022-12-09
+3210,93206,Customer changed mind,2021-11-13
+3211,63011,Customer changed mind,2023-06-29
+3212,26153,Customer changed mind,2021-08-19
+3213,182,Damaged,2020-12-29
+3214,3821,Customer changed mind,2021-01-04
+3215,84984,Customer changed mind,2020-09-07
+3216,81358,Wrong item,2022-07-06
+3217,470,Wrong item,2021-05-30
+3218,82611,Damaged,2020-02-18
+3219,97024,Customer changed mind,2020-09-27
+3220,48543,Customer changed mind,2020-03-04
+3221,42570,Customer changed mind,2020-09-09
+3222,82972,Customer changed mind,2020-03-18
+3223,1530,Damaged,2022-03-05
+3224,50180,Customer changed mind,2020-10-30
+3225,75414,Damaged,2021-07-21
+3226,78739,Wrong item,2022-07-30
+3227,55927,Damaged,2022-01-09
+3228,45652,Customer changed mind,2022-05-09
+3229,42169,Damaged,2020-12-28
+3230,14384,Wrong item,2021-02-15
+3231,69042,Damaged,2020-02-18
+3232,34839,Damaged,2023-04-29
+3233,2201,Wrong item,2020-11-20
+3234,33591,Wrong item,2098-00-13
+3235,39482,Damaged,2023-08-22
+3236,73340,Damaged,2022-11-09
+3237,81196,Damaged,2022-10-29
+3238,39963,Customer changed mind,2023-02-03
+3239,13678,Wrong item,2021-09-03
+3240,78399,Damaged,2022-05-11
+3241,84032,Damaged,2023-07-20
+3242,34909,Customer changed mind,2023-05-21
+3243,60790,Customer changed mind,2069-10-27
+3244,15664,Damaged,2023-06-05
+3245,72975,Customer changed mind,2023-12-07
+3246,16171,Damaged,2020-12-12
+3247,16587,Customer changed mind,2020-02-09
+3248,47322,Customer changed mind,2021-08-12
+3249,64320,Customer changed mind,2020-08-26
+3250,42198,Damaged,2021-10-25
+3251,57865,Customer changed mind,2020-05-04
+3252,55832,Wrong item,2021-10-29
+3253,90830,Customer changed mind,2081-07-10
+3254,78194,Customer changed mind,2022-12-21
+3255,8710,Wrong item,2020-08-28
+3256,30965,Damaged,2021-09-27
+3257,54533,Customer changed mind,2022-04-19
+3258,95638,Wrong item,2021-05-17
+3259,61856,Wrong item,2022-03-24
+3260,63340,Customer changed mind,2023-02-02
+3261,38295,Customer changed mind,2065-03-20
+3262,44902,Customer changed mind,2020-11-14
+3263,4895,Customer changed mind,2020-12-03
+3264,9645,Wrong item,2021-12-26
+3265,97167,Wrong item,2022-11-19
+3266,72921,Wrong item,2020-07-09
+3267,30577,Damaged,2020-01-29
+3268,25165,Wrong item,2020-04-05
+3269,3207,Damaged,2022-04-12
+3270,76853,Customer changed mind,2022-06-28
+3271,95668,Wrong item,2021-06-27
+3272,94984,Damaged,2021-03-21
+3273,69607,Damaged,2022-07-31
+3274,22802,Damaged,2022-02-09
+3275,15380,Customer changed mind,2023-07-13
+3276,32544,Damaged,2067-03-22
+3277,30896,Wrong item,2022-08-04
+3278,71773,Damaged,2020-07-08
+3279,48795,Damaged,2021-07-01
+3280,41981,Wrong item,2020-06-10
+3281,61402,Damaged,2020-09-05
+3282,91833,Damaged,2023-10-01
+3283,89028,Damaged,2023-03-19
+3284,85091,Wrong item,2021-03-30
+3285,12059,Wrong item,2021-03-17
+3286,58250,Damaged,2021-03-01
+3287,63119,Customer changed mind,2023-08-26
+3288,43858,Wrong item,2021-04-24
+3289,46916,Wrong item,2020-04-01
+3290,47330,Wrong item,2020-05-06
+3291,92860,Customer changed mind,2020-08-29
+3292,45467,Wrong item,2022-02-28
+3293,47331,Customer changed mind,2023-02-18
+3294,99577,Wrong item,2023-12-20
+3295,3098,Damaged,2022-10-02
+3296,15567,Wrong item,2021-12-21
+3297,25657,Damaged,2023-12-20
+3298,83818,Damaged,2022-03-26
+3299,13127,Wrong item,2023-10-24
+3300,97098,Damaged,2034-03-20
+3301,42001,Customer changed mind,2021-11-15
+3302,27326,Customer changed mind,2020-09-21
+3303,13644,Wrong item,2023-05-24
+3304,98301,Wrong item,2020-10-31
+3305,6451,Damaged,2020-08-11
+3306,8950,Customer changed mind,2021-02-03
+3307,18923,Customer changed mind,2023-12-30
+3308,60912,Customer changed mind,2021-05-10
+3309,2409,Wrong item,2020-06-08
+3310,54597,Damaged,2022-10-28
+3311,79568,Damaged,2020-04-08
+3312,84344,Damaged,2078-02-24
+3313,89675,Damaged,2020-02-24
+3314,21637,Wrong item,2020-01-01
+3315,39017,Wrong item,2030-00-28
+3316,93663,Wrong item,2021-05-12
+3317,35305,Wrong item,2022-01-11
+3318,71794,Customer changed mind,2021-12-31
+3319,1176,Customer changed mind,2020-08-09
+3320,28769,Wrong item,2023-02-15
+3321,79545,Wrong item,2063-07-18
+3322,62557,Customer changed mind,2063-08-06
+3323,76681,Damaged,2022-08-05
+3324,32324,Damaged,2022-07-04
+3325,30455,Wrong item,2020-05-10
+3326,74032,Damaged,2053-04-03
+3327,94734,Damaged,2020-06-15
+3328,46867,Damaged,2022-06-25
+3329,9991,Wrong item,2023-10-07
+3330,7875,Damaged,2022-12-09
+3331,71956,Wrong item,2020-08-04
+3332,26916,Customer changed mind,2022-09-12
+3333,33915,Wrong item,2020-08-07
+3334,62451,Wrong item,2022-03-16
+3335,61730,Damaged,2022-03-08
+3336,98444,Damaged,2021-04-09
+3337,13610,Damaged,2021-10-22
+3338,28848,Damaged,2052-01-22
+3339,86524,Damaged,2021-06-11
+3340,82532,Damaged,2023-01-09
+3341,13320,Wrong item,2021-05-04
+3342,3998,Damaged,2022-06-11
+3343,73752,Damaged,2023-08-08
+3344,40489,Wrong item,2020-11-29
+3345,93219,Damaged,2022-10-05
+3346,15300,Damaged,2020-04-24
+3347,67048,Damaged,2023-09-09
+3348,48127,Wrong item,2020-06-23
+3349,2723,Customer changed mind,2021-10-19
+3350,16966,Damaged,2021-10-23
+3351,74216,Customer changed mind,2021-07-10
+3352,15704,Wrong item,2021-01-07
+3353,54946,Customer changed mind,2023-12-31
+3354,39624,Damaged,2023-10-21
+3355,89528,Customer changed mind,2022-05-24
+3356,44572,Wrong item,2023-03-03
+3357,67237,Wrong item,2023-12-23
+3358,80560,Damaged,2022-08-05
+3359,1363,Customer changed mind,2021-12-07
+3360,81754,Customer changed mind,2022-01-22
+3361,10041,Wrong item,2022-07-03
+3362,65908,Wrong item,2020-04-19
+3363,87033,Customer changed mind,2020-08-22
+3364,54437,Customer changed mind,2023-05-03
+3365,62581,Damaged,2020-12-25
+3366,21597,Customer changed mind,2023-09-07
+3367,18108,Wrong item,2021-03-20
+3368,31090,Wrong item,2020-11-16
+3369,64935,Wrong item,2044-07-14
+3370,58847,Customer changed mind,2020-01-09
+3371,29669,Customer changed mind,2023-10-19
+3372,13310,Damaged,2021-02-11
+3373,18473,Damaged,2022-05-01
+3374,50749,Customer changed mind,2021-10-19
+3375,55009,Wrong item,2021-11-16
+3376,66767,Damaged,2069-07-14
+3377,10704,Damaged,2022-10-03
+3378,67389,Customer changed mind,2020-03-08
+3379,9531,Damaged,2021-04-14
+3380,75221,Wrong item,2020-08-07
+3381,16111,Wrong item,2021-05-09
+3382,92269,Customer changed mind,2020-10-10
+3383,10693,Wrong item,2021-04-27
+3384,41228,Damaged,2022-09-04
+3385,91996,Customer changed mind,2020-09-03
+3386,29496,Wrong item,2022-01-25
+3387,50677,Wrong item,2021-09-18
+3388,66562,Customer changed mind,2020-01-11
+3389,40201,Wrong item,2022-09-16
+3390,22199,Customer changed mind,2023-12-27
+3391,25214,Damaged,2049-07-13
+3392,64748,Customer changed mind,2022-11-01
+3393,34283,Wrong item,2023-09-19
+3394,60506,Wrong item,2048-00-16
+3395,15150,Damaged,2020-05-17
+3396,85326,Wrong item,2021-10-02
+3397,31375,Damaged,2021-10-05
+3398,32213,Customer changed mind,2020-10-18
+3399,80729,Customer changed mind,2022-06-27
+3400,36884,Damaged,2020-10-07
+3401,86977,Wrong item,2020-08-30
+3402,14813,Wrong item,2021-09-07
+3403,60853,Customer changed mind,2021-07-13
+3404,35713,Damaged,2021-06-29
+3405,80105,Damaged,2020-05-21
+3406,87299,Customer changed mind,2020-09-15
+3407,1779,Damaged,2021-06-01
+3408,62279,Damaged,2020-09-11
+3409,97516,Customer changed mind,2023-03-06
+3410,44342,Wrong item,2021-11-13
+3411,39075,Customer changed mind,2023-04-23
+3412,56374,Wrong item,2023-08-10
+3413,67368,Wrong item,2022-07-02
+3414,24406,Customer changed mind,2023-09-13
+3415,21491,Customer changed mind,2023-11-05
+3416,18382,Customer changed mind,2080-04-10
+3417,65687,Customer changed mind,2020-11-22
+3418,99509,Wrong item,2023-12-19
+3419,91509,Customer changed mind,2076-04-04
+3420,26381,Wrong item,2023-11-12
+3421,55303,Damaged,2062-06-10
+3422,83690,Wrong item,2023-08-09
+3423,94420,Customer changed mind,2020-10-05
+3424,99944,Wrong item,2022-11-25
+3425,8870,Wrong item,2022-05-10
+3426,42311,Customer changed mind,2020-07-29
+3427,80555,Wrong item,2022-10-19
+3428,82330,Customer changed mind,2020-06-22
+3429,78658,Customer changed mind,2021-12-17
+3430,4273,Wrong item,2021-03-10
+3431,34965,Customer changed mind,2021-12-30
+3432,4799,Wrong item,2022-09-11
+3433,34611,Customer changed mind,2021-10-16
+3434,89761,Customer changed mind,2023-12-09
+3435,60564,Wrong item,2046-01-14
+3436,91666,Wrong item,2020-02-29
+3437,9303,Damaged,2021-02-19
+3438,21445,Customer changed mind,2020-10-07
+3439,43478,Damaged,2022-12-09
+3440,98557,Customer changed mind,2022-07-08
+3441,25234,Damaged,2022-04-23
+3442,99670,Customer changed mind,2022-03-11
+3443,35318,Customer changed mind,2021-04-09
+3444,66647,Customer changed mind,2020-06-18
+3445,63826,Wrong item,2022-11-19
+3446,48879,Wrong item,2022-09-05
+3447,92074,Damaged,2023-08-19
+3448,66203,Damaged,2021-04-17
+3449,38518,Customer changed mind,2020-09-20
+3450,62887,Wrong item,2020-12-26
+3451,66879,Damaged,2021-03-23
+3452,8791,Damaged,2021-11-20
+3453,61819,Customer changed mind,2023-11-24
+3454,72978,Damaged,2021-03-21
+3455,19043,Wrong item,2021-01-30
+3456,68746,Damaged,2022-06-11
+3457,16358,Wrong item,2020-05-06
+3458,51015,Damaged,2020-01-11
+3459,71263,Damaged,2047-06-17
+3460,11550,Customer changed mind,2022-02-22
+3461,65088,Customer changed mind,2023-01-12
+3462,11809,Wrong item,2021-11-15
+3463,39673,Wrong item,2022-06-12
+3464,88466,Customer changed mind,2022-12-22
+3465,41509,Customer changed mind,2021-02-20
+3466,24423,Damaged,2099-01-22
+3467,61521,Customer changed mind,2023-07-23
+3468,89991,Wrong item,2021-12-09
+3469,10826,Damaged,2020-11-19
+3470,22623,Damaged,2022-04-01
+3471,48542,Customer changed mind,2023-01-18
+3472,99962,Customer changed mind,2020-09-16
+3473,14454,Damaged,2021-10-12
+3474,64360,Customer changed mind,2023-06-24
+3475,8980,Wrong item,2021-09-22
+3476,72049,Damaged,2023-08-10
+3477,13981,Damaged,2021-07-17
+3478,2725,Customer changed mind,2020-10-09
+3479,4808,Customer changed mind,2021-08-13
+3480,94681,Customer changed mind,2067-05-08
+3481,31807,Wrong item,2020-08-25
+3482,66085,Damaged,2021-03-17
+3483,37313,Customer changed mind,2022-11-01
+3484,52351,Customer changed mind,2021-10-20
+3485,86476,Wrong item,2049-00-17
+3486,35529,Wrong item,2020-02-29
+3487,15132,Wrong item,2023-06-29
+3488,98329,Wrong item,2023-10-24
+3489,65561,Wrong item,2023-11-16
+3490,39825,Wrong item,2023-08-28
+3491,69059,Customer changed mind,2023-03-04
+3492,91303,Wrong item,2022-01-08
+3493,30446,Customer changed mind,2020-10-31
+3494,56434,Damaged,2022-04-14
+3495,3835,Damaged,2022-08-30
+3496,68533,Customer changed mind,2023-08-08
+3497,91831,Customer changed mind,2045-03-13
+3498,77155,Wrong item,2023-11-13
+3499,25883,Damaged,2020-06-10
+3500,85899,Customer changed mind,2021-02-16
+3501,70142,Wrong item,2021-08-05
+3502,34392,Wrong item,2023-12-23
+3503,52112,Damaged,2021-08-07
+3504,58035,Customer changed mind,2022-04-08
+3505,81566,Damaged,2020-09-23
+3506,51705,Wrong item,2021-04-26
+3507,78883,Damaged,2020-07-09
+3508,73828,Damaged,2022-03-12
+3509,40405,Customer changed mind,2021-01-15
+3510,4082,Damaged,2022-05-29
+3511,88386,Damaged,2020-03-19
+3512,20597,Wrong item,2051-06-03
+3513,15281,Damaged,2021-01-09
+3514,41976,Customer changed mind,2086-05-15
+3515,45264,Damaged,2021-07-13
+3516,77656,Customer changed mind,2020-10-03
+3517,61139,Damaged,2020-07-02
+3518,99832,Damaged,2020-09-19
+3519,13688,Damaged,2022-05-21
+3520,76557,Damaged,2092-09-09
+3521,22393,Customer changed mind,2021-03-16
+3522,50180,Wrong item,2022-02-04
+3523,83043,Damaged,2023-03-31
+3524,50314,Damaged,2022-12-16
+3525,60625,Customer changed mind,2020-08-27
+3526,31949,Customer changed mind,2023-03-11
+3527,9418,Damaged,2022-07-16
+3528,93881,Customer changed mind,2020-03-12
+3529,4691,Wrong item,2021-08-28
+3530,8496,Damaged,2022-10-16
+3531,69326,Damaged,2021-04-22
+3532,44668,Customer changed mind,2021-05-01
+3533,32932,Damaged,2022-01-17
+3534,19149,Damaged,2021-10-17
+3535,94200,Customer changed mind,2020-07-02
+3536,37278,Damaged,2020-03-22
+3537,71444,Customer changed mind,2022-11-23
+3538,32178,Wrong item,2022-10-01
+3539,63179,Customer changed mind,2023-05-25
+3540,52935,Customer changed mind,2022-10-23
+3541,91394,Customer changed mind,2020-10-03
+3542,78903,Customer changed mind,2022-05-24
+3543,99541,Customer changed mind,2023-01-17
+3544,4558,Damaged,2022-02-11
+3545,34321,Customer changed mind,2021-05-10
+3546,67384,Wrong item,2055-07-11
+3547,26672,Wrong item,2022-05-03
+3548,68375,Customer changed mind,2020-06-17
+3549,38401,Wrong item,2022-12-14
+3550,54484,Wrong item,2021-10-21
+3551,46392,Customer changed mind,2023-11-03
+3552,80107,Customer changed mind,2020-04-20
+3553,8803,Customer changed mind,2022-01-23
+3554,22491,Damaged,2023-11-29
+3555,94551,Customer changed mind,2023-10-06
+3556,51011,Damaged,2023-04-14
+3557,55468,Customer changed mind,2023-08-26
+3558,57106,Wrong item,2023-01-30
+3559,32267,Wrong item,2022-10-26
+3560,8648,Customer changed mind,2022-10-27
+3561,55011,Wrong item,2035-03-26
+3562,58646,Customer changed mind,2023-10-04
+3563,46194,Customer changed mind,2020-02-02
+3564,80118,Damaged,2022-12-18
+3565,38356,Damaged,2021-03-30
+3566,47781,Damaged,2023-03-15
+3567,92978,Wrong item,2021-06-18
+3568,98444,Damaged,2020-01-15
+3569,73255,Customer changed mind,2020-06-01
+3570,45933,Wrong item,2021-03-30
+3571,8516,Wrong item,2021-07-15
+3572,70844,Customer changed mind,2021-01-25
+3573,21514,Customer changed mind,2021-01-04
+3574,91016,Damaged,2020-09-13
+3575,93979,Damaged,2020-07-27
+3576,57962,Customer changed mind,2022-02-15
+3577,88317,Customer changed mind,2020-02-19
+3578,35449,Damaged,2022-01-12
+3579,92798,Wrong item,2021-05-29
+3580,71076,Wrong item,2023-04-17
+3581,64285,Customer changed mind,2022-04-11
+3582,80926,Wrong item,2093-09-03
+3583,41699,Customer changed mind,2023-09-01
+3584,43757,Customer changed mind,2021-12-17
+3585,65332,Damaged,2022-07-03
+3586,83073,Damaged,2023-10-19
+3587,94385,Customer changed mind,2023-07-09
+3588,89822,Wrong item,2021-07-25
+3589,22096,Damaged,2021-12-27
+3590,70397,Customer changed mind,2040-06-28
+3591,90785,Wrong item,2020-11-04
+3592,91580,Damaged,2020-10-05
+3593,26463,Customer changed mind,2021-09-26
+3594,33116,Wrong item,2021-08-07
+3595,15228,Customer changed mind,2022-12-16
+3596,99914,Wrong item,2020-09-18
+3597,39778,Wrong item,2080-07-06
+3598,25411,Wrong item,2020-08-04
+3599,83425,Wrong item,2020-04-12
+3600,69029,Damaged,2020-03-03
+3601,14022,Customer changed mind,2020-02-20
+3602,43281,Damaged,2022-04-30
+3603,23378,Damaged,2023-08-21
+3604,56424,Customer changed mind,2023-04-28
+3605,90260,Wrong item,2047-00-17
+3606,18163,Customer changed mind,2020-04-03
+3607,80222,Wrong item,2020-03-21
+3608,75758,Wrong item,2020-12-30
+3609,42314,Customer changed mind,2022-06-15
+3610,47335,Wrong item,2022-05-21
+3611,36312,Wrong item,2021-02-20
+3612,27719,Wrong item,2022-12-23
+3613,82214,Wrong item,2022-10-16
+3614,53740,Wrong item,2021-10-23
+3615,9338,Customer changed mind,2021-06-01
+3616,43421,Customer changed mind,2023-11-16
+3617,23136,Damaged,2022-01-20
+3618,2349,Wrong item,2022-10-30
+3619,35923,Customer changed mind,2022-03-13
+3620,11432,Wrong item,2020-08-25
+3621,66765,Customer changed mind,2092-04-20
+3622,1441,Customer changed mind,2020-07-21
+3623,1468,Damaged,2021-03-19
+3624,74251,Damaged,2021-03-16
+3625,12942,Customer changed mind,2020-06-06
+3626,31902,Damaged,2022-05-04
+3627,50105,Damaged,2023-08-02
+3628,88803,Customer changed mind,2021-04-26
+3629,56114,Wrong item,2023-07-11
+3630,94164,Damaged,2023-03-19
+3631,40405,Customer changed mind,2020-09-15
+3632,96474,Wrong item,2020-10-07
+3633,14061,Damaged,2023-05-23
+3634,74650,Customer changed mind,2020-02-16
+3635,80835,Damaged,2021-06-06
+3636,15722,Wrong item,2022-12-12
+3637,61503,Wrong item,2020-10-13
+3638,37480,Damaged,2022-12-14
+3639,37147,Damaged,2021-10-14
+3640,90859,Wrong item,2023-03-27
+3641,40282,Damaged,2021-03-17
+3642,66357,Damaged,2020-05-02
+3643,16784,Damaged,2021-08-12
+3644,66140,Customer changed mind,2021-08-28
+3645,17923,Customer changed mind,2023-12-25
+3646,91041,Wrong item,2020-07-07
+3647,3053,Wrong item,2023-06-02
+3648,85453,Damaged,2023-09-22
+3649,42152,Wrong item,2020-10-30
+3650,57226,Customer changed mind,2021-03-17
+3651,15137,Customer changed mind,2023-04-04
+3652,24915,Customer changed mind,2020-11-25
+3653,74309,Wrong item,2020-08-13
+3654,87040,Damaged,2021-01-26
+3655,60212,Damaged,2022-10-07
+3656,54717,Wrong item,2021-10-12
+3657,86968,Customer changed mind,2021-01-26
+3658,37724,Wrong item,2020-12-04
+3659,19490,Customer changed mind,2072-00-14
+3660,89567,Customer changed mind,2023-01-11
+3661,68207,Damaged,2022-05-16
+3662,26831,Wrong item,2022-03-30
+3663,79292,Wrong item,2023-09-03
+3664,92781,Wrong item,2023-07-09
+3665,95447,Damaged,2023-03-03
+3666,46129,Damaged,2021-08-03
+3667,57752,Wrong item,2022-06-02
+3668,45213,Damaged,2020-11-19
+3669,89246,Customer changed mind,2020-06-21
+3670,26620,Damaged,2023-03-27
+3671,10061,Customer changed mind,2059-06-08
+3672,15589,Customer changed mind,2020-08-19
+3673,5866,Customer changed mind,2022-04-08
+3674,53707,Customer changed mind,2023-11-17
+3675,68781,Damaged,2064-03-26
+3676,96531,Damaged,2023-10-09
+3677,20111,Customer changed mind,2021-10-20
+3678,83845,Damaged,2020-03-17
+3679,63277,Customer changed mind,2023-01-16
+3680,39893,Damaged,2022-04-11
+3681,87265,Wrong item,2022-10-26
+3682,28090,Customer changed mind,2021-11-27
+3683,67780,Damaged,2022-12-14
+3684,87434,Wrong item,2022-03-07
+3685,14165,Damaged,2022-02-05
+3686,26925,Wrong item,2081-07-18
+3687,56911,Damaged,2073-01-21
+3688,88782,Customer changed mind,2022-07-02
+3689,44575,Customer changed mind,2023-07-11
+3690,3505,Wrong item,2021-08-03
+3691,24906,Customer changed mind,2022-09-17
+3692,4123,Customer changed mind,2023-02-28
+3693,96884,Damaged,2022-09-27
+3694,14272,Damaged,2020-02-10
+3695,88862,Wrong item,2020-06-02
+3696,1752,Customer changed mind,2021-07-19
+3697,154,Damaged,2021-08-25
+3698,71193,Damaged,2023-04-15
+3699,34181,Wrong item,2020-10-18
+3700,40970,Wrong item,2020-02-09
+3701,56335,Wrong item,2020-05-08
+3702,51533,Wrong item,2022-08-19
+3703,18952,Damaged,2022-12-13
+3704,1654,Wrong item,2021-12-15
+3705,78992,Wrong item,2021-05-10
+3706,33204,Damaged,2020-10-31
+3707,54326,Damaged,2022-10-21
+3708,29247,Damaged,2022-04-18
+3709,95692,Damaged,2023-05-14
+3710,92447,Customer changed mind,2021-07-03
+3711,72979,Damaged,2023-04-23
+3712,4934,Customer changed mind,2021-02-26
+3713,59585,Wrong item,2023-02-21
+3714,5802,Customer changed mind,2023-06-02
+3715,90165,Customer changed mind,2020-08-23
+3716,47282,Customer changed mind,2020-01-02
+3717,29613,Customer changed mind,2023-08-21
+3718,88003,Wrong item,2021-12-30
+3719,28369,Customer changed mind,2022-01-01
+3720,67918,Customer changed mind,2021-06-16
+3721,3115,Wrong item,2021-09-01
+3722,81939,Customer changed mind,2023-11-12
+3723,15879,Damaged,2020-12-06
+3724,67548,Wrong item,2069-00-27
+3725,94563,Wrong item,2020-09-11
+3726,90746,Wrong item,2021-01-28
+3727,4063,Damaged,2022-05-21
+3728,18292,Customer changed mind,2022-02-27
+3729,4460,Customer changed mind,2023-02-21
+3730,26164,Damaged,2020-04-19
+3731,4962,Customer changed mind,2023-09-14
+3732,34910,Wrong item,2023-02-09
+3733,84169,Damaged,2021-12-24
+3734,22741,Damaged,2021-08-13
+3735,2720,Damaged,2022-11-06
+3736,77201,Damaged,2021-03-30
+3737,7311,Customer changed mind,2021-10-06
+3738,62547,Wrong item,2051-05-04
+3739,38996,Customer changed mind,2040-00-23
+3740,1897,Customer changed mind,2021-03-19
+3741,25338,Customer changed mind,2020-07-29
+3742,35666,Wrong item,2020-03-05
+3743,62710,Damaged,2022-02-22
+3744,75733,Wrong item,2021-11-05
+3745,44292,Damaged,2090-10-27
+3746,20881,Customer changed mind,2021-02-21
+3747,98240,Wrong item,2020-08-14
+3748,4865,Customer changed mind,2021-09-28
+3749,64461,Customer changed mind,2021-10-16
+3750,19587,Damaged,2020-05-20
+3751,87258,Customer changed mind,2020-02-15
+3752,72154,Damaged,2022-08-22
+3753,5181,Damaged,2020-03-06
+3754,87352,Damaged,2052-01-16
+3755,76650,Damaged,2049-07-14
+3756,94681,Damaged,2021-12-24
+3757,94659,Damaged,2023-06-12
+3758,63202,Customer changed mind,2021-05-19
+3759,2570,Damaged,2023-10-08
+3760,3086,Wrong item,2022-12-30
+3761,9255,Customer changed mind,2023-10-24
+3762,14109,Customer changed mind,2020-11-02
+3763,61874,Damaged,2022-02-12
+3764,2535,Damaged,2023-03-21
+3765,23586,Customer changed mind,2038-05-28
+3766,20871,Damaged,2022-06-02
+3767,24923,Damaged,2022-12-29
+3768,54553,Customer changed mind,2030-03-03
+3769,68992,Wrong item,2022-06-01
+3770,85447,Damaged,2022-07-05
+3771,10060,Damaged,2023-06-06
+3772,49660,Damaged,2032-04-17
+3773,89961,Wrong item,2021-01-06
+3774,3262,Wrong item,2022-06-27
+3775,84972,Customer changed mind,2020-06-14
+3776,33797,Wrong item,2021-04-13
+3777,68888,Customer changed mind,2021-08-21
+3778,12451,Damaged,2023-02-28
+3779,65692,Customer changed mind,2023-11-08
+3780,64000,Wrong item,2033-01-08
+3781,47184,Damaged,2021-03-08
+3782,53571,Wrong item,2021-02-06
+3783,88859,Customer changed mind,2023-06-20
+3784,47594,Wrong item,2033-03-23
+3785,38872,Wrong item,2022-04-29
+3786,82565,Wrong item,2020-12-31
+3787,52674,Customer changed mind,2088-06-05
+3788,18758,Damaged,2021-03-03
+3789,51569,Damaged,2023-04-12
+3790,1344,Customer changed mind,2023-11-03
+3791,48749,Damaged,2021-02-01
+3792,92952,Damaged,2022-10-28
+3793,53982,Damaged,2020-09-21
+3794,68099,Wrong item,2020-11-29
+3795,97442,Customer changed mind,2023-01-16
+3796,87717,Damaged,2022-12-12
+3797,70595,Wrong item,2020-02-24
+3798,2430,Customer changed mind,2023-03-08
+3799,9414,Customer changed mind,2021-05-17
+3800,66230,Damaged,2023-02-28
+3801,11315,Damaged,2020-09-30
+3802,84190,Damaged,2022-01-13
+3803,64964,Damaged,2021-02-07
+3804,43229,Wrong item,2020-03-15
+3805,69862,Damaged,2021-10-03
+3806,48861,Wrong item,2023-06-02
+3807,89176,Damaged,2021-06-13
+3808,58804,Damaged,2021-12-28
+3809,96557,Wrong item,2020-06-07
+3810,3959,Wrong item,2021-05-29
+3811,95707,Customer changed mind,2020-09-03
+3812,45551,Wrong item,2021-04-01
+3813,22503,Customer changed mind,2023-03-12
+3814,18611,Wrong item,2022-02-15
+3815,40152,Wrong item,2022-12-31
+3816,3566,Damaged,2021-10-17
+3817,27330,Wrong item,2022-05-13
+3818,60383,Customer changed mind,2022-11-25
+3819,91303,Damaged,2020-10-16
+3820,15557,Customer changed mind,2050-08-03
+3821,8692,Damaged,2021-08-03
+3822,9229,Customer changed mind,2021-01-08
+3823,78107,Customer changed mind,2020-08-14
+3824,37163,Wrong item,2023-02-18
+3825,41066,Customer changed mind,2021-07-14
+3826,54926,Wrong item,2020-02-17
+3827,89983,Customer changed mind,2023-12-09
+3828,30003,Damaged,2051-07-18
+3829,3168,Customer changed mind,2021-12-17
+3830,97641,Wrong item,2021-02-12
+3831,86616,Damaged,2020-09-26
+3832,90246,Damaged,2045-05-28
+3833,508,Damaged,2020-08-28
+3834,65981,Customer changed mind,2023-10-04
+3835,77186,Damaged,2023-02-09
+3836,92971,Customer changed mind,2020-09-24
+3837,5925,Customer changed mind,2022-02-14
+3838,29612,Wrong item,2020-03-20
+3839,606,Wrong item,2020-08-30
+3840,97903,Customer changed mind,2056-08-16
+3841,68766,Damaged,2020-12-27
+3842,50594,Wrong item,2022-04-24
+3843,73989,Customer changed mind,2023-10-03
+3844,2526,Wrong item,2023-09-13
+3845,77918,Damaged,2021-05-04
+3846,94508,Wrong item,2023-07-05
+3847,94575,Damaged,2020-10-01
+3848,51846,Customer changed mind,2020-10-19
+3849,96911,Damaged,2023-10-02
+3850,23584,Customer changed mind,2022-02-09
+3851,68109,Wrong item,2022-02-12
+3852,70447,Wrong item,2023-04-13
+3853,61381,Wrong item,2023-04-17
+3854,36767,Damaged,2023-10-03
+3855,2363,Wrong item,2023-10-30
+3856,61766,Customer changed mind,2022-12-05
+3857,81230,Damaged,2020-02-11
+3858,89863,Customer changed mind,2021-05-01
+3859,96646,Customer changed mind,2023-11-10
+3860,75280,Wrong item,2022-07-02
+3861,17705,Wrong item,2021-02-23
+3862,62939,Damaged,2020-10-24
+3863,84162,Wrong item,2022-06-16
+3864,62264,Wrong item,2021-01-23
+3865,60896,Wrong item,2022-10-20
+3866,69837,Customer changed mind,2023-07-20
+3867,1351,Wrong item,2088-09-20
+3868,56472,Damaged,2023-08-27
+3869,15698,Customer changed mind,2055-05-26
+3870,26631,Wrong item,2021-10-12
+3871,93877,Customer changed mind,2020-02-04
+3872,53969,Wrong item,2021-07-15
+3873,59902,Customer changed mind,2022-03-01
+3874,84636,Wrong item,2023-09-06
+3875,92933,Damaged,2020-10-07
+3876,75447,Damaged,2021-11-20
+3877,41855,Wrong item,2022-06-16
+3878,55864,Customer changed mind,2022-12-02
+3879,75510,Customer changed mind,2022-11-13
+3880,34692,Wrong item,2021-01-06
+3881,26631,Wrong item,2021-08-17
+3882,14211,Customer changed mind,2020-02-10
+3883,23972,Customer changed mind,2021-07-30
+3884,61702,Wrong item,2020-07-16
+3885,21976,Wrong item,2020-08-24
+3886,52565,Wrong item,2021-10-28
+3887,92430,Damaged,2023-02-20
+3888,76235,Damaged,2021-08-06
+3889,99273,Wrong item,2094-05-11
+3890,10855,Wrong item,2020-04-18
+3891,4755,Customer changed mind,2079-10-08
+3892,23007,Damaged,2021-09-21
+3893,51021,Customer changed mind,2020-06-10
+3894,23825,Wrong item,2021-11-18
+3895,3783,Customer changed mind,2023-08-06
+3896,8955,Wrong item,2020-09-12
+3897,93196,Damaged,2022-06-15
+3898,10531,Customer changed mind,2076-00-24
+3899,84584,Wrong item,2023-11-05
+3900,30990,Damaged,2023-09-21
+3901,63469,Damaged,2021-12-16
+3902,9047,Wrong item,2020-08-28
+3903,14632,Customer changed mind,2020-04-27
+3904,57618,Damaged,2021-09-04
+3905,5983,Customer changed mind,2023-05-23
+3906,23901,Customer changed mind,2023-03-31
+3907,49733,Customer changed mind,2020-07-11
+3908,67144,Damaged,2057-03-09
+3909,70367,Customer changed mind,2022-02-27
+3910,67574,Damaged,2020-10-16
+3911,94960,Damaged,2020-06-18
+3912,32035,Wrong item,2022-07-14
+3913,4477,Damaged,2023-12-08
+3914,48274,Customer changed mind,2023-12-16
+3915,61007,Customer changed mind,2020-09-07
+3916,32979,Damaged,2020-12-24
+3917,48742,Damaged,2021-03-25
+3918,76976,Damaged,2020-04-02
+3919,60171,Wrong item,2097-02-18
+3920,41176,Damaged,2023-01-14
+3921,85800,Customer changed mind,2021-02-12
+3922,93114,Wrong item,2021-10-18
+3923,54076,Customer changed mind,2022-06-21
+3924,57892,Wrong item,2023-05-01
+3925,15236,Customer changed mind,2023-05-31
+3926,23991,Customer changed mind,2021-03-08
+3927,86599,Customer changed mind,2021-03-15
+3928,95269,Customer changed mind,2023-03-23
+3929,11347,Wrong item,2021-10-24
+3930,46628,Customer changed mind,2021-03-11
+3931,1603,Customer changed mind,2020-07-18
+3932,27185,Wrong item,2047-07-05
+3933,89720,Damaged,2022-07-23
+3934,97200,Wrong item,2022-06-16
+3935,26766,Wrong item,2020-09-28
+3936,70579,Damaged,2023-09-01
+3937,92931,Wrong item,2023-09-05
+3938,94833,Damaged,2021-06-09
+3939,22025,Customer changed mind,2020-11-19
+3940,70405,Wrong item,2023-07-11
+3941,51616,Damaged,2020-03-25
+3942,71506,Customer changed mind,2022-01-18
+3943,62174,Wrong item,2021-01-20
+3944,77272,Wrong item,2020-07-03
+3945,20928,Damaged,2020-05-09
+3946,61665,Damaged,2021-06-01
+3947,26200,Damaged,2022-08-05
+3948,91559,Wrong item,2021-12-21
+3949,41659,Wrong item,2023-08-07
+3950,80365,Wrong item,2021-03-19
+3951,12122,Damaged,2023-06-17
+3952,94362,Damaged,2085-01-16
+3953,25248,Wrong item,2023-03-03
+3954,21305,Damaged,2022-04-02
+3955,10173,Damaged,2023-07-14
+3956,25895,Damaged,2021-03-21
+3957,40867,Customer changed mind,2021-01-02
+3958,24600,Wrong item,2068-05-08
+3959,45262,Wrong item,2021-10-09
+3960,72229,Damaged,2023-06-19
+3961,92488,Wrong item,2021-03-10
+3962,52009,Wrong item,2020-08-03
+3963,82290,Wrong item,2020-01-08
+3964,24463,Customer changed mind,2023-05-27
+3965,71532,Customer changed mind,2022-08-06
+3966,449,Damaged,2022-01-09
+3967,86332,Wrong item,2023-01-06
+3968,96364,Customer changed mind,2021-07-16
+3969,20507,Wrong item,2021-06-13
+3970,7892,Wrong item,2023-11-07
+3971,94567,Customer changed mind,2023-06-07
+3972,81820,Damaged,2023-07-07
+3973,84306,Customer changed mind,2021-12-05
+3974,5350,Damaged,2034-02-25
+3975,84221,Wrong item,2022-09-10
+3976,59796,Customer changed mind,2021-06-20
+3977,23654,Damaged,2020-11-06
+3978,16795,Damaged,2033-05-07
+3979,54247,Customer changed mind,2020-07-28
+3980,63201,Damaged,2020-06-30
+3981,68851,Customer changed mind,2023-05-22
+3982,92376,Customer changed mind,2023-11-08
+3983,50067,Wrong item,2023-03-11
+3984,81813,Wrong item,2020-11-18
+3985,28777,Damaged,2022-09-06
+3986,27477,Wrong item,2021-07-21
+3987,24974,Damaged,2020-04-12
+3988,16197,Damaged,2020-01-03
+3989,53217,Customer changed mind,2021-12-24
+3990,11951,Wrong item,2021-07-06
+3991,33909,Customer changed mind,2022-01-31
+3992,18064,Wrong item,2022-01-05
+3993,9834,Customer changed mind,2020-07-06
+3994,40418,Damaged,2021-03-06
+3995,28446,Damaged,2100-04-16
+3996,78957,Wrong item,2023-10-22
+3997,51962,Wrong item,2020-09-06
+3998,65977,Damaged,2023-05-03
+3999,4535,Customer changed mind,2023-02-12
+4000,72550,Damaged,2094-03-24
+4001,85858,Customer changed mind,2023-09-16
+4002,84598,Damaged,2023-12-19
+4003,32008,Damaged,2021-01-20
+4004,52938,Damaged,2099-10-05
+4005,73666,Customer changed mind,2021-08-08
+4006,2338,Customer changed mind,2021-04-23
+4007,58167,Wrong item,2020-11-12
+4008,94819,Damaged,2023-06-04
+4009,10817,Customer changed mind,2021-09-28
+4010,41721,Wrong item,2023-06-28
+4011,57610,Customer changed mind,2023-10-27
+4012,63125,Customer changed mind,2023-12-14
+4013,83155,Wrong item,2020-06-07
+4014,13211,Damaged,2020-10-28
+4015,87952,Damaged,2022-12-03
+4016,69634,Customer changed mind,2023-04-30
+4017,79921,Damaged,2020-10-03
+4018,25092,Customer changed mind,2087-02-25
+4019,46018,Customer changed mind,2022-11-27
+4020,35517,Customer changed mind,2031-06-24
+4021,31023,Wrong item,2023-01-27
+4022,53322,Wrong item,2022-04-27
+4023,84426,Damaged,2021-05-04
+4024,57557,Damaged,2023-10-13
+4025,99358,Wrong item,2077-02-10
+4026,7340,Wrong item,2075-00-04
+4027,26721,Damaged,2021-02-08
+4028,7942,Wrong item,2020-12-06
+4029,26187,Damaged,2020-09-15
+4030,42706,Wrong item,2020-07-15
+4031,55511,Customer changed mind,2022-09-24
+4032,30747,Wrong item,2023-07-17
+4033,38998,Customer changed mind,2022-04-06
+4034,88325,Customer changed mind,2022-11-12
+4035,96022,Damaged,2020-10-08
+4036,17812,Wrong item,2021-01-27
+4037,39542,Damaged,2022-10-28
+4038,26848,Wrong item,2020-08-24
+4039,76814,Damaged,2022-07-12
+4040,60620,Customer changed mind,2023-12-10
+4041,10549,Customer changed mind,2021-11-08
+4042,27154,Wrong item,2023-06-27
+4043,14653,Damaged,2022-05-12
+4044,78456,Wrong item,2023-06-08
+4045,17186,Wrong item,2021-01-16
+4046,80452,Wrong item,2021-02-26
+4047,2745,Customer changed mind,2023-10-15
+4048,62927,Damaged,2022-07-07
+4049,2674,Wrong item,2020-01-23
+4050,85859,Customer changed mind,2020-01-11
+4051,89499,Wrong item,2020-08-13
+4052,60688,Wrong item,2065-00-11
+4053,46347,Damaged,2020-09-09
+4054,71342,Customer changed mind,2022-07-23
+4055,88519,Damaged,2023-10-17
+4056,49164,Damaged,2020-05-26
+4057,43370,Damaged,2020-04-20
+4058,48137,Customer changed mind,2021-12-06
+4059,74848,Customer changed mind,2023-06-16
+4060,12857,Damaged,2020-10-15
+4061,64640,Customer changed mind,2061-00-06
+4062,45882,Damaged,2021-11-28
+4063,74564,Wrong item,2021-02-24
+4064,87150,Damaged,2040-01-05
+4065,40371,Customer changed mind,2021-12-08
+4066,86489,Damaged,2023-07-18
+4067,99174,Damaged,2020-10-31
+4068,58937,Damaged,2023-02-06
+4069,47133,Damaged,2023-08-18
+4070,2520,Wrong item,2021-06-24
+4071,70079,Wrong item,2022-06-04
+4072,83292,Customer changed mind,2022-01-14
+4073,82194,Wrong item,2022-05-10
+4074,10307,Damaged,2021-03-09
+4075,8623,Customer changed mind,2020-01-13
+4076,48558,Damaged,2062-01-09
+4077,72325,Wrong item,2020-07-19
+4078,64002,Customer changed mind,2022-04-24
+4079,30650,Customer changed mind,2021-08-04
+4080,30392,Customer changed mind,2022-02-05
+4081,99692,Damaged,2023-06-20
+4082,97700,Damaged,2022-12-05
+4083,90896,Wrong item,2023-12-22
+4084,88250,Customer changed mind,2022-12-23
+4085,19599,Wrong item,2021-07-02
+4086,33431,Damaged,2075-00-27
+4087,22950,Customer changed mind,2023-10-09
+4088,82546,Customer changed mind,2020-07-19
+4089,48341,Customer changed mind,2023-12-27
+4090,270,Wrong item,2021-08-26
+4091,28455,Wrong item,2022-10-13
+4092,50305,Damaged,2021-07-23
+4093,945,Wrong item,2022-02-27
+4094,88273,Wrong item,2020-02-29
+4095,22822,Damaged,2021-09-07
+4096,48229,Damaged,2020-11-09
+4097,1977,Customer changed mind,2020-09-25
+4098,37459,Wrong item,2020-12-21
+4099,78407,Damaged,2021-10-31
+4100,27812,Customer changed mind,2023-12-31
+4101,86255,Wrong item,2021-12-18
+4102,87616,Customer changed mind,2023-09-23
+4103,45590,Damaged,2075-05-26
+4104,13636,Damaged,2022-03-17
+4105,35897,Customer changed mind,2021-06-18
+4106,83799,Damaged,2021-09-29
+4107,55380,Damaged,2023-05-14
+4108,54320,Damaged,2021-09-09
+4109,6866,Wrong item,2022-05-16
+4110,78759,Wrong item,2022-02-04
+4111,35289,Wrong item,2022-07-26
+4112,3727,Damaged,2022-04-27
+4113,82844,Damaged,2022-08-11
+4114,18531,Wrong item,2023-03-06
+4115,29386,Damaged,2021-01-03
+4116,8338,Damaged,2022-10-31
+4117,38858,Damaged,2023-01-14
+4118,81213,Damaged,2021-12-18
+4119,89002,Damaged,2022-10-27
+4120,6614,Wrong item,2021-09-16
+4121,69076,Customer changed mind,2020-02-02
+4122,95543,Wrong item,2021-10-31
+4123,8413,Wrong item,2020-07-17
+4124,10908,Wrong item,2022-07-26
+4125,55804,Customer changed mind,2021-08-31
+4126,71798,Damaged,2022-06-24
+4127,38471,Customer changed mind,2020-02-20
+4128,20812,Wrong item,2022-01-29
+4129,88028,Damaged,2023-09-19
+4130,97712,Customer changed mind,2021-03-21
+4131,31907,Customer changed mind,2022-03-22
+4132,48536,Wrong item,2020-01-02
+4133,90329,Wrong item,2022-10-29
+4134,55556,Wrong item,2077-07-09
+4135,85995,Wrong item,2020-12-21
+4136,78890,Damaged,2021-06-19
+4137,24290,Damaged,2020-02-23
+4138,29976,Wrong item,2021-02-07
+4139,97761,Customer changed mind,2021-05-20
+4140,71466,Wrong item,2023-06-01
+4141,25929,Customer changed mind,2021-09-17
+4142,60643,Customer changed mind,2021-05-19
+4143,221,Customer changed mind,2021-12-08
+4144,56483,Customer changed mind,2022-01-29
+4145,67458,Customer changed mind,2086-07-03
+4146,44247,Damaged,2079-00-26
+4147,99473,Damaged,2020-04-17
+4148,83029,Customer changed mind,2023-08-28
+4149,70749,Wrong item,2023-04-03
+4150,86433,Wrong item,2023-06-04
+4151,80832,Damaged,2022-07-25
+4152,91572,Damaged,2023-11-08
+4153,13083,Damaged,2023-02-25
+4154,17755,Wrong item,2020-03-11
+4155,93385,Customer changed mind,2073-05-18
+4156,62172,Customer changed mind,2020-10-26
+4157,43339,Wrong item,2020-11-12
+4158,68305,Customer changed mind,2021-05-28
+4159,18254,Wrong item,2023-02-13
+4160,63431,Wrong item,2021-03-25
+4161,6624,Damaged,2093-05-14
+4162,39178,Damaged,2022-03-12
+4163,45651,Damaged,2023-02-07
+4164,84988,Damaged,2023-12-22
+4165,50889,Damaged,2021-12-15
+4166,30336,Customer changed mind,2022-08-30
+4167,38593,Customer changed mind,2023-06-15
+4168,70136,Wrong item,2023-04-10
+4169,80147,Damaged,2021-11-07
+4170,92377,Damaged,2020-05-02
+4171,32184,Customer changed mind,2022-03-23
+4172,1969,Damaged,2021-05-09
+4173,38284,Customer changed mind,2021-10-06
+4174,7849,Customer changed mind,2021-04-28
+4175,87746,Customer changed mind,2023-12-20
+4176,23436,Wrong item,2035-07-16
+4177,63483,Damaged,2021-02-16
+4178,12461,Damaged,2020-03-29
+4179,94361,Damaged,2023-06-24
+4180,89427,Customer changed mind,2021-05-22
+4181,24542,Damaged,2020-04-08
+4182,73508,Wrong item,2020-04-26
+4183,81745,Customer changed mind,2020-06-28
+4184,44786,Damaged,2023-11-25
+4185,55538,Damaged,2023-01-02
+4186,16594,Damaged,2020-12-15
+4187,87400,Damaged,2038-09-04
+4188,12422,Damaged,2021-12-08
+4189,17000,Customer changed mind,2020-12-04
+4190,63915,Customer changed mind,2020-03-29
+4191,88381,Customer changed mind,2023-05-03
+4192,32945,Damaged,2020-04-06
+4193,91564,Customer changed mind,2021-09-30
+4194,16204,Wrong item,2023-04-16
+4195,6651,Damaged,2041-08-11
+4196,57942,Customer changed mind,2023-09-15
+4197,23424,Wrong item,2023-07-16
+4198,49712,Damaged,2021-07-23
+4199,11776,Wrong item,2020-10-04
+4200,73872,Wrong item,2021-06-25
+4201,96002,Damaged,2020-04-06
+4202,13675,Customer changed mind,2021-01-23
+4203,36769,Customer changed mind,2022-03-16
+4204,28528,Damaged,2022-02-15
+4205,37414,Wrong item,2020-09-16
+4206,11316,Damaged,2023-03-08
+4207,13716,Customer changed mind,2077-09-25
+4208,14098,Damaged,2023-11-19
+4209,17540,Wrong item,2022-12-15
+4210,76382,Damaged,2023-08-31
+4211,36170,Customer changed mind,2023-05-30
+4212,2774,Wrong item,2020-01-31
+4213,78043,Wrong item,2022-06-11
+4214,80216,Damaged,2089-00-14
+4215,56194,Damaged,2084-03-01
+4216,78098,Damaged,2022-05-27
+4217,40178,Customer changed mind,2021-08-17
+4218,97269,Customer changed mind,2021-06-16
+4219,60355,Customer changed mind,2021-01-01
+4220,58549,Customer changed mind,2072-08-01
+4221,85812,Damaged,2020-11-25
+4222,83852,Damaged,2020-10-30
+4223,88911,Wrong item,2022-04-10
+4224,19202,Damaged,2020-03-26
+4225,97400,Customer changed mind,2021-04-26
+4226,92874,Damaged,2020-07-01
+4227,64157,Wrong item,2020-06-15
+4228,52115,Customer changed mind,2020-05-08
+4229,72650,Damaged,2023-04-23
+4230,4635,Damaged,2062-09-09
+4231,65785,Damaged,2020-09-19
+4232,9947,Customer changed mind,2022-12-22
+4233,57086,Customer changed mind,2020-10-05
+4234,30784,Customer changed mind,2085-04-23
+4235,23128,Wrong item,2023-05-01
+4236,37680,Customer changed mind,2022-08-06
+4237,57773,Wrong item,2054-05-10
+4238,62747,Wrong item,2022-01-13
+4239,16822,Damaged,2021-03-12
+4240,27958,Customer changed mind,2021-04-13
+4241,76099,Customer changed mind,2023-03-20
+4242,5303,Damaged,2020-07-22
+4243,63563,Wrong item,2022-10-15
+4244,11416,Wrong item,2023-04-21
+4245,37685,Wrong item,2022-08-03
+4246,45850,Wrong item,2023-10-18
+4247,56713,Customer changed mind,2022-04-11
+4248,55789,Damaged,2023-12-20
+4249,25227,Damaged,2021-05-01
+4250,30851,Customer changed mind,2089-07-11
+4251,90452,Damaged,2021-07-11
+4252,64665,Customer changed mind,2021-11-01
+4253,75527,Wrong item,2022-07-13
+4254,11786,Damaged,2021-11-27
+4255,29242,Customer changed mind,2022-02-05
+4256,14767,Customer changed mind,2020-04-11
+4257,77647,Damaged,2022-01-11
+4258,43952,Wrong item,2048-07-05
+4259,23784,Damaged,2023-05-09
+4260,18863,Customer changed mind,2021-11-04
+4261,21525,Customer changed mind,2023-12-18
+4262,27881,Damaged,2021-09-25
+4263,67621,Customer changed mind,2022-09-11
+4264,51023,Customer changed mind,2023-02-23
+4265,95014,Wrong item,2020-12-31
+4266,35839,Damaged,2021-12-26
+4267,36094,Damaged,2023-10-20
+4268,19926,Customer changed mind,2022-04-21
+4269,7853,Customer changed mind,2057-08-05
+4270,90284,Customer changed mind,2062-09-07
+4271,53509,Damaged,2022-08-02
+4272,15229,Damaged,2020-12-18
+4273,89283,Customer changed mind,2021-08-13
+4274,84259,Wrong item,2020-08-20
+4275,89661,Customer changed mind,2020-03-19
+4276,98235,Customer changed mind,2021-07-27
+4277,40471,Wrong item,2020-10-09
+4278,18825,Customer changed mind,2023-05-22
+4279,62621,Damaged,2022-04-19
+4280,87965,Damaged,2022-04-05
+4281,53427,Customer changed mind,2021-01-05
+4282,55107,Wrong item,2021-10-27
+4283,59381,Damaged,2021-12-17
+4284,16927,Wrong item,2023-09-11
+4285,80782,Wrong item,2022-02-09
+4286,77302,Wrong item,2023-02-18
+4287,30,Customer changed mind,2020-05-25
+4288,95649,Customer changed mind,2022-03-26
+4289,14281,Damaged,2021-10-12
+4290,38636,Customer changed mind,2022-01-19
+4291,44277,Wrong item,2022-05-25
+4292,29523,Damaged,2020-03-02
+4293,56887,Wrong item,2020-12-10
+4294,69973,Wrong item,2021-05-27
+4295,37346,Wrong item,2021-11-29
+4296,76162,Customer changed mind,2020-09-15
+4297,77254,Damaged,2023-03-12
+4298,36954,Damaged,2021-11-24
+4299,87023,Wrong item,2022-09-26
+4300,64733,Damaged,2022-10-30
+4301,42307,Customer changed mind,2020-03-23
+4302,53089,Wrong item,2022-01-31
+4303,72775,Customer changed mind,2020-03-08
+4304,43069,Wrong item,2021-07-14
+4305,62066,Damaged,2020-11-17
+4306,27674,Damaged,2022-12-31
+4307,35263,Customer changed mind,2020-04-18
+4308,45838,Wrong item,2020-07-04
+4309,90349,Damaged,2020-11-30
+4310,61365,Damaged,2081-08-02
+4311,49603,Customer changed mind,2020-05-15
+4312,49531,Wrong item,2022-05-29
+4313,60553,Wrong item,2021-08-12
+4314,43510,Customer changed mind,2022-11-01
+4315,71808,Wrong item,2069-02-23
+4316,2633,Wrong item,2023-01-02
+4317,10869,Damaged,2021-05-31
+4318,56757,Customer changed mind,2022-04-02
+4319,38251,Damaged,2021-05-09
+4320,67772,Damaged,2022-07-06
+4321,48981,Customer changed mind,2023-05-31
+4322,43845,Wrong item,2022-07-25
+4323,14717,Damaged,2079-08-28
+4324,3077,Wrong item,2022-05-06
+4325,54593,Wrong item,2020-06-21
+4326,87502,Wrong item,2022-06-26
+4327,1436,Wrong item,2065-07-09
+4328,86320,Damaged,2084-03-18
+4329,98463,Wrong item,2022-12-23
+4330,48190,Customer changed mind,2020-03-03
+4331,81033,Wrong item,2086-04-24
+4332,85854,Damaged,2020-01-02
+4333,29136,Wrong item,2023-08-18
+4334,47506,Damaged,2074-09-08
+4335,33621,Customer changed mind,2023-08-08
+4336,15128,Wrong item,2034-08-05
+4337,71954,Customer changed mind,2021-11-03
+4338,16738,Wrong item,2020-09-25
+4339,28204,Damaged,2021-12-16
+4340,3356,Damaged,2023-06-25
+4341,92554,Wrong item,2021-09-04
+4342,77731,Customer changed mind,2022-05-16
+4343,29838,Damaged,2020-02-05
+4344,92388,Wrong item,2020-01-26
+4345,93752,Wrong item,2022-07-16
+4346,70376,Wrong item,2021-03-28
+4347,17807,Damaged,2022-03-26
+4348,82249,Customer changed mind,2022-05-14
+4349,59650,Damaged,2023-09-20
+4350,43460,Customer changed mind,2063-06-22
+4351,48898,Damaged,2021-09-22
+4352,73788,Customer changed mind,2020-02-14
+4353,44952,Damaged,2021-06-05
+4354,33381,Customer changed mind,2020-04-17
+4355,3016,Wrong item,2021-05-13
+4356,71234,Damaged,2020-03-08
+4357,32297,Wrong item,2020-04-13
+4358,97784,Damaged,2021-04-06
+4359,51549,Damaged,2020-12-12
+4360,60683,Damaged,2022-10-12
+4361,37008,Customer changed mind,2022-01-29
+4362,60356,Wrong item,2021-02-15
+4363,22176,Customer changed mind,2020-11-15
+4364,53711,Customer changed mind,2023-11-10
+4365,96559,Customer changed mind,2023-07-20
+4366,60442,Wrong item,2022-01-08
+4367,8590,Wrong item,2021-08-09
+4368,13496,Wrong item,2022-02-24
+4369,80825,Customer changed mind,2039-10-06
+4370,51606,Wrong item,2020-01-11
+4371,1522,Damaged,2022-03-29
+4372,91083,Wrong item,2022-02-04
+4373,18105,Wrong item,2022-05-17
+4374,68946,Damaged,2021-04-01
+4375,48326,Wrong item,2021-01-19
+4376,57714,Customer changed mind,2022-08-29
+4377,71242,Wrong item,2023-06-22
+4378,69666,Customer changed mind,2020-11-11
+4379,27575,Wrong item,2021-12-09
+4380,86036,Wrong item,2023-11-10
+4381,34383,Customer changed mind,2021-10-15
+4382,44844,Damaged,2075-05-04
+4383,24519,Wrong item,2023-06-10
+4384,45241,Damaged,2021-12-19
+4385,67040,Customer changed mind,2037-00-22
+4386,52490,Customer changed mind,2023-06-18
+4387,48586,Customer changed mind,2067-06-07
+4388,49265,Wrong item,2021-03-10
+4389,68403,Wrong item,2023-02-05
+4390,59805,Customer changed mind,2022-11-24
+4391,51383,Damaged,2022-05-19
+4392,83268,Customer changed mind,2020-04-27
+4393,46294,Wrong item,2020-11-02
+4394,93098,Customer changed mind,2022-06-21
+4395,17868,Wrong item,2023-09-03
+4396,5659,Damaged,2022-05-10
+4397,22939,Customer changed mind,2020-09-28
+4398,73540,Wrong item,2022-06-05
+4399,12405,Damaged,2022-09-05
+4400,61692,Wrong item,2021-08-16
+4401,33804,Wrong item,2023-08-09
+4402,56942,Wrong item,2023-03-09
+4403,24236,Wrong item,2078-10-07
+4404,28246,Wrong item,2022-05-27
+4405,55221,Damaged,2022-02-25
+4406,34462,Wrong item,2021-06-02
+4407,40070,Damaged,2023-01-08
+4408,14932,Customer changed mind,2020-09-10
+4409,84138,Customer changed mind,2021-02-07
+4410,10578,Customer changed mind,2021-06-03
+4411,69695,Damaged,2020-12-19
+4412,79595,Damaged,2022-02-04
+4413,384,Damaged,2021-12-09
+4414,18381,Wrong item,2020-08-17
+4415,59427,Wrong item,2020-03-15
+4416,61533,Wrong item,2020-04-24
+4417,65135,Damaged,2020-10-27
+4418,98740,Customer changed mind,2022-03-20
+4419,22689,Customer changed mind,2023-11-22
+4420,25942,Damaged,2021-01-07
+4421,60207,Wrong item,2023-01-13
+4422,1374,Customer changed mind,2022-07-19
+4423,39913,Damaged,2023-01-17
+4424,48364,Customer changed mind,2020-06-14
+4425,57917,Damaged,2022-05-13
+4426,18404,Wrong item,2022-12-18
+4427,84250,Damaged,2022-04-12
+4428,73683,Wrong item,2023-04-01
+4429,24084,Damaged,2020-01-08
+4430,42857,Wrong item,2020-05-27
+4431,72830,Wrong item,2022-05-16
+4432,16346,Damaged,2022-10-16
+4433,24153,Damaged,2023-12-08
+4434,89812,Customer changed mind,2057-05-04
+4435,66970,Damaged,2023-11-22
+4436,77617,Customer changed mind,2021-07-25
+4437,56686,Damaged,2022-08-25
+4438,4408,Wrong item,2020-06-04
+4439,68079,Customer changed mind,2022-11-06
+4440,37231,Damaged,2022-02-24
+4441,71194,Damaged,2020-09-16
+4442,79907,Wrong item,2023-02-20
+4443,29391,Damaged,2021-01-05
+4444,51336,Wrong item,2022-07-12
+4445,43586,Wrong item,2023-07-21
+4446,77102,Wrong item,2023-04-23
+4447,85015,Wrong item,2020-11-11
+4448,87203,Wrong item,2022-03-01
+4449,48695,Wrong item,2023-01-30
+4450,73535,Wrong item,2023-02-27
+4451,30530,Damaged,2022-09-09
+4452,22178,Wrong item,2020-09-15
+4453,82706,Wrong item,2021-12-18
+4454,35810,Damaged,2020-01-11
+4455,97602,Damaged,2021-04-11
+4456,98443,Damaged,2022-04-02
+4457,76432,Customer changed mind,2022-12-30
+4458,95451,Customer changed mind,2056-08-17
+4459,54799,Damaged,2023-06-25
+4460,93829,Damaged,2039-07-17
+4461,67015,Customer changed mind,2021-05-24
+4462,72002,Damaged,2023-05-16
+4463,33078,Wrong item,2020-10-29
+4464,1104,Customer changed mind,2020-08-11
+4465,33178,Customer changed mind,2022-03-29
+4466,28399,Wrong item,2020-05-03
+4467,68638,Damaged,2085-10-08
+4468,45212,Wrong item,2023-03-04
+4469,2258,Damaged,2021-11-01
+4470,26338,Customer changed mind,2020-08-20
+4471,53016,Customer changed mind,2021-07-16
+4472,45394,Wrong item,2021-04-27
+4473,85856,Customer changed mind,2022-07-24
+4474,46934,Customer changed mind,2023-02-04
+4475,11876,Customer changed mind,2021-01-17
+4476,82406,Wrong item,2022-11-02
+4477,25330,Wrong item,2023-08-09
+4478,15556,Customer changed mind,2021-01-28
+4479,34187,Customer changed mind,2022-06-26
+4480,64297,Damaged,2036-00-25
+4481,39798,Wrong item,2023-09-05
+4482,60808,Customer changed mind,2023-07-18
+4483,937,Customer changed mind,2023-11-02
+4484,60674,Customer changed mind,2023-11-15
+4485,80885,Wrong item,2022-09-28
+4486,41511,Customer changed mind,2023-01-16
+4487,61466,Customer changed mind,2022-11-14
+4488,5073,Damaged,2021-12-10
+4489,7747,Wrong item,2022-09-28
+4490,2659,Wrong item,2022-06-22
+4491,79336,Customer changed mind,2022-01-25
+4492,22611,Customer changed mind,2020-12-31
+4493,84716,Wrong item,2023-11-14
+4494,94973,Customer changed mind,2064-04-22
+4495,59220,Damaged,2084-07-24
+4496,35560,Wrong item,2023-11-17
+4497,74351,Wrong item,2020-05-02
+4498,55193,Damaged,2021-08-23
+4499,32543,Wrong item,2022-04-15
+4500,56584,Customer changed mind,2021-03-05
+4501,62252,Damaged,2021-03-05
+4502,49556,Wrong item,2021-09-03
+4503,27637,Damaged,2022-09-29
+4504,87434,Damaged,2021-05-01
+4505,47106,Damaged,2022-07-14
+4506,9362,Customer changed mind,2020-07-16
+4507,49961,Customer changed mind,2020-07-12
+4508,65417,Customer changed mind,2022-05-30
+4509,4184,Damaged,2022-11-21
+4510,39268,Customer changed mind,2021-08-25
+4511,83805,Damaged,2021-05-23
+4512,10729,Wrong item,2020-01-11
+4513,44872,Customer changed mind,2023-07-18
+4514,6661,Customer changed mind,2022-06-08
+4515,95852,Wrong item,2022-02-14
+4516,98343,Damaged,2022-05-23
+4517,4600,Customer changed mind,2020-06-06
+4518,94282,Wrong item,2022-01-29
+4519,58294,Damaged,2023-06-04
+4520,86550,Wrong item,2021-08-30
+4521,66600,Customer changed mind,2020-03-02
+4522,92039,Wrong item,2022-04-19
+4523,3731,Customer changed mind,2022-03-01
+4524,2951,Wrong item,2020-08-28
+4525,23412,Wrong item,2021-01-06
+4526,76929,Damaged,2023-08-22
+4527,39434,Customer changed mind,2022-02-06
+4528,17690,Wrong item,2022-09-23
+4529,10637,Customer changed mind,2020-12-01
+4530,90657,Wrong item,2020-03-16
+4531,52989,Customer changed mind,2022-02-26
+4532,84488,Wrong item,2021-05-11
+4533,81772,Wrong item,2021-04-22
+4534,255,Damaged,2023-12-06
+4535,78546,Damaged,2022-09-22
+4536,16011,Customer changed mind,2022-05-27
+4537,96099,Damaged,2020-06-13
+4538,59972,Wrong item,2020-07-25
+4539,38454,Wrong item,2022-11-12
+4540,23100,Customer changed mind,2020-02-06
+4541,45061,Damaged,2020-06-14
+4542,32138,Wrong item,2023-04-11
+4543,80037,Damaged,2023-02-07
+4544,91700,Wrong item,2023-06-22
+4545,20919,Wrong item,2020-09-11
+4546,5550,Damaged,2062-04-13
+4547,76035,Wrong item,2021-06-17
+4548,6175,Wrong item,2023-06-10
+4549,92440,Customer changed mind,2023-10-25
+4550,50665,Damaged,2021-07-30
+4551,41494,Customer changed mind,2023-12-06
+4552,36044,Customer changed mind,2031-01-07
+4553,15653,Damaged,2023-10-08
+4554,29717,Customer changed mind,2020-12-20
+4555,76539,Customer changed mind,2020-04-15
+4556,41365,Customer changed mind,2023-02-25
+4557,63563,Wrong item,2022-12-30
+4558,17538,Wrong item,2020-05-26
+4559,89843,Customer changed mind,2022-02-28
+4560,56906,Wrong item,2020-02-06
+4561,12978,Customer changed mind,2023-09-04
+4562,47756,Wrong item,2070-05-12
+4563,94997,Damaged,2020-08-12
+4564,15530,Damaged,2021-08-08
+4565,65989,Wrong item,2021-12-11
+4566,59492,Damaged,2020-04-20
+4567,47584,Customer changed mind,2022-10-07
+4568,44930,Customer changed mind,2023-01-21
+4569,88650,Damaged,2023-07-07
+4570,78277,Customer changed mind,2020-01-08
+4571,59038,Wrong item,2020-06-24
+4572,93443,Damaged,2023-01-13
+4573,68069,Damaged,2023-02-02
+4574,35369,Customer changed mind,2023-04-13
+4575,90177,Customer changed mind,2020-01-05
+4576,67904,Damaged,2020-03-20
+4577,66536,Customer changed mind,2023-06-12
+4578,77478,Wrong item,2021-07-28
+4579,71223,Customer changed mind,2023-08-24
+4580,16631,Customer changed mind,2021-03-23
+4581,71497,Wrong item,2020-07-05
+4582,61596,Damaged,2023-06-17
+4583,40848,Wrong item,2021-11-23
+4584,63572,Customer changed mind,2020-11-01
+4585,86170,Damaged,2021-03-17
+4586,49576,Wrong item,2094-03-07
+4587,26043,Wrong item,2020-10-18
+4588,86670,Wrong item,2021-07-29
+4589,51178,Wrong item,2020-10-05
+4590,82097,Damaged,2020-06-22
+4591,78217,Wrong item,2023-07-12
+4592,49867,Wrong item,2022-06-22
+4593,89401,Damaged,2020-08-01
+4594,34332,Wrong item,2020-11-01
+4595,72342,Customer changed mind,2021-06-19
+4596,67703,Wrong item,2038-04-20
+4597,91254,Wrong item,2020-10-19
+4598,82701,Customer changed mind,2022-06-04
+4599,39119,Customer changed mind,2020-12-04
+4600,46350,Damaged,2020-03-14
+4601,92773,Damaged,2050-07-24
+4602,37058,Damaged,2020-05-20
+4603,89326,Wrong item,2021-05-25
+4604,35674,Customer changed mind,2050-10-12
+4605,17805,Wrong item,2058-01-16
+4606,84427,Wrong item,2021-06-19
+4607,4479,Damaged,2050-03-17
+4608,55174,Damaged,2021-07-06
+4609,83267,Damaged,2023-06-24
+4610,81667,Customer changed mind,2022-08-31
+4611,60592,Wrong item,2022-05-13
+4612,93890,Customer changed mind,2023-05-22
+4613,2296,Customer changed mind,2038-04-01
+4614,61082,Wrong item,2021-06-15
+4615,54669,Wrong item,2021-01-29
+4616,89050,Damaged,2023-01-15
+4617,12205,Customer changed mind,2020-12-01
+4618,41278,Damaged,2023-06-10
+4619,18285,Damaged,2021-06-09
+4620,43035,Damaged,2020-07-29
+4621,63955,Wrong item,2021-02-25
+4622,36782,Damaged,2068-05-24
+4623,63512,Damaged,2022-11-02
+4624,92879,Customer changed mind,2022-05-28
+4625,99523,Wrong item,2043-00-05
+4626,24340,Customer changed mind,2023-09-30
+4627,96331,Wrong item,2021-03-31
+4628,72228,Wrong item,2078-04-02
+4629,33658,Damaged,2023-07-29
+4630,9390,Damaged,2023-02-27
+4631,23202,Wrong item,2020-03-20
+4632,17068,Damaged,2023-02-25
+4633,92104,Wrong item,2020-01-29
+4634,94052,Damaged,2021-12-08
+4635,17492,Customer changed mind,2020-01-18
+4636,71136,Wrong item,2020-06-26
+4637,91497,Customer changed mind,2021-07-25
+4638,954,Wrong item,2067-01-16
+4639,63324,Wrong item,2023-03-26
+4640,68088,Damaged,2022-06-21
+4641,97162,Wrong item,2023-09-14
+4642,61982,Wrong item,2020-11-22
+4643,48655,Damaged,2020-03-04
+4644,42588,Customer changed mind,2022-08-03
+4645,52690,Damaged,2081-10-21
+4646,31475,Damaged,2021-04-22
+4647,18140,Damaged,2022-04-13
+4648,64388,Wrong item,2021-11-06
+4649,44715,Wrong item,2022-11-06
+4650,64709,Customer changed mind,2021-03-31
+4651,6361,Damaged,2022-02-28
+4652,25846,Customer changed mind,2020-05-16
+4653,39832,Wrong item,2043-06-04
+4654,69212,Damaged,2021-02-20
+4655,68707,Customer changed mind,2022-05-10
+4656,599,Customer changed mind,2020-09-15
+4657,29374,Customer changed mind,2023-01-23
+4658,29279,Damaged,2021-06-10
+4659,63453,Customer changed mind,2022-06-09
+4660,23925,Damaged,2020-04-11
+4661,78050,Customer changed mind,2020-05-02
+4662,68829,Damaged,2020-07-19
+4663,4739,Customer changed mind,2020-04-01
+4664,80985,Customer changed mind,2023-03-15
+4665,17184,Damaged,2052-01-05
+4666,81308,Customer changed mind,2020-08-04
+4667,75849,Damaged,2020-08-14
+4668,25027,Damaged,2020-08-20
+4669,6171,Customer changed mind,2022-06-02
+4670,64214,Damaged,2020-12-12
+4671,12549,Damaged,2021-01-07
+4672,23067,Damaged,2021-09-30
+4673,93576,Wrong item,2020-05-13
+4674,56917,Wrong item,2022-12-21
+4675,14764,Damaged,2021-03-19
+4676,47747,Damaged,2020-02-15
+4677,39632,Customer changed mind,2020-03-18
+4678,18764,Damaged,2021-11-16
+4679,23261,Customer changed mind,2022-04-26
+4680,35927,Customer changed mind,2020-04-30
+4681,94280,Damaged,2022-01-06
+4682,2868,Customer changed mind,2023-06-09
+4683,95701,Wrong item,2021-02-04
+4684,99004,Damaged,2022-06-21
+4685,767,Damaged,2022-07-03
+4686,1835,Customer changed mind,2020-06-18
+4687,32655,Wrong item,2021-11-19
+4688,48372,Damaged,2023-01-27
+4689,74426,Damaged,2023-10-17
+4690,6295,Customer changed mind,2021-04-09
+4691,82844,Wrong item,2023-01-18
+4692,41961,Customer changed mind,2021-03-31
+4693,88394,Customer changed mind,2020-03-12
+4694,51887,Wrong item,2022-03-02
+4695,44592,Customer changed mind,2020-05-14
+4696,22876,Damaged,2020-04-13
+4697,74530,Customer changed mind,2023-06-21
+4698,2632,Damaged,2021-08-19
+4699,83239,Customer changed mind,2022-08-24
+4700,46723,Damaged,2021-04-28
+4701,47990,Wrong item,2021-03-01
+4702,47633,Customer changed mind,2020-03-14
+4703,82720,Customer changed mind,2023-01-26
+4704,55990,Wrong item,2021-06-23
+4705,1341,Customer changed mind,2033-05-25
+4706,76571,Wrong item,2022-02-20
+4707,99922,Damaged,2021-11-28
+4708,98495,Customer changed mind,2020-01-11
+4709,15696,Wrong item,2022-10-15
+4710,66608,Damaged,2021-12-22
+4711,17111,Wrong item,2023-08-27
+4712,84263,Damaged,2041-01-22
+4713,34191,Damaged,2022-08-14
+4714,11100,Customer changed mind,2020-07-05
+4715,29706,Customer changed mind,2022-04-10
+4716,93107,Customer changed mind,2021-07-17
+4717,14255,Damaged,2022-04-08
+4718,98110,Wrong item,2022-09-06
+4719,54798,Wrong item,2023-02-10
+4720,52020,Damaged,2079-05-11
+4721,56702,Damaged,2056-05-03
+4722,72859,Customer changed mind,2022-09-22
+4723,96995,Wrong item,2022-10-06
+4724,22370,Damaged,2022-01-10
+4725,78306,Damaged,2020-02-27
+4726,95710,Wrong item,2054-00-15
+4727,23769,Wrong item,2023-04-14
+4728,3961,Wrong item,2088-07-25
+4729,21233,Damaged,2020-11-18
+4730,31539,Damaged,2020-01-24
+4731,34922,Damaged,2020-02-24
+4732,21879,Customer changed mind,2021-08-31
+4733,59602,Wrong item,2021-05-23
+4734,94040,Customer changed mind,2021-01-26
+4735,455,Wrong item,2023-06-24
+4736,96011,Customer changed mind,2023-07-04
+4737,66551,Damaged,2023-11-25
+4738,49524,Customer changed mind,2092-00-09
+4739,97475,Wrong item,2020-12-09
+4740,40958,Wrong item,2021-03-01
+4741,89032,Wrong item,2022-02-07
+4742,73665,Damaged,2079-04-04
+4743,67373,Wrong item,2020-03-23
+4744,68915,Customer changed mind,2020-08-10
+4745,11065,Damaged,2020-03-05
+4746,73949,Damaged,2021-08-29
+4747,55476,Customer changed mind,2022-03-30
+4748,41391,Customer changed mind,2032-07-01
+4749,52195,Damaged,2022-04-17
+4750,9962,Customer changed mind,2021-03-20
+4751,50665,Customer changed mind,2021-01-26
+4752,11401,Damaged,2022-01-21
+4753,77034,Damaged,2022-05-29
+4754,32145,Customer changed mind,2021-02-24
+4755,34156,Wrong item,2022-06-15
+4756,8646,Customer changed mind,2023-05-29
+4757,14995,Wrong item,2021-09-18
+4758,74374,Wrong item,2020-08-16
+4759,72603,Damaged,2022-04-10
+4760,2881,Wrong item,2022-10-09
+4761,31706,Customer changed mind,2021-03-13
+4762,59301,Customer changed mind,2022-09-14
+4763,30982,Damaged,2023-06-29
+4764,21896,Wrong item,2022-07-01
+4765,26456,Customer changed mind,2023-05-21
+4766,34620,Damaged,2021-01-21
+4767,49385,Customer changed mind,2020-06-21
+4768,82664,Customer changed mind,2022-12-10
+4769,42539,Wrong item,2020-12-04
+4770,87586,Wrong item,2023-10-14
+4771,22605,Customer changed mind,2023-04-01
+4772,76707,Wrong item,2023-01-22
+4773,72859,Customer changed mind,2023-06-30
+4774,83570,Damaged,2023-04-11
+4775,94681,Customer changed mind,2021-02-18
+4776,73454,Damaged,2020-07-26
+4777,50694,Customer changed mind,2020-06-06
+4778,99035,Wrong item,2023-02-15
+4779,35093,Wrong item,2021-07-05
+4780,24853,Damaged,2023-02-11
+4781,79860,Damaged,2022-08-04
+4782,13547,Wrong item,2022-07-11
+4783,80606,Damaged,2021-05-30
+4784,74037,Customer changed mind,2020-07-15
+4785,48214,Damaged,2083-05-11
+4786,92184,Damaged,2021-09-24
+4787,83896,Damaged,2023-08-23
+4788,21173,Damaged,2022-12-13
+4789,312,Wrong item,2023-06-24
+4790,44483,Wrong item,2020-01-10
+4791,49721,Damaged,2043-01-06
+4792,85508,Customer changed mind,2022-08-09
+4793,20730,Wrong item,2023-09-16
+4794,8100,Customer changed mind,2020-04-26
+4795,48039,Customer changed mind,2021-03-15
+4796,52639,Customer changed mind,2069-03-24
+4797,11435,Wrong item,2020-04-19
+4798,51551,Damaged,2023-04-25
+4799,95012,Wrong item,2055-09-01
+4800,52245,Customer changed mind,2081-10-16
+4801,32319,Wrong item,2022-12-06
+4802,60176,Wrong item,2022-08-22
+4803,805,Wrong item,2021-11-17
+4804,78164,Wrong item,2023-07-30
+4805,55135,Wrong item,2022-09-04
+4806,50783,Wrong item,2022-10-27
+4807,20807,Damaged,2023-10-03
+4808,4643,Wrong item,2020-04-07
+4809,18494,Wrong item,2020-03-15
+4810,50232,Customer changed mind,2023-10-13
+4811,16383,Damaged,2020-05-14
+4812,73221,Damaged,2023-09-24
+4813,72672,Customer changed mind,2020-05-10
+4814,98489,Wrong item,2023-02-05
+4815,31128,Damaged,2022-04-16
+4816,31963,Customer changed mind,2020-07-28
+4817,88959,Wrong item,2023-06-30
+4818,90959,Customer changed mind,2044-00-20
+4819,37685,Wrong item,2022-05-05
+4820,61737,Wrong item,2021-06-19
+4821,37302,Damaged,2022-03-07
+4822,89457,Wrong item,2023-06-18
+4823,16894,Customer changed mind,2021-08-18
+4824,31004,Wrong item,2044-02-14
+4825,43939,Damaged,2021-02-10
+4826,42720,Wrong item,2021-12-06
+4827,62765,Wrong item,2020-10-13
+4828,40072,Damaged,2023-11-25
+4829,84598,Customer changed mind,2023-07-06
+4830,79196,Wrong item,2044-09-17
+4831,40658,Damaged,2021-09-15
+4832,16502,Damaged,2020-06-07
+4833,92506,Damaged,2022-12-29
+4834,76771,Customer changed mind,2021-09-16
+4835,25906,Damaged,2021-07-20
+4836,81290,Customer changed mind,2020-10-21
+4837,91669,Customer changed mind,2020-10-23
+4838,89160,Customer changed mind,2021-01-01
+4839,19683,Damaged,2022-08-28
+4840,26401,Damaged,2020-11-23
+4841,66122,Damaged,2020-10-06
+4842,73745,Customer changed mind,2023-06-08
+4843,89426,Damaged,2069-00-02
+4844,85561,Wrong item,2069-06-05
+4845,66448,Wrong item,2088-10-11
+4846,46788,Damaged,2020-08-02
+4847,24717,Customer changed mind,2020-01-25
+4848,14088,Customer changed mind,2021-05-04
+4849,29750,Damaged,2021-07-14
+4850,59669,Damaged,2051-02-15
+4851,54403,Customer changed mind,2020-12-01
+4852,37429,Wrong item,2021-08-28
+4853,84203,Customer changed mind,2023-08-17
+4854,73107,Wrong item,2021-06-01
+4855,25668,Wrong item,2021-09-03
+4856,80834,Customer changed mind,2020-03-21
+4857,16491,Customer changed mind,2022-08-21
+4858,22098,Damaged,2044-03-20
+4859,7665,Damaged,2021-07-21
+4860,80596,Damaged,2022-05-22
+4861,22422,Damaged,2020-02-10
+4862,26009,Damaged,2020-07-26
+4863,41307,Customer changed mind,2023-05-14
+4864,75516,Wrong item,2022-05-04
+4865,15053,Customer changed mind,2020-01-22
+4866,31199,Wrong item,2023-02-05
+4867,48203,Customer changed mind,2022-06-19
+4868,69234,Damaged,2022-08-19
+4869,5414,Damaged,2020-03-06
+4870,62792,Damaged,2022-09-25
+4871,163,Customer changed mind,2021-02-28
+4872,17472,Customer changed mind,2023-11-08
+4873,90057,Damaged,2021-08-21
+4874,71053,Damaged,2023-11-14
+4875,7938,Damaged,2022-09-10
+4876,7137,Damaged,2020-12-03
+4877,11793,Damaged,2023-11-11
+4878,74719,Wrong item,2023-12-25
+4879,12552,Damaged,2023-07-28
+4880,71838,Customer changed mind,2022-06-30
+4881,29927,Wrong item,2020-10-01
+4882,58759,Customer changed mind,2022-03-17
+4883,6228,Wrong item,2023-02-21
+4884,92870,Customer changed mind,2022-01-04
+4885,48118,Customer changed mind,2023-09-10
+4886,75674,Damaged,2023-09-21
+4887,32443,Wrong item,2023-05-23
+4888,59126,Customer changed mind,2020-01-16
+4889,88932,Wrong item,2022-11-22
+4890,70145,Wrong item,2021-09-11
+4891,24967,Damaged,2021-09-18
+4892,21542,Damaged,2021-06-16
+4893,95370,Damaged,2022-09-13
+4894,23779,Wrong item,2071-02-21
+4895,8902,Damaged,2023-01-27
+4896,84117,Damaged,2022-03-12
+4897,46655,Wrong item,2021-06-30
+4898,21336,Wrong item,2020-05-26
+4899,55716,Customer changed mind,2020-04-24
+4900,45269,Wrong item,2022-12-03
+4901,55442,Damaged,2022-03-14
+4902,49551,Wrong item,2020-04-14
+4903,85931,Wrong item,2023-08-28
+4904,74693,Damaged,2023-02-04
+4905,68846,Damaged,2051-10-02
+4906,95937,Wrong item,2064-10-12
+4907,87290,Damaged,2020-08-18
+4908,2383,Customer changed mind,2022-08-31
+4909,59678,Wrong item,2020-03-20
+4910,61240,Damaged,2021-07-30
+4911,28466,Customer changed mind,2020-02-23
+4912,7614,Damaged,2020-09-22
+4913,334,Wrong item,2023-03-16
+4914,14201,Customer changed mind,2022-12-29
+4915,23522,Damaged,2021-05-07
+4916,52795,Customer changed mind,2021-11-23
+4917,91270,Customer changed mind,2020-08-01
+4918,84853,Wrong item,2022-09-17
+4919,80377,Customer changed mind,2022-05-10
+4920,98476,Damaged,2020-02-27
+4921,53891,Wrong item,2021-02-21
+4922,36622,Customer changed mind,2021-08-07
+4923,67642,Damaged,2023-09-08
+4924,46903,Customer changed mind,2022-03-29
+4925,13645,Wrong item,2022-06-14
+4926,21202,Damaged,2020-10-02
+4927,44705,Customer changed mind,2020-12-17
+4928,90187,Damaged,2020-09-08
+4929,28613,Customer changed mind,2082-09-06
+4930,78641,Damaged,2020-05-22
+4931,93577,Customer changed mind,2023-12-03
+4932,21591,Damaged,2023-03-27
+4933,24571,Wrong item,2021-06-11
+4934,67356,Damaged,2032-09-26
+4935,70101,Wrong item,2022-08-06
+4936,7492,Wrong item,2022-08-01
+4937,51746,Wrong item,2021-09-24
+4938,97503,Damaged,2022-03-14
+4939,97429,Customer changed mind,2067-08-28
+4940,46742,Damaged,2023-04-16
+4941,52107,Customer changed mind,2023-03-03
+4942,57632,Wrong item,2020-04-22
+4943,7951,Customer changed mind,2021-06-25
+4944,16079,Customer changed mind,2020-07-19
+4945,41357,Wrong item,2022-01-23
+4946,55029,Damaged,2021-01-20
+4947,55202,Wrong item,2023-12-03
+4948,47871,Damaged,2080-05-07
+4949,92539,Damaged,2066-08-04
+4950,96079,Customer changed mind,2022-04-26
+4951,91100,Damaged,2021-05-19
+4952,91976,Wrong item,2020-11-12
+4953,18040,Customer changed mind,2020-06-22
+4954,49458,Damaged,2020-05-10
+4955,73030,Wrong item,2021-01-11
+4956,7366,Wrong item,2023-10-22
+4957,56514,Damaged,2021-01-25
+4958,83880,Damaged,2023-04-02
+4959,41835,Customer changed mind,2022-06-18
+4960,64393,Customer changed mind,2021-10-17
+4961,16993,Damaged,2021-06-20
+4962,39462,Damaged,2020-08-26
+4963,40176,Damaged,2021-10-14
+4964,18674,Wrong item,2022-11-08
+4965,38975,Customer changed mind,2023-08-10
+4966,27365,Damaged,2020-01-03
+4967,58060,Damaged,2021-11-27
+4968,49584,Damaged,2020-05-08
+4969,40251,Wrong item,2021-08-30
+4970,69735,Customer changed mind,2022-11-17
+4971,99990,Damaged,2023-03-29
+4972,80777,Damaged,2021-10-13
+4973,43450,Damaged,2022-11-21
+4974,86403,Customer changed mind,2020-08-11
+4975,9786,Wrong item,2023-10-03
+4976,24543,Damaged,2022-08-05
+4977,7862,Damaged,2022-05-13
+4978,42352,Damaged,2023-09-20
+4979,16944,Damaged,2021-05-16
+4980,3041,Wrong item,2022-07-09
+4981,27838,Customer changed mind,2021-12-07
+4982,10966,Damaged,2022-09-09
+4983,70337,Wrong item,2021-08-22
+4984,28,Damaged,2077-06-07
+4985,95065,Customer changed mind,2020-12-21
+4986,32169,Wrong item,2021-06-16
+4987,68795,Customer changed mind,2020-05-02
+4988,3347,Wrong item,2020-10-17
+4989,94516,Wrong item,2023-07-28
+4990,8609,Wrong item,2023-03-04
+4991,25708,Wrong item,2020-03-27
+4992,94480,Customer changed mind,2062-06-20
+4993,48734,Wrong item,2020-06-11
+4994,55913,Wrong item,2092-07-08
+4995,5582,Customer changed mind,2042-09-20
+4996,77413,Damaged,2021-10-27
+4997,82006,Customer changed mind,2022-09-20
+4998,42844,Customer changed mind,2021-03-10
+4999,4153,Damaged,2023-11-12
+5000,4763,Customer changed mind,2021-06-27
