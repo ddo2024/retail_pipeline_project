@@ -64,7 +64,6 @@ Database Name: retail_dw
 Username: postgres
 Password: postgres
 
-
 Build dashboards using tables in the gold layer.
 
 🔍 Testing the Pipeline
