@@ -1,100 +1,166 @@
-PROJECT OVERVIEW
+# 🛒 Retail Analytics Pipeline
 
-This project builds an end-to-end ELT pipeline for retail analytics.
-It ingests raw data from MySQL, transfers it into PostgreSQL, cleans and transforms it with DBT, orchestrates workflows with Airflow, and provides business insights via Metabase
+This project implements an **end-to-end ELT pipeline** for retail data.  
+It covers ingestion, transformation, data quality checks, orchestration, and visualization using **Airflow, dbt, PostgreSQL, MySQL, and Metabase**.
 
+---
 
+## 📑 Project Overview
+- **Source database**: MySQL (raw data)  
+- **Data warehouse**: PostgreSQL (analytics-ready)  
+- **Pipeline orchestration**: Apache Airflow (via Docker)  
+- **Transformations**: dbt (Silver & Golden layer models)  
+- **Visualization**: Metabase (dashboards and KPIs)  
 
-⚙️ Prerequisites
+The pipeline supports **Slowly Changing Dimensions (SCD)**, data quality checks, and is containerized for reproducibility.
 
-Docker & Docker Compose installed
+---
 
-Git installed
+## ⚙️ Setup Instructions
 
-🚀 Setup Instructions
-
-Clone repo
-
-git clone <repo_url>
+### 1. Clone the Repository
+```bash
+git clone https://github.com/<your-username>/retail_pipeline_project.git
 cd retail_pipeline_project
+```
 
+### 2. Environment Variables
+Copy the example file and adjust values:
+```bash
+cp .env.example .env
+```
 
-Start Docker containers
+Edit `.env` for your credentials, ports, and Metabase config.
 
-docker-compose up -d
+### 3. Start Services with Docker
+```bash
+docker compose up -d
+```
 
+This will start:
+- `retail-mysql` → Source database  
+- `retail-postgres` → Data warehouse  
+- `retail-dbt` → dbt transformations  
+- `airflow-webserver`, `airflow-scheduler` → Orchestration  
+- `retail-metabase` → Visualization (http://localhost:3000)
 
-Create schema in MySQL
+---
 
-docker exec -i retail-mysql mysql -uroot -prootpass retail_db < ddl/schema.sql
+## 🗄️ Database Setup
 
+### 1. Create Schema in PostgreSQL
+Use provided DDL to initialize tables:
+```sql
+-- Example
+CREATE TABLE customers (
+    customer_id INT PRIMARY KEY,
+    name VARCHAR(100),
+    email VARCHAR(100),
+    phone VARCHAR(20),
+    loyalty_program_id INT,
+    gender VARCHAR(10),
+    age INT,
+    created_at DATE
+);
+```
 
-Load raw data into MySQL
-Place CSV files in /data and run the loader script (or Airflow task load_csv_to_mysql).
+Full schema is in `DDL.docx`.
 
-Run Airflow DAG
+### 2. Load Raw Data into MySQL
+Data is included in `retail_data.zip` and loaded into MySQL via the Airflow DAG task:
+```python
+load_raw_data = DockerOperator(
+    task_id='load_csv_to_mysql',
+    image='retail_pipeline_project-elt:latest',
+    command='python load_data.py',
+    auto_remove=True
+)
+```
 
-# Access Airflow UI
-open http://localhost:8080
+---
 
+## 📊 Pipeline Flow
 
-Trigger retail_elt_pipeline from the Airflow dashboard.
+### Raw Zone
+- Ingest CSVs → MySQL → PostgreSQL staging (`stg_` tables).  
 
-Run DBT transformations
+### Silver Zone
+- Data cleaning, validation, data quality rules applied.  
 
+### Golden Zone
+- Business-ready tables and aggregated KPIs for dashboards.  
+
+---
+
+## 🚀 How to Run the Pipeline
+
+### 1. Trigger Airflow DAG
+```bash
+docker exec -it <airflow-webserver-container> airflow dags trigger retail_elt_pipeline
+```
+
+### 2. Run dbt Models
+```bash
 docker exec -it retail-dbt dbt run
+```
 
+### 3. Test dbt Models
+```bash
 docker exec -it retail-dbt dbt test
+```
 
-📊 Visualization with Metabase
+### 4. Access Airflow UI
+Open [http://localhost:8080](http://localhost:8080)
 
-Open Metabase
+### 5. Access Metabase
+Open [http://localhost:3000](http://localhost:3000)
 
-open http://localhost:3000
+---
 
+## 📊 Dashboards
 
-Complete the setup wizard.
+Here are the final dashboards created in Metabase to visualize key insights:
 
-Add a new database connection:
+### Business KPIs Overview
+![Business KPIs](dashboards/dashboard_overview.jpeg)
 
-Database Type: PostgreSQL
-Host: retail-postgres
-Port: 5432
-Database Name: retail_dw
-Username: postgres
-Password: postgres
+### Inventory Alerts
+![Inventory Alerts](dashboards/inventory_alerts.jpeg)
 
-Build dashboards using tables in the gold layer.
+### Sales Trends & Product Performance
+![Sales Trends](dashboards/sales_trends.jpeg)  
+![Product Performance](dashboards/product_performance.jpeg)
 
-🔍 Testing the Pipeline
+### Category Performance & Returns
+![Category Returns](dashboards/category_returns.jpeg)
 
-Insert a new record into MySQL:
+### Customer Loyalty
+![Customer Loyalty](dashboards/customer_loyalty.jpeg)
 
-docker exec -it retail-mysql mysql -uroot -prootpass retail_db
+### Inventory Drilldown
+![Inventory Drilldown](dashboards/inventory_drilldown.jpeg)
 
-INSERT INTO sales_transactions (transaction_id, customer_id, store_id, employee_id, transaction_date, total_amount, payment_id)
-VALUES (9999, 1, 1, 1, NOW(), 150.00, 1);
+---
 
+## 💾 Backup & Restore Metabase
 
-Re-run the Airflow DAG.
+### Backup
+```bash
+docker exec -i retail-postgres \
+  pg_dump -U postgres -d metabase_app > backups/metabase_app_$(date +%F).sql
+```
 
-Check transformed results in Postgres (gold tables) and confirm in Metabase dashboards.
+### Restore
+```bash
+cat backups/metabase_app_YYYY-MM-DD.sql | \
+  docker exec -i retail-postgres psql -U postgres -d metabase_app
+```
 
-🛠 Troubleshooting
+---
 
-Airflow UI not loading
+## 📌 Notes
+- Replace `<your-username>` in clone commands with your GitHub username.  
+- Dashboards are included as screenshots for portability.  
+- To expose dashboards online, configure Metabase with a reverse proxy (Caddy/Nginx).  
 
-docker logs retail_pipeline_project-airflow-webserver-1
-
-
-DBT errors
-
-docker exec -it retail-dbt dbt debug
-
-
-Postgres connection refused
-
-lsof -i :5432
-
-
-Kill the process using port 5432 if needed, then restart Docker.
+---
